@@ -1,0 +1,71 @@
+assets:
+  - "NVDA"
+  - "BTC"
+  - "DOGE"
+  - "GLD"
+  - "KO"
+date_start: "2025-02-01"
+date_end: "2025-04-01"
+assets_root: "./data"
+result_dir: "./simulation_results"
+
+agent_type_count:
+  A: 3
+  B: 3
+  C: 3
+  D: 3
+
+llm:
+  api_base: "https://api.nuwaapi.com/v1"
+# https://api.nuwaapi.com
+# https://api.nuwaapi.com/v1
+# https://api.nuwaapi.com/v1/chat/completions
+  api_key: "sk-Da8DCxrgangsjrxQnr7Z5oVjyj0v3r1NJNYPPWnGIcnpIOdz"
+  model: "openai/gpt-5-mini"
+  temperature: 0.5
+  cache: false
+
+execution:
+  parallel_agents: false
+  max_workers: 60
+  debug_llm_io: false
+
+# Trump social data configuration (for ablation experiments)
+trump_social:
+  enabled: false  # true: add Trump data to social_data for all assets; false: do not add (baseline)
+  path: "./data/global/processed_trump.csv"
+
+# Ablation experiment configuration
+ablation:
+  memory_disabled: false  # Ablation 1: set to true to disable memory
+  remove_social_news: false  # Ablation 2: set to true to remove social and news data
+
+# General data masking rules (both case study & ablation can be configured here)
+# Select which rules to enable for this experiment by setting enabled: true/false.
+data_drop_rules:
+  # Case (1)：Drop macro_data for agent D on GLD (2024-10-01 ~ 2024-12-01)
+  - name: "case1_drop_macro_D_GLD"
+    enabled: false
+    agents: ["D"]
+    assets: ["GLD"]
+    drop_modules: ["macro_data"]
+    date_start: "2024-10-01"
+    date_end: "2024-12-01"
+
+  # Case (2)：Drop on_chain_data for agent C & D on BTC & DOGE (2024-10-01 ~ 2024-12-01)
+  - name: "case2_drop_onchain_CD_BTC_DOGE"
+    enabled: true
+    agents: ["D"]
+    assets: ["BTC", "DOGE"]
+    drop_modules: ["on_chain_data"]
+    date_start: "2024-10-01"
+    date_end: "2024-12-01"
+
+  # Case (3)：Drop company_data for agent C & D on NVDA & KO (2025-02-01 ~ 2025-04-01)
+  - name: "case3_drop_company_CD_NVDA_KO"
+    enabled: false
+    agents: ["C", "D"]
+    assets: ["NVDA", "KO"]
+    drop_modules: ["company_data"]
+    date_start: "2025-02-01"
+    date_end: "2025-04-01"

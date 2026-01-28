@@ -1,0 +1,62 @@
+# basic = low access (A/B)，advanced = high access (C/D)
+schemas:
+
+  market_data:
+    basic: ["open", "high", "low", "close", "volume"]
+    advanced: ["vix", "fng"]
+
+  macro_data:
+    # Low access: only see macro "indicator name + value" for a day
+    basic: ["indicator", "value"]
+    # High access: additionally include FOMC / macro statement original text (if available)
+    advanced: ["text"]
+
+  news_data:
+    # Low access: only see sentiment strength
+    basic: ["sentiment"]
+    # High access: additionally see title/body/topic and other text
+    advanced: ["title", "text", "source_name"]
+
+  social_data:
+    # No access level distinction: all agents see same social fields
+    # Includes text, subreddit, post type, title, and interaction metrics
+    basic: ["content", "subreddit", "kind", "title", "score", "num_comments"]
+    advanced: []
+
+  # 5. Company fundamentals: financial report numbers + disclosure/research report text
+  # processed_company_data_earnings.csv: symbol, fiscalDateEnding, reportedDate, reportedEPS, estimatedEPS, surprise, surprisePercentage, date
+  # processed_company_data.csv: date, source, doc_type, title, text_path, asset
+  company_data:
+    # Low access: only core financial report numbers (approximately "quarter/EPS/surprise degree")
+    basic: ["fiscalDateEnding", "reportedEPS", "surprise", "surprisePercentage"]
+    # High access: can also access metadata and paths for 10-K/10-Q/8-K, earnings call and other text
+    advanced: ["doc_type", "title", "text_path"]
+
+  # 6. On-chain: active addresses + fund flows (ETF / CEX flows approximate "whale flows")
+  # processed_on_chain.csv (BTC): date, active_addresses, total_flow_usd, gecko_id
+  on_chain_data:
+    # Low access: basic activity
+    basic: ["active_addresses"]
+    # High access: fund flow intensity (ETF/CEX flows approximate whale flows)
+    advanced: ["total_flow_usd"]
+
+# Asset applicability (company/on-chain)
+applicability:
+  company_assets: ["NVDA", "KO"]
+  onchain_assets: ["BTC", "DOGE"]
+
+# Intelligent truncation configuration (prevent LLM input overflow)
+truncation:
+  # Social data: weighted sampling by score * num_comments
+  social_data:
+    max_rows: 10
+  # News data: stratified sampling by sentiment (take some from Positive/Negative/Neutral each)
+  news_data:
+    max_rows: 10
+    sentiment_distribution:  # Maximum rows per sentiment
+      Positive: 4
+      Negative: 4
+      Neutral: 2
+  # Macro data: text field character limit (keep beginning and end)
+  macro_data:
+    max_text_chars: 3000
