@@ -1,0 +1,1302 @@
+Equity Research
+U.S. Semiconductors & Semiconductor Capital Equipment
+20 November 2024
+NVIDIA Corp.
+Ace-ing the Transition
+
+The modest guide and GM commentary sets the next two quarters in a better spot as the company shifts its focus over to ramping Blackwell.
+
+We think this was the perfect "thread the needle" guide, as the company both appeases investors on Jan and sets up April in a more reasonable spot. The company won't commit to Hopper growth in Jan but are indicating a Blackwell ramp better than the original guide of several billion. The two areas of pushback here are GMs, which start the year off in the "low 70s" before recovering later into the Blackwell ramp, and Networking, where we see a Q/Q decline likely due to some rip and replace H200 before Blackwell leads to upgrades. We think the stock works off of this as the NT is now de-risked and investor focus can now shift back to the upside potential of the greater Blackwell cycle, where we see volumes really stepping up significantly in 2H25.
+
+NVDA: Quarterly and Annual EPS (USD)
+2024 2025 2026 Change y/y
+FY Jan Actual Old New Cons Old New Cons 2025 2026
+Q1 0.11A 0.61A 0.61A 0.61A 0.89E 0.90E 0.89E 455% 48%
+Q2 0.27A 0.68A 0.68A 0.68A 0.97E 1.01E 1.00E 152% 49%
+Q3 0.40A 0.74E 0.81A 0.74E 1.06E 1.15E 1.07E 102% 42%
+Q4 0.52A 0.80E 0.84E 0.82E 1.15E 1.27E 1.17E 62% 51%
+Year 1.30A 2.84E 2.94E 2.86E 4.08E 4.33E 4.23E 126% 47%
+P/E N/A 49.6 33.7
+
+Consensus numbers are from Bloomberg received on 20-Nov-2024; 13:53 GMT
+Source: Barclays Research
+
+Tom O'Malley
+Scott Fessler
+Kyle Bleustein
+
+Barclays | NVIDIA Corp.
+U.S. Semiconductors & Semiconductor Capital Equipment
+NVIDIA Corp. (NVDA) OVERWEIGHT
+
+Income statement ($mn) 2024A 2025E 2026E 2027E CAGR
+Revenue 60,922 129,126 191,319 N/A N/A
+EBITDA (adj) 38,642 87,590 128,004 N/A N/A
+EBIT (adj) 37,134 85,791 126,092 N/A N/A
+Pre-tax income (adj) 37,745 87,284 127,942 N/A N/A
+Net income (adj) 32,312 73,007 106,832 N/A N/A
+EPS (adj) ($) 1.30 2.94 4.33 N/A N/A
+Diluted shares (mn) 24,933 24,812 24,684 N/A N/A
+DPS ($) 0.02 0.03 0.04 N/A N/A
+
+Margin and return data 2024A 2025E 2026E 2027E Average
+EBITDA (adj) margin (%) 63.4 67.8 66.9 N/A 66.1
+EBIT (adj) margin (%) 61.0 66.4 65.9 N/A 64.4
+Pre-tax (adj) margin (%) 62.0 67.6 66.9 N/A 65.5
+Net (adj) margin (%) 53.0 56.5 55.8 N/A 55.1
+ROA (%) 78.5 111.1 101.2 N/A 96.9
+ROE (%) 146.2 169.9 141.9 N/A 152.6
+
+Why OVERWEIGHT?
+We are OW as the company has long-term sustainable growth led by a large lead in GPUs for AI in DC, with further Edge opportunities (Autos, robots, etc.) and a competitive moat around a large portion of the market.
+
+Upside case USD 190.00
+Our upside case of $190 is based upon 40x our upside CY25E non-GAAP EPS of $4.75, which assumes larger TAM for AI in the DC, higher Networking attach, and h
+igher GMs.
+Balance sheet and cash flow ($mn) 2024A 2025E 2026E 2027E CAGR Downside case USD 90.00
+Tangible fixed assets 3,914 5,565 6,853 N/A N/A Our downside case of $90 is based
+Intangible fixed assets 4,430 4,724 4,724 N/A N/A upon 28x our downside CY25E non-
+Cash and equivalents 25,984 47,889 107,335 N/A N/A GAAP EPS of $3.25, which assumes a
+Total assets 65,728 105,586 176,343 N/A N/A correction of AI spending in the DC,
+a slower Auto ramp and pricing/
+Short and long-term debt 9,709 8,462 8,462 N/A N/A
+share pressure.
+Other long-term liabilities 2,541 3,683 3,683 N/A N/A
+Total liabilities 22,750 30,278 31,388 N/A N/A Upside/Downside scenarios
+Net debt/(funds) -16,275 -39,427 -98,873 N/A N/A
+Shareholders' equity 42,978 75,308 144,955 N/A N/A
+Change in working capital 17,204 27,894 N/A N/A N/A
+Cash flow from operations 28,091 66,492 98,354 N/A N/A
+Capital expenditure -1,068 -2,859 -3,200 N/A N/A
+Free cash flow 27,023 63,633 95,154 N/A N/A
+Valuation and leverage metrics 2024A 2025E 2026E 2027E Average
+P/E (adj) (x) N/A 49.6 33.7 N/A 41.7
+EV/sales (x) 59.2 27.8 18.4 N/A 35.1
+EV/EBITDA (adj) (x) 93.4 40.9 27.5 N/A 54.0
+Equity FCF yield (%) 0.7 1.8 2.6 N/A 1.7
+P/Sales (x) 59.5 28.1 18.9 N/A 35.5
+P/BV (x) 84.6 48.1 24.8 N/A 52.5
+Dividend yield (%) 0.0 0.0 0.0 N/A 0.0
+Note: FY End Jan
+Source: Company data, Bloomberg, Barclays Research
+Hopper Propels Another Solid Beat: October revenue beat at $35.1B (+17% Q/Q, vs. St. $33.3B)
+driven again by Data Center, which was ahead at $30.8B (+17% Q/Q, vs. St. $29.1B) on continued
+demand for the Hopper computing platform for LLM, recommendation engines and generative
+AI applications. Within DC, Compute revenue was $27.6B (+22% Q/Q) and Networking was down
+sequentially at $3.1B (-15% Q/Q), but exhibited sequential growth from InfiniBand and Ethernet
+switches, SmartNICs, and BlueField DPUs. Cloud providers were 50% of DC revenue in October.
+Gaming came in above at $3.28B (+14% Q/Q vs. St. at $3.06B), again due to higher sales of
+GeForce RTX 40 Series GPUs and game consoles SOCs. Auto came in above at $449M (+30% Q/Q
+vs. St. $364M) due to strong performance in self-driving platforms. ProViz and OEM/Other both
+came in just above at $486M (+7% Q/Q vs. St. $478M) and $97M (+10% Q/Q, vs. St. $89M),
+respectively. ProViz benefited from the continued ramp of RTX GPU workstations based on the
+20 November 2024 2
+NVIDIA Corp. (NVDA)	OVERWEIGHT					
+Income statement ($mn)		2024A	2025E	2026E	2027E	CAGR
+Revenue		60,922	129,126	191,319	N/A	N/A
+EBITDA (adj)		38,642	87,590	128,004	N/A	N/A
+EBIT (adj)		37,134	85,791	126,092	N/A	N/A
+Pre-tax income (adj)		37,745	87,284	127,942	N/A	N/A
+Net income (adj)		32,312	73,007	106,832	N/A	N/A
+EPS (adj) ($)		1.30	2.94	4.33	N/A	N/A
+Diluted shares (mn)		24,933	24,812	24,684	N/A	N/A
+DPS ($)		0.02	0.03	0.04	N/A	N/A
+						
+Margin and return data		2024A	2025E	2026E	2027E	Average
+EBITDA (adj) margin (%)		63.4	67.8	66.9	N/A	66.1
+EBIT (adj) margin (%)		61.0	66.4	65.9	N/A	64.4
+Pre-tax (adj) margin (%)		62.0	67.6	66.9	N/A	65.5
+Net (adj) margin (%)		53.0	56.5	55.8	N/A	55.1
+ROA (%)		78.5	111.1	101.2	N/A	96.9
+ROE (%)		146.2	169.9	141.9	N/A	152.6
+						
+Balance sheet and cash flow ($mn)		2024A	2025E	2026E	2027E	CAGR
+Tangible fixed assets		3,914	5,565	6,853	N/A	N/A
+Intangible fixed assets		4,430	4,724	4,724	N/A	N/A
+Cash and equivalents		25,984	47,889	107,335	N/A	N/A
+Total assets		65,728	105,586	176,343	N/A	N/A
+Short and long-term debt		9,709	8,462	8,462	N/A	N/A
+Other long-term liabilities		2,541	3,683	3,683	N/A	N/A
+Total liabilities		22,750	30,278	31,388	N/A	N/A
+Net debt/(funds)		-16,275	-39,427	-98,873	N/A	N/A
+Shareholders' equity		42,978	75,308	144,955	N/A	N/A
+Change in working capital		17,204	27,894	N/A	N/A	N/A
+Cash flow from operations		28,091	66,492	98,354	N/A	N/A
+Capital expenditure		-1,068	-2,859	-3,200	N/A	N/A
+Free cash flow		27,023	63,633	95,154	N/A	N/A
+						
+Valuation and leverage metrics		2024A	2025E	2026E	2027E	Average
+P/E (adj) (x)		N/A	49.6	33.7	N/A	41.7
+EV/sales (x)		59.2	27.8	18.4	N/A	35.1
+EV/EBITDA (adj) (x)		93.4	40.9	27.5	N/A	54.0
+Equity FCF yield (%)		0.7	1.8	2.6	N/A	1.7
+P/Sales (x)		59.5	28.1	18.9	N/A	35.5
+P/BV (x)		84.6	48.1	24.8	N/A	52.5
+Dividend yield (%)		0.0	0.0	0.0	N/A	0.0
+
+Barclays | NVIDIA Corp.
+Ada architecture. GMs came in-line at at 75.0% and were lower sequentially due to mix shift to
+higher cost systems in the Data Center. Opex came in-line at $3.0B but was up sequentially due
+to development costs for new product introductions. All-in, this nets EPS above at $0.81 (vs. St.
+$0.74).
+FIGURE 1. October Quarter Results
+OCTOBER QUARTER RESULTS
+Actual Prior E B sa tr sclays Consensus Ests Guide Comments
+Revenues $35.08B $33.10B $33.25B $32.50B H200 increased sequentially to DD billions
+Q/Q +16.8% +10.2% +10.7% 8.2% all segments up Q/Q and Y/Y
+GMs (non-GAAP) 75.0% 75.0% 75.0% 75.0% lower Q/Q due to mix shift to higher cost systems in DC
+Opex (non-GAAP) $3,046M $3,000M $3,049M $3,000M higher Q/Q due to development costs of new products
+Tax Rate 15.5% 17.0% 17.0%
+Pro-Forma EPS $0.81 $0.74 $0.74 $0.73
+GAAP EPS $0.78 $0.71 $0.72
+Share Count 24774M 24808M 24783M 24808M
+Depreciation $478M $433M
+Capex $813M $700M $680M
+Segment Revenues:
+Gaming $3,279M $3,017M $3,063M driven by GeForce RTX 40 Series GPUs and console SoCs
+ProViz $486M $468M $478M continued ramp of RTX GPU workstations
+Datacenter $30,771M $29,168M $29,144M Hopper strongest, shipped Blackwell samples, Networking down Q/Q
+Automotive $449M $363M $364M driven by self-driving platforms
+OEM & IP $97M $88M $89M
+Source: Company Reports, Barclays Research Estimates and Bloomberg
+Blackwell Picks Up Steam Leading to Top-Line Beat: Guides January revenue ahead to
+$37.5B (+7% Q/Q vs. St. $37.1B) with Blackwell surpassing management’s expectations for
+several billion in revenue. We model Data Center up +10% Q/Q with +10% Q/Q growth in
+Compute and +10% Q/Q growth in Networking. We model Gaming down -7% due to supply
+constraints, Auto up +5%, ProViz up +3%, and OEM & Other flat Q/Q. Guides GM in-line at 73.5%
+and lower sequentially due to unfavorable mix from the Blackwell ramp. Guides opex higher to
+$3.40B (vs. St. $3.25B), OIE to an income of $400M, and tax rate to 16.5%. All in, this nets an
+implied EPS of $0.83, just above Street at $0.82. Looking further, management expects GMs to
+moderate to the low-70s%, while Blackwell ramps, and then return to the mid-70s% in the 2H of
+CY25 when Blackwell is fully up to speed. Additionally, management expects supply to stabilize
+for Gaming in early CY25.
+FIGURE 2. January Quarter Guide
+JANUARY QUARTER GUIDE
+Guide Prior E B sa tr sclays Consensus Ests Comments
+Revenues $37.50B $35.92B $37.08B
+Q/Q +6.9% +8.5% +11.5% more than several billions of $ of Blackwell revenue
+GMs (non-GAAP) 73.5% 74.6% 73.5% declines due to start of Blackwell ramp
+Opex (non-GAAP) $3,400M $3,200M $3,249M
+Tax Rate 16.5% 17.0%
+Implied Pro-Forma EPS $0.83 $0.80 $0.82 OIE $400M
+Implied GAAP EPS $0.77 $0.80
+Estimated Share Count 24768M 23791M
+Depreciation $433M
+Capex $700M $712M
+Segment Revenues:
+Gaming $3,080M $3,065M we model down 7% Q/Q
+ProViz $482M $495M we model up 3% Q/Q
+Datacenter $31,892M $33,131M we model up 10% Q/Q
+Automotive $381M $394M we model up 5% Q/Q
+OEM & IP $88M $92M we model flat Q/Q
+Source: Company Reports, Barclays Research ingoing Estimates and Bloomberg
+20 November 2024 3
+OCTOBER QUARTER RESULTS
+Actual Prior E B sa tr sclays Consensus Ests Guide Comments
+Revenues $35.08B $33.10B $33.25B $32.50B H200 increased sequentially to DD billions
+Q/Q +16.8% +10.2% +10.7% 8.2% all segments up Q/Q and Y/Y
+GMs (non-GAAP) 75.0% 75.0% 75.0% 75.0% lower Q/Q due to mix shift to higher cost systems in DC
+Opex (non-GAAP) $3,046M $3,000M $3,049M $3,000M higher Q/Q due to development costs of new products
+Tax Rate 15.5% 17.0% 17.0%
+Pro-Forma EPS $0.81 $0.74 $0.74 $0.73
+GAAP EPS $0.78 $0.71 $0.72
+Share Count 24774M 24808M 24783M 24808M
+Depreciation $478M $433M
+Capex $813M $700M $680M
+Segment Revenues:
+Gaming $3,279M $3,017M $3,063M driven by GeForce RTX 40 Series GPUs and console SoCs
+ProViz $486M $468M $478M continued ramp of RTX GPU workstations
+Datacenter $30,771M $29,168M $29,144M Hopper strongest, shipped Blackwell samples, Networking down Q/Q
+Automotive $449M $363M $364M driven by self-driving platforms
+OEM & IP $97M $88M $89M
+
+JANUARY QUARTER GUIDE
+Guide Prior E B sa tr sclays Consensus Ests Comments
+Revenues $37.50B $35.92B $37.08B
+Q/Q +6.9% +8.5% +11.5% more than several billions of $ of Blackwell revenue
+GMs (non-GAAP) 73.5% 74.6% 73.5% declines due to start of Blackwell ramp
+Opex (non-GAAP) $3,400M $3,200M $3,249M
+Tax Rate 16.5% 17.0%
+Implied Pro-Forma EPS $0.83 $0.80 $0.82 OIE $400M
+Implied GAAP EPS $0.77 $0.80
+Estimated Share Count 24768M 23791M
+Depreciation $433M
+Capex $700M $712M
+Segment Revenues:
+Gaming $3,080M $3,065M we model down 7% Q/Q
+ProViz $482M $495M we model up 3% Q/Q
+Datacenter $31,892M $33,131M we model up 10% Q/Q
+Automotive $381M $394M we model up 5% Q/Q
+OEM & IP $88M $92M we model flat Q/Q
+
+Barclays | NVIDIA Corp.
+Changes to Estimates
+Our FY25 revenue/EPS move to $129,126M/$2.94 (prior $125,110M/$2.84), and FY26 moves to
+$191,319M/$4.33 (prior $178,567M/$4.08).
+Our price target of $160 is based upon 37x our CY25E non-GAAP EPS of $4.33. Our prior price
+target of $145 was based upon 36x our CY25E non-GAAP EPS of $4.08.
+FIGURE 3. NVDA Barclays vs. Consensus
+Changes to Revenue and EPS Estimates - New vs. Old vs. Consensus
+Jan Q Apr Q FY25 FY26
+Revenues $37,960M $41,322M $129,126M $191,319M
+NEW
+EPS $0.84 $0.90 $2.94 $4.33
+Revenues $35,923M $39,577M $125,110M $178,567M
+OLD
+EPS $0.80 $0.89 $2.84 $4.08
+Revenues $37,080M $41,010M $128,246M $187,417M
+CONSENSUS
+EPS $0.82 $0.89 $2.92 $4.13
+Source: Company Reports, Barclays Research Estimates and Bloomberg
+20 November 2024 4
+Changes to Revenue and EPS Estimates - New vs. Old vs. Consensus
+Jan Q Apr Q FY25 FY26
+Revenues $37,960M $41,322M $129,126M $191,319M
+NEW
+EPS $0.84 $0.90 $2.94 $4.33
+
+Revenues $35,923M $39,577M $125,110M $178,567M
+OLD
+EPS $0.80 $0.89 $2.84 $4.08
+
+Revenues $37,080M $41,010M $128,246M $187,417M
+CONSENSUS
+EPS $0.82 $0.89 $2.92 $4.13
+
+Barclays | NVIDIA Corp.
+FIGURE 4. NVDA Income Statement
+NVIDIA
+FY Ending: January Apr-21 Jul-21 Oct-21 Jan-22 Apr-22 Jul-22 Oct-22 Jan-23 Apr-23 Jul-23 Oct-23 Jan-24 Apr-24 Jul-24 Oct-24 Jan-25 Apr-25 Jul-25 Oct-25 Jan-26 2022 2023 2024 2025 2026
+$ in millions 1Q 2Q 3Q 4Q 1Q 2Q 3Q 4Q 1Q 2Q 3Q 4Q 1Q 2Q 3Q 4QE 1QE 2QE 3QE 4QE FY FY FY FYE FYE
+Revenues $5,661 $6,507 $7,103 $7,643 $8,288 $6,704 $5,931 $6,051 $7,192 $13,507 $18,120 $22,103 $26,044 $30,040 $35,082 $37,960 $41,322 $45,472 $50,258 $54,267 $26,914 $26,974 $60,922 $129,126 $191,319
+QoQ 13.2% 14.9% 9.2% 7.6% 8.4% (19.1%) (11.5%) 2.0% 18.9% 87.8% 34.2% 22.0% 17.8% 15.3% 16.8% 8.2% 8.9% 10.0% 10.5% 8.0%
+YoY 83.8% 68.3% 50.3% 52.8% 46.4% 3.0% (16.5%) (20.8%) (13.2%) 101.5% 205.5% 265.3% 262.1% 122.4% 93.6% 71.7% 58.7% 51.4% 43.3% 43.0% 61.4% 0.2% 125.9% 112.0% 48.2%
+Cost of Goods 1,915 2,170 2,342 2,519 2,725 3,630 2,602 2,052 2,390 3,893 4,537 5,144 5,484 7,311 8,760 10,041 11,554 12,158 12,905 13,109 8,946 11,009 15,964 31,596 49,726
+_______________________________________ _______________________________________ _____________________________ __________ _______________________________________ _______________________________________ __________ __________ __________ __________ __________
+Gross Profit $3,746 $4,337 $4,761 $5,124 $5,563 $3,074 $3,329 $3,999 $4,802 $9,614 $13,583 $16,959 $20,560 $22,729 $26,322 $27,919 $29,767 $33,314 $37,353 $41,158 $17,968 $15,965 $44,958 $97,530 $141,592
+R&D 876 947 1,033 1,095 1,225 1,362 1,405 1,414 1,339 1,428 1,581 1,747 1,980 2,241 2,457 2,650 2,775 2,925 3,075 3,225 3,951 5,406 6,095 9,328 12,000
+SG&A 313 319 342 352 383 387 388 361 411 410 445 463 521 551 589 750 800 850 900 950 1,326 1,519 1,729 2,411 3,500
+Total Operating Expenses ____1_,1__8_9______1_,2__6_6______1_,3__7_5______1_,4__4_7_ ____1_,6__0_8______1_,7__4_9______1_,7__9_3______1_,7__7_5_ ____1_,7__5_0______1_,8__3_8______2_,0__2_6_ _____2_,2__1_0_ ____2_,5__0_1______2_,7__9_2______3_,0__4_6______3_,4__0_0_ ____3_,5__7_5______3_,7__7_5______3_,9__7_5______4_,1__7_5_ _____5_,2__7_7_ _____6_,9__2_5_ _____7_,8__2_4_ ____1_1_,7__3_9_ ____1_5_,5__0_0_
+Operating Income $2,557 $3,071 $3,386 $3,677 $3,955 $1,325 $1,536 $2,224 $3,052 $7,776 $11,557 $14,749 $18,059 $19,937 $23,276 $24,519 $26,192 $29,539 $33,378 $36,983 $12,691 $9,040 $37,134 $85,791 $126,092
+Interest Income (Exp) (45) (49) (52) (52) (45) (16) 24 43 84 120 175 232 302 380 411 400 425 450 475 500 (198) 6 611 1,493 1,850
+Profit Before Taxes 2,512 3,022 3,334 3,625 3,910 1,309 1,560 2,267 3,136 7,896 11,732 14,981 18,361 20,317 23,687 24,919 26,617 29,989 33,853 37,483 12,493 9,046 37,745 87,284 127,942
+Taxes _____1__9_9_______3__9_9_______3__6_1_______2__7_5_ _____4__6_7_________1_7_______1__0_4_________9_3_ _____4__2_3______1_,1__5_6______1_,7__1_2_ _____2_,1__4_2_ ____3_,1__2_3______3_,3__6_5______3_,6__7_7______4_,1__1_2_ ____4_,3__9_2______4_,9__4_8______5_,5__8_6______6_,1__8_5_ _____1_,2__3_4_ ______6__8_1_ _____5_,4__3_3_ ____1_4_,2__7_7_ ____2_1_,1__1_0_
+Net Income - Pro Forma $2,313 $2,623 $2,973 $3,350 $3,443 $1,292 $1,456 $2,174 $2,713 $6,740 $10,020 $12,839 $15,238 $16,952 $20,010 $20,807 $22,226 $25,041 $28,268 $31,298 $11,259 $8,365 $32,312 $73,007 $106,832
+EPS - Pro Forma (ex ESO) $0.09 $0.10 $0.12 $0.13 $0.14 $0.05 $0.06 $0.09 $0.11 $0.27 $0.40 $0.52 $0.61 $0.68 $0.81 $0.84 $0.90 $1.01 $1.15 $1.27 $0.44 $0.33 $1.30 $2.94 $4.33
+EPS - Pro Forma (incl ESO) $0.08 $0.09 $0.10 $0.11 $0.12 $0.03 $0.03 $0.06 $0.08 $0.24 $0.37 $0.48 $0.58 $0.64 $0.80 $0.80 $0.86 $0.97 $1.10 $1.22 $0.37 $0.23 $1.17 $2.82 $4.15
+EPS - GAAP $0.08 $0.09 $0.10 $0.12 $0.06 $0.03 $0.03 $0.06 $0.08 $0.25 $0.37 $0.49 $0.60 $0.67 $0.78 $0.77 $0.86 $0.97 $1.10 $1.23 $0.38 $0.17 $1.19 $2.81 $4.15
+Fully Diluted Shares 25,280.0 25,320.0 25,380.0 25,450.0 25,370.0 25,160.0 24,990.0 24,770.0 24,900.0 24,990.0 24,940.0 24,900.0 24,890.0 24,848.0 24,774.0 24,734.0 24,714.0 24,694.0 24,674.0 24,654.0 25,357.5 25,072.5 24,932.5 24,811.5 24,684.0
+Dividend per Share $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.01 $0.01 $0.01 $0.01 $0.01 $0.01 $0.01 $0.01 $0.02 $0.02 $0.03 $0.04
+Percent of Sales
+Gross Margin 66.2% 66.7% 67.0% 67.0% 67.1% 45.9% 56.1% 66.1% 66.8% 71.2% 75.0% 76.7% 78.9% 75.7% 75.0% 73.5% 72.0% 73.3% 74.3% 75.8% 66.8% 59.2% 73.8% 75.5% 74.0%
+R&D 15.5% 14.6% 14.5% 14.3% 14.8% 20.3% 23.7% 23.4% 18.6% 10.6% 8.7% 7.9% 7.6% 7.5% 7.0% 7.0% 6.7% 6.4% 6.1% 5.9% 14.7% 20.0% 10.0% 7.2% 6.3%
+SG&A 5.5% 4.9% 4.8% 4.6% 4.6% 5.8% 6.5% 6.0% 5.7% 3.0% 2.5% 2.1% 2.0% 1.8% 1.7% 2.0% 1.9% 1.9% 1.8% 1.8% 4.9% 5.6% 2.8% 1.9% 1.8%
+Operating Margin 45.2% 47.2% 47.7% 48.1% 47.7% 19.8% 25.9% 36.8% 42.4% 57.6% 63.8% 66.7% 69.3% 66.4% 66.3% 64.6% 63.4% 65.0% 66.4% 68.1% 47.2% 33.5% 61.0% 66.4% 65.9%
+Taxes 7.9% 13.2% 10.8% 7.6% 11.9% 1.3% 6.7% 4.1% 13.5% 14.6% 14.6% 14.3% 17.0% 16.6% 15.5% 16.5% 16.5% 16.5% 16.5% 16.5% 9.9% 7.5% 14.4% 16.4% 16.5%
+Net Income 40.9% 40.3% 41.9% 43.8% 41.5% 19.3% 24.5% 35.9% 37.7% 49.9% 55.3% 58.1% 58.5% 56.4% 57.0% 54.8% 53.8% 55.1% 56.2% 57.7% 41.8% 31.0% 53.0% 56.5% 55.8%
+Sequential Change
+R&D (0.6%) 8.1% 9.1% 6.0% 11.9% 11.2% 3.2% 0.6% (5.3%) 6.6% 10.7% 10.5% 13.3% 13.2% 9.6% 7.9% 4.7% 5.4% 5.1% 4.9% 28.9% 36.8% 12.7% 53.0% 28.6%
+SG&A 2.3% 1.9% 7.2% 2.9% 8.8% 1.0% 0.3% (7.0%) 13.9% (0.2%) 8.5% 4.0% 12.5% 5.8% 6.9% 27.3% 6.7% 6.3% 5.9% 5.6% 22.9% 14.6% 13.8% 39.4% 45.2%
+Source: Company Reports and Barclays Research
+20 November 2024 5
+NVIDIA
+FY Ending: January Apr-21 Jul-21 Oct-21 Jan-22 Apr-22 Jul-22 Oct-22 Jan-23 Apr-23 Jul-23 Oct-23 Jan-24 Apr-24 Jul-24 Oct-24 Jan-25 Apr-25 Jul-25 Oct-25 Jan-26 2022 2023 2024 2025 2026
+$ in millions 1Q 2Q 3Q 4Q 1Q 2Q 3Q 4Q 1Q 2Q 3Q 4Q 1Q 2Q 3Q 4QE 1QE 2QE 3QE 4QE FY FY FY FYE FYE								
+				$8,288 $6,704 $5,931 $6,051	$7,192 $13,507 $18,120 $22,103	$26,044 $30,040 $35,082 $37,960	$41,322 $45,472 $50,258 $54,267	
+Revenues	$5,661 $6,507 $7,103 $7,643							$26,914 $26,974 $60,922 $129,126 $191,319
+QoQ
+YoY
+Cost of Goods
+Gross Profit	13.2% 14.9% 9.2% 7.6%
+83.8% 68.3% 50.3% 52.8%
+1,915 2,170 2,342 2,519
+_______________________________________
+$3,746 $4,337 $4,761 $5,124			8.4% (19.1%) (11.5%) 2.0%
+46.4% 3.0% (16.5%) (20.8%)
+2,725 3,630 2,602 2,052
+_______________________________________
+$5,563 $3,074 $3,329 $3,999	18.9% 87.8% 34.2% 22.0%
+(13.2%) 101.5% 205.5% 265.3%
+2,390 3,893 4,537 5,144
+_____________________________ __________
+$4,802 $9,614 $13,583 $16,959	17.8% 15.3% 16.8% 8.2%
+262.1% 122.4% 93.6% 71.7%
+5,484 7,311 8,760 10,041
+_______________________________________
+$20,560 $22,729 $26,322 $27,919	8.9% 10.0% 10.5% 8.0%
+58.7% 51.4% 43.3% 43.0%
+11,554 12,158 12,905 13,109
+_______________________________________
+$29,767 $33,314 $37,353 $41,158	61.4% 0.2% 125.9% 112.0% 48.2%
+8,946 11,009 15,964 31,596 49,726
+__________ __________ __________ __________ __________
+$17,968 $15,965 $44,958 $97,530 $141,592
+	876 947 1,033 1,095
+313 319 342 352
+____1_,1__8_9______1_,2__6_6______1_,3__7_5______1_,4__4_7_
+$2,557 $3,071 $3,386 $3,677
+(45) (49) (52) (52)
+2,512 3,022 3,334 3,625
+_____1__9_9_______3__9_9_______3__6_1_______2__7_5_
+$2,313 $2,623 $2,973 $3,350			1,225 1,362 1,405 1,414
+383 387 388 361
+____1_,6__0_8______1_,7__4_9______1_,7__9_3______1_,7__7_5_
+$3,955 $1,325 $1,536 $2,224
+(45) (16) 24 43
+3,910 1,309 1,560 2,267
+_____4__6_7_________1_7_______1__0_4_________9_3_
+$3,443 $1,292 $1,456 $2,174	1,339 1,428 1,581 1,747
+411 410 445 463
+____1_,7__5_0______1_,8__3_8______2_,0__2_6_ _____2_,2__1_0_
+$3,052 $7,776 $11,557 $14,749
+84 120 175 232
+3,136 7,896 11,732 14,981
+_____4__2_3______1_,1__5_6______1_,7__1_2_ _____2_,1__4_2_
+$2,713 $6,740 $10,020 $12,839	1,980 2,241 2,457 2,650
+521 551 589 750
+____2_,5__0_1______2_,7__9_2______3_,0__4_6______3_,4__0_0_
+$18,059 $19,937 $23,276 $24,519
+302 380 411 400
+18,361 20,317 23,687 24,919
+____3_,1__2_3______3_,3__6_5______3_,6__7_7______4_,1__1_2_
+$15,238 $16,952 $20,010 $20,807	2,775 2,925 3,075 3,225
+800 850 900 950
+____3_,5__7_5______3_,7__7_5______3_,9__7_5______4_,1__7_5_
+$26,192 $29,539 $33,378 $36,983
+425 450 475 500
+26,617 29,989 33,853 37,483
+____4_,3__9_2______4_,9__4_8______5_,5__8_6______6_,1__8_5_
+$22,226 $25,041 $28,268 $31,298	
+R&D
+SG&A								3,951 5,406 6,095 9,328 12,000
+1,326 1,519 1,729 2,411 3,500
+Total Operating Expenses
+Operating Income								_____5_,2__7_7_ _____6_,9__2_5_ _____7_,8__2_4_ ____1_1_,7__3_9_ ____1_5_,5__0_0_
+$12,691 $9,040 $37,134 $85,791 $126,092
+Interest Income (Exp)								(198) 6 611 1,493 1,850
+Profit Before Taxes
+Taxes
+Net Income - Pro Forma		3,022 3,334
+______3__9_9_______3__6_1_
+$2,623 $2,973						12,493 9,046 37,745 87,284 127,942
+_____1_,2__3_4_ ______6__8_1_ _____5_,4__3_3_ ____1_4_,2__7_7_ ____2_1_,1__1_0_
+$11,259 $8,365 $32,312 $73,007 $106,832
+EPS - Pro Forma (ex ESO)
+EPS - Pro Forma (incl ESO)
+EPS - GAAP	$0.09
+$0.08
+$0.08	$0.10 $0.12
+$0.09 $0.10
+$0.09 $0.10	$0.13
+$0.11
+$0.12	$0.14 $0.05 $0.06 $0.09
+$0.12 $0.03 $0.03 $0.06
+$0.06 $0.03 $0.03 $0.06	$0.11 $0.27 $0.40 $0.52
+$0.08 $0.24 $0.37 $0.48
+$0.08 $0.25 $0.37 $0.49	$0.61 $0.68 $0.81 $0.84
+$0.58 $0.64 $0.80 $0.80
+$0.60 $0.67 $0.78 $0.77	$0.90 $1.01 $1.15 $1.27
+$0.86 $0.97 $1.10 $1.22
+$0.86 $0.97 $1.10 $1.23	$0.44 $0.33 $1.30 $2.94 $4.33
+$0.37 $0.23 $1.17 $2.82 $4.15
+$0.38 $0.17 $1.19 $2.81 $4.15
+	25,280.0 25,320.0 25,380.0 25,450.0
+$0.00 $0.00 $0.00 $0.00
+66.2% 66.7% 67.0% 67.0%
+15.5% 14.6% 14.5% 14.3%
+5.5% 4.9% 4.8% 4.6%
+45.2% 47.2% 47.7% 48.1%
+7.9% 13.2% 10.8% 7.6%			25,370.0 25,160.0 24,990.0 24,770.0
+$0.00 $0.00 $0.00 $0.00
+67.1% 45.9% 56.1% 66.1%
+14.8% 20.3% 23.7% 23.4%
+4.6% 5.8% 6.5% 6.0%
+47.7% 19.8% 25.9% 36.8%
+11.9% 1.3% 6.7% 4.1%	24,900.0 24,990.0 24,940.0 24,900.0
+$0.00 $0.00 $0.00 $0.00
+66.8% 71.2% 75.0% 76.7%
+18.6% 10.6% 8.7% 7.9%
+5.7% 3.0% 2.5% 2.1%
+42.4% 57.6% 63.8% 66.7%
+13.5% 14.6% 14.6% 14.3%	24,890.0 24,848.0 24,774.0 24,734.0
+$0.00 $0.01 $0.01 $0.01
+78.9% 75.7% 75.0% 73.5%
+7.6% 7.5% 7.0% 7.0%
+2.0% 1.8% 1.7% 2.0%
+69.3% 66.4% 66.3% 64.6%
+17.0% 16.6% 15.5% 16.5%	24,714.0 24,694.0 24,674.0 24,654.0
+$0.01 $0.01 $0.01 $0.01
+72.0% 73.3% 74.3% 75.8%
+6.7% 6.4% 6.1% 5.9%
+1.9% 1.9% 1.8% 1.8%
+63.4% 65.0% 66.4% 68.1%
+16.5% 16.5% 16.5% 16.5%	
+Fully Diluted Shares								25,357.5 25,072.5 24,932.5 24,811.5 24,684.0
+Dividend per Share								$0.01 $0.02 $0.02 $0.03 $0.04
+Percent of Sales								
+Gross Margin								66.8% 59.2% 73.8% 75.5% 74.0%
+R&D
+SG&A
+Operating Margin								14.7% 20.0% 10.0% 7.2% 6.3%
+4.9% 5.6% 2.8% 1.9% 1.8%
+47.2% 33.5% 61.0% 66.4% 65.9%
+Taxes								9.9% 7.5% 14.4% 16.4% 16.5%
+Net Income
+Sequential Change
+R&D
+SG&A	40.9% 40.3% 41.9% 43.8%
+(0.6%) 8.1% 9.1% 6.0%
+2.3% 1.9% 7.2% 2.9%			41.5% 19.3% 24.5% 35.9%
+11.9% 11.2% 3.2% 0.6%
+8.8% 1.0% 0.3% (7.0%)	37.7% 49.9% 55.3% 58.1%
+(5.3%) 6.6% 10.7% 10.5%
+13.9% (0.2%) 8.5% 4.0%	58.5% 56.4% 57.0% 54.8%
+13.3% 13.2% 9.6% 7.9%
+12.5% 5.8% 6.9% 27.3%	53.8% 55.1% 56.2% 57.7%
+4.7% 5.4% 5.1% 4.9%
+6.7% 6.3% 5.9% 5.6%	41.8% 31.0% 53.0% 56.5% 55.8%
+28.9% 36.8% 12.7% 53.0% 28.6%
+22.9% 14.6% 13.8% 39.4% 45.2%
+
+$0.00 $0.00
+
+
+Barclays | NVIDIA Corp.
+FIGURE 5. NVDA Balance Sheet
+NVIDIA
+FY End: January Apr-22 Jul-22 Oct-22 Jan-23 Apr-23 Jul-23 Oct-23 Jan-24 Apr-24 Jul-24 Oct-24 Jan-25 Apr-25 Jul-25 Oct-25 Jan-26 2022 2023 2024 2025 2026
+$ in millions 1Q 2Q 3Q 4Q 1Q 2Q 3Q 4Q 1Q 2Q 3Q 4QE 1QE 2QE 3QE 4QE FY FY FY FYE FYE
+BALANCE SHEET
+Assets
+Cash & Equiv.+ ST Investments $20,338 $17,037 $13,143 $13,296 $15,320 $16,023 $18,281 $25,984 $31,438 $34,800 $38,487 $47,889 $57,913 $71,589 $87,683 $107,335 $21,208 $13,296 $25,984 $47,889 $107,335
+Accounts Receivable 5,438 5,317 4,908 3,827 4,080 7,066 8,309 9,999 12,365 14,132 17,693 18,304 19,925 21,428 23,683 25,572 4,650 3,827 9,999 18,304 25,572
+Inventories 3,163 3,889 4,454 5,159 4,611 4,319 4,779 5,282 5,864 6,675 7,654 8,253 9,497 9,993 10,607 10,775 2,605 5,159 5,282 8,253 10,775
+Other 636 1,175 718 791 872 1,389 1,289 3,080 4,062 4,026 3,806 3,806 3,806 3,806 3,806 3,806 366 791 3,080 3,806 3,806
+Total Current Assets $29,575 $27,418 $23,223 $23,073 $24,883 $28,797 $32,658 $44,345 $53,729 $59,633 $67,640 $78,251 $91,141 $106,816 $125,779 $147,488 $28,829 $23,073 $44,345 $78,251 $147,488
+Property and Equipment 2,916 3,233 3,774 3,807 3,740 3,799 3,844 3,914 4,006 4,885 5,343 5,565 5,887 6,209 6,531 6,853 2,778 3,807 3,914 5,565 6,853
+Goodwill 4,365 4,372 4,372 4,372 4,430 4,430 4,430 4,430 4,453 4,622 4,724 4,724 4,724 4,724 4,724 4,724 4,349 4,372 4,430 4,724 4,724
+Operating lease assets 856 852 927 1,038 1,094 1,235 1,316 1,346 1,532 1,556 1,755 1,755 1,755 1,755 1,755 1,755 829 1,038 1,346 1,755 1,755
+Intangible Assets 2,211 2,036 1,850 1,676 1,541 1,395 1,251 1,112 986 952 838 (418) (170) (170) (170) (170) 2,339 1,676 1,112 (418) (170)
+Deferred income tax assets 1,784 2,225 2,762 3,396 4,568 5,398 5,982 6,081 7,798 9,578 10,276 10,272 10,268 10,264 10,260 10,256 1,222 3,396 6,081 10,272 10,256
+Other 3,505 3,340 3,580 3,820 4,204 4,501 4,667 4,500 4,568 4,001 5,437 5,437 5,437 5,437 5,437 5,437 3,841 3,820 4,500 5,437 5,437
+Total Assets $45,212 $43,476 $40,488 $41,182 $44,460 $49,555 $54,148 $65,728 $77,072 $85,227 $96,013 $105,586 $119,042 $135,035 $154,316 $176,343 $44,187 $41,182 $65,728 $105,586 $176,343
+======= ======= ======= ======= ======= ======= ======= ======= ======= ======= ======= ======= ======= ======= ======= ======= ======= ======= ======= ======= =======
+Liabilities
+Account Payable $1,999 $2,421 $1,491 $1,193 $1,141 $1,929 $2,380 $2,699 $2,715 $3,680 $5,353 $5,517 $5,841 $6,146 $6,523 $6,627 $1,783 $1,193 $2,699 $5,517 $6,627
+Accrued and Other Current Liabilities 3,563 3,903 4,115 4,120 4,869 7,156 5,472 6,682 11,258 10,289 11,126 11,126 11,126 11,126 11,126 11,126 2,552 4,120 6,682 11,126 11,126
+Current Portion of Notes Payable 0 1,249 1,249 1,250 1,250 1,249 1,249 1,250 1,250 0 0 0 0 0 0 0 0 1,250 1,250 0 0
+Total Current Liabilities $5,562 $7,573 $6,855 $6,563 $7,260 $10,334 $9,101 $10,631 $15,223 $13,969 $16,479 $16,643 $16,967 $17,272 $17,649 $17,753 $4,335 $6,563 $10,631 $16,643 $17,753
+Notes Payable 10,947 9,700 9,701 9,703 9,704 8,456 8,457 8,459 8,460 8,461 8,462 8,462 8,462 8,462 8,462 8,462 10,946 9,703 8,459 8,462 8,462
+Capital Lease, net of current 752 743 798 902 939 1,041 1,091 1,119 1,281 1,304 1,490 1,490 1,490 1,490 1,490 1,490 741 902 1,119 1,490 1,490
+Other 1,631 1,609 1,785 1,913 2,037 2,223 2,234 2,541 2,966 3,336 3,683 3,683 3,683 3,683 3,683 3,683 1,553 1,913 2,541 3,683 3,683
+Total Liabilities $18,892 $19,625 $19,139 $19,081 $19,940 $22,054 $20,883 $22,750 $27,930 $27,070 $30,114 $30,278 $30,602 $30,907 $31,284 $31,388 $17,575 $19,081 $22,750 $30,278 $31,388
+======= ======= ======= ======= ======= ======= ======= ======= ======= ======= ======= ======= ======= ======= ======= ======= ======= ======= ======= ======= =======
+Shareholders' Equity
+Shareholders' Equity 26,320 23,851 21,349 22,101 24,520 27,501 33,265 42,978 49,142 58,157 65,899 75,308 88,440 104,128 123,032 144,955 26,612 22,101 42,978 75,308 144,955
+Total Shareholders' Equity $26,320 $23,851 $21,349 $22,101 $24,520 $27,501 $33,265 $42,978 $49,142 $58,157 $65,899 $75,308 $88,440 $104,128 $123,032 $144,955 $26,612 $22,101 $42,978 $75,308 $144,955
+======= ======= ======= ======= ======= ======= ======= ======= ======= ======= ======= ======= ======= ======= ======= ======= ======= ======= ======= ======= =======
+Total Liability and Equity $45,212 $43,476 $40,488 $41,182 $44,460 $49,555 $54,148 $65,728 $77,072 $85,227 $96,013 $105,586 $119,042 $135,035 $154,316 $176,343 $44,187 $41,182 $65,728 $105,586 $176,343
+CHECK 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+VALUATION RATIOS
+Profitability Ratios
+Return on Invested Capital 39% 15% 14% 28% 38% 115% 164% 188% 210% 227% 229% 199% 223% 233% 252% 263% 77% 26% 142% 246% 270%
+Return On Equity 52% 20% 24% 41% 49% 110% 146% 154% 142% 138% 138% 126% 118% 113% 109% 102% 67% 31% 146% 170% 142%
+Return On Avg Equity * 52% 46% 40% 35% 32% 54% 78% 96% 117% 120% 119% 117% 109% 104% 97% 92% 52% 34% 99% 123% 97%
+Return On Assets 31% 11% 13% 21% 26% 61% 81% 95% 93% 88% 94% 87% 84% 84% 84% 81% 39% 19% 78% 111% 101%
+Return On Net Assets 50% 19% 25% 43% 53% 126% 180% 187% 162% 160% 158% 147% 132% 125% 118% 109% 79% 31% 159% 194% 159%
+Return On Sales 42% 19% 25% 36% 38% 50% 55% 58% 59% 56% 57% 55% 54% 55% 56% 58% 42% 31% 53% 57% 56%
+* Avg Over Last 4 Qtrs
+Efficiency Ratios
+A/R Turnover 6.1 5.0 4.8 6.3 7.1 7.6 8.7 8.8 8.4 8.5 7.9 8.3 8.3 8.5 8.5 8.5 5.8 7.0 6.1 7.1 7.5
+A/R Days Sales Out 60 72 76 58 52 48 42 41 43 43 46 44 44 43 43 43 63 52 60 52 49
+Inventory Turns 3.5 3.7 2.3 1.6 2.1 3.6 3.8 3.9 3.8 4.4 4.6 4.9 4.9 4.9 4.9 4.9 3.4 2.1 3.0 3.8 4.6
+Days of Inventory 106 97 156 229 176 101 96 93 97 83 80 75 75 75 75 75 106 171 121 95 79
+A/P turnover 5.5 6.0 7.0 6.9 8.4 8.1 7.6 7.6 8.1 8.0 6.6 7.3 7.9 7.9 7.9 7.9 5.0 9.2 5.9 5.7 7.5
+Days Payable 67 61 52 53 43 45 48 48 45 46 56 50 46 46 46 46 73 40 62 64 49
+Liquidity Ratios
+Current Ratio 5.3 3.6 3.4 3.5 3.4 2.8 3.6 4.2 3.5 4.3 4.1 4.7 5.4 6.2 7.1 8.3 6.7 3.5 4.2 4.7 8.3
+Quick Ratio 4.7 3.1 2.7 2.7 2.8 2.4 3.1 3.7 3.1 3.8 3.6 4.2 4.8 5.6 6.5 7.7 6.0 2.7 3.7 4.2 7.7
+Net Working Capital $24,013 $19,845 $16,368 $16,510 $17,623 $18,463 $23,557 $33,714 $38,506 $45,664 $51,161 $61,608 $74,174 $89,544 $108,130 $129,735 $24,494 $16,510 $33,714 $61,608 $129,735
+Long-term Debt / Equity 44% 44% 49% 48% 43% 35% 29% 22% 20% 17% 15% 13% 11% 10% 8% 7% 44% 48% 22% 13% 7%
+Total Debt / Equity 44% 49% 55% 54% 49% 39% 32% 25% 22% 17% 15% 13% 11% 10% 8% 7% 44% 54% 25% 13% 7%
+Op Inc / Assets, exc. Cash 55% 20% 21% 31% 37% 80% 112% 129% 134% 134% 139% 144% 145% 158% 170% 181% 196% 120% 325% 506% 619%
+Book & Cash Value
+Book Value Per Share $1.04 $0.95 $0.85 $0.89 $0.98 $1.10 $1.33 $1.73 $1.97 $2.34 $2.66 $3.04 $3.58 $4.22 $4.99 $5.88 $1.05 $0.88 $1.72 $3.04 $5.87
+Tangible Book Value per Share $0.87 $0.77 $0.68 $0.72 $0.81 $0.92 $1.16 $1.55 $1.80 $2.15 $2.47 $2.85 $3.39 $4.03 $4.79 $5.69 $0.88 $0.71 $1.55 $2.84 $5.68
+Free Cash Flow per Share $0.05 $0.03 ($0.01) $0.07 $0.11 $0.24 $0.28 $0.45 $0.60 $0.54 $0.68 $0.74 $0.00 $0.02 $0.02 $0.03 $0.32 $0.15 $1.08 $2.56 $3.85
+Cash Per Share $0.80 $0.68 $0.53 $0.54 $0.62 $0.64 $0.73 $1.04 $1.26 $1.40 $1.55 $1.94 $2.34 $2.90 $3.55 $4.35 $0.84 $0.53 $1.04 $1.93 $4.35
+Net Cash Per Share $0.34 $0.21 $0.06 $0.06 $0.14 $0.21 $0.30 $0.61 $0.82 $1.01 $1.15 $1.53 $1.94 $2.50 $3.15 $3.95 $0.38 $0.06 $0.61 $1.53 $3.95
+Source: Company Reports and Barclays Research
+20 November 2024 6
+NVIDIA
+FY End: January Apr-22 Jul-22 Oct-22 Jan-23 Apr-23 Jul-23 Oct-23 Jan-24 Apr-24 Jul-24 Oct-24 Jan-25 Apr-25 Jul-25 Oct-25 Jan-26 2022 2023 2024 2025 2026
+$ in millions 1Q 2Q 3Q 4Q 1Q 2Q 3Q 4Q 1Q 2Q 3Q 4QE 1QE 2QE 3QE 4QE FY FY FY FYE FYE													
+BALANCE SHEET
+Assets
+Cash & Equiv.+ ST Investments
+Accounts Receivable
+Inventories
+Other
+Total Current Assets
+Property and Equipment
+Goodwill
+Operating lease assets
+Intangible Assets
+Deferred income tax assets
+Other
+Total Assets
+Liabilities
+Account Payable
+Accrued and Other Current Liabilities
+Current Portion of Notes Payable
+Total Current Liabilities
+Notes Payable
+Capital Lease, net of current
+Other
+Total Liabilities
+Shareholders' Equity
+Shareholders' Equity
+Total Shareholders' Equity
+Total Liability and Equity													
+	$20,338 $17,037 $13,143 $13,296			$15,320 $16,023 $18,281 $25,984			$31,438 $34,800 $38,487 $47,889			$57,913 $71,589 $87,683 $107,335			
+	5,438 5,317 4,908 3,827			4,080 7,066 8,309 9,999			12,365 14,132 17,693 18,304			19,925 21,428 23,683 25,572			
+	3,163 3,889 4,454 5,159			4,611 4,319 4,779 5,282			5,864 6,675 7,654 8,253			9,497 9,993 10,607 10,775			
+	636 1,175 718 791			872 1,389 1,289 3,080			4,062 4,026 3,806 3,806			3,806 3,806 3,806 3,806			
+	$29,575 $27,418 $23,223 $23,073			$24,883 $28,797 $32,658 $44,345			$53,729 $59,633 $67,640 $78,251			$91,141 $106,816 $125,779 $147,488			
+	2,916 3,233 3,774 3,807			3,740 3,799 3,844 3,914			4,006 4,885 5,343 5,565			5,887 6,209 6,531 6,853			
+	4,365 4,372 4,372 4,372			4,430 4,430 4,430 4,430			4,453 4,622 4,724 4,724			4,724 4,724 4,724 4,724			
+	856 852 927 1,038			1,094 1,235 1,316 1,346			1,532 1,556 1,755 1,755			1,755 1,755 1,755 1,755			
+	2,211 2,036 1,850 1,676			1,541 1,395 1,251 1,112			986 952 838 (418)			(170) (170) (170) (170)			
+	1,784 2,225 2,762 3,396			4,568 5,398 5,982 6,081			7,798 9,578 10,276 10,272			10,268 10,264 10,260 10,256			
+	3,505 3,340 3,580 3,820			4,204 4,501 4,667 4,500			4,568 4,001 5,437 5,437			5,437 5,437 5,437 5,437			
+	$45,212 $43,476 $40,488 $41,182			$44,460 $49,555 $54,148 $65,728			$77,072 $85,227 $96,013 $105,586			$119,042 $135,035 $154,316 $176,343			
+	=======	======= =======	=======	=======	======= =======	=======	=======	======= =======	=======	=======	======= =======	=======	======= ======= ======= ======= =======
+													
+	$1,999 $2,421 $1,491 $1,193			$1,141 $1,929 $2,380 $2,699			$2,715 $3,680 $5,353 $5,517			$5,841 $6,146 $6,523 $6,627			
+	3,563 3,903 4,115 4,120			4,869 7,156 5,472 6,682			11,258 10,289 11,126 11,126			11,126 11,126 11,126 11,126			
+	0 1,249 1,249 1,250			1,250 1,249 1,249 1,250			1,250 0 0 0			0 0 0 0			
+	$5,562 $7,573 $6,855 $6,563			$7,260 $10,334 $9,101 $10,631			$15,223 $13,969 $16,479 $16,643			$16,967 $17,272 $17,649 $17,753			$4,335 $6,563 $10,631 $16,643 $17,753
+	10,947 9,700 9,701 9,703			9,704 8,456 8,457 8,459			8,460 8,461 8,462 8,462			8,462 8,462 8,462 8,462			10,946 9,703 8,459 8,462 8,462
+	752 743 798 902			939 1,041 1,091 1,119			1,281 1,304 1,490 1,490			1,490 1,490 1,490 1,490			
+	1,631 1,609 1,785 1,913			2,037 2,223 2,234 2,541			2,966 3,336 3,683 3,683			3,683 3,683 3,683 3,683			
+	$18,892 $19,625 $19,139 $19,081			$19,940 $22,054 $20,883 $22,750			$27,930 $27,070 $30,114 $30,278			$30,602 $30,907 $31,284 $31,388			
+	======= ======= ======= =======			======= ======= ======= =======			======= ======= ======= =======			======= ======= ======= =======			
+	26,320 23,851 21,349 22,101			24,520 27,501 33,265 42,978			49,142 58,157 65,899 75,308			88,440 104,128 123,032 144,955			
+	$26,320 $23,851 $21,349 $22,101			$24,520 $27,501 $33,265 $42,978			$49,142 $58,157 $65,899 $75,308			$88,440 $104,128 $123,032 $144,955			
+	======= ======= ======= =======			======= ======= ======= =======			======= ======= ======= =======			======= ======= ======= =======			
+	$45,212 $43,476 $40,488 $41,182			$44,460 $49,555 $54,148 $65,728			$77,072 $85,227 $96,013 $105,586			$119,042 $135,035 $154,316 $176,343			$44,187 $41,182 $65,728 $105,586 $176,343
+CHECK	0 0 0 0			0 0 0 0			0 0 0 0			0 0 0 0			0 0 0 0 0
+													
+VALUATION RATIOS	39% 15% 14% 28%
+52% 20% 24% 41%
+52% 46% 40% 35%
+31% 11% 13% 21%
+50% 19% 25% 43%
+42% 19% 25% 36%
+6.1 5.0 4.8 6.3
+60 72 76 58
+3.5 3.7 2.3 1.6
+106 97 156 229
+5.5 6.0 7.0 6.9
+67 61 52 53
+5.3 3.6 3.4 3.5
+4.7 3.1 2.7 2.7
+$24,013 $19,845 $16,368 $16,510
+44% 44% 49% 48%
+44% 49% 55% 54%
+55% 20% 21% 31%
+$1.04 $0.95 $0.85 $0.89
+$0.87 $0.77 $0.68 $0.72
+$0.05 $0.03 ($0.01) $0.07
+$0.80 $0.68 $0.53 $0.54
+$0.34 $0.21 $0.06 $0.06			38% 115% 164% 188%
+49% 110% 146% 154%
+32% 54% 78% 96%
+26% 61% 81% 95%
+53% 126% 180% 187%
+38% 50% 55% 58%
+7.1 7.6 8.7 8.8
+52 48 42 41
+2.1 3.6 3.8 3.9
+176 101 96 93
+8.4 8.1 7.6 7.6
+43 45 48 48
+3.4 2.8 3.6 4.2
+2.8 2.4 3.1 3.7
+$17,623 $18,463 $23,557 $33,714
+43% 35% 29% 22%
+49% 39% 32% 25%
+37% 80% 112% 129%
+$0.98 $1.10 $1.33 $1.73
+$0.81 $0.92 $1.16 $1.55
+$0.11 $0.24 $0.28 $0.45
+$0.62 $0.64 $0.73 $1.04
+$0.14 $0.21 $0.30 $0.61			210% 227% 229% 199%
+142% 138% 138% 126%
+117% 120% 119% 117%
+93% 88% 94% 87%
+162% 160% 158% 147%
+59% 56% 57% 55%
+8.4 8.5 7.9 8.3
+43 43 46 44
+3.8 4.4 4.6 4.9
+97 83 80 75
+8.1 8.0 6.6 7.3
+45 46 56 50
+3.5 4.3 4.1 4.7
+3.1 3.8 3.6 4.2
+$38,506 $45,664 $51,161 $61,608
+20% 17% 15% 13%
+22% 17% 15% 13%
+134% 134% 139% 144%
+$1.97 $2.34 $2.66 $3.04
+$1.80 $2.15 $2.47 $2.85
+$0.60 $0.54 $0.68 $0.74
+$1.26 $1.40 $1.55 $1.94
+$0.82 $1.01 $1.15 $1.53			223% 233% 252% 263%
+118% 113% 109% 102%
+109% 104% 97% 92%
+84% 84% 84% 81%
+132% 125% 118% 109%
+54% 55% 56% 58%
+8.3 8.5 8.5 8.5
+44 43 43 43
+4.9 4.9 4.9 4.9
+75 75 75 75
+7.9 7.9 7.9 7.9
+46 46 46 46
+5.4 6.2 7.1 8.3
+4.8 5.6 6.5 7.7
+$74,174 $89,544 $108,130 $129,735
+11% 10% 8% 7%
+11% 10% 8% 7%
+145% 158% 170% 181%
+$3.58 $4.22 $4.99 $5.88
+$3.39 $4.03 $4.79 $5.69
+$0.00 $0.02 $0.02 $0.03
+$2.34 $2.90 $3.55 $4.35
+$1.94 $2.50 $3.15 $3.95			
+Profitability Ratios
+Return on Invested Capital
+Return On Equity
+Return On Avg Equity *
+Return On Assets
+Return On Net Assets
+Return On Sales
+* Avg Over Last 4 Qtrs
+Efficiency Ratios
+A/R Turnover
+A/R Days Sales Out
+Inventory Turns
+Days of Inventory
+A/P turnover
+Days Payable
+Liquidity Ratios
+Current Ratio
+Quick Ratio
+Net Working Capital
+Long-term Debt / Equity
+Total Debt / Equity
+Op Inc / Assets, exc. Cash
+Book & Cash Value
+Book Value Per Share
+Tangible Book Value per Share
+Free Cash Flow per Share
+Cash Per Share
+Net Cash Per Share													
+
+Barclays | NVIDIA Corp.
+FIGURE 6. NVDA Cash Flow Statement
+NVIDIA
+FY End: January Apr-22 Jul-22 Oct-22 Jan-23 Apr-23 Jul-23 Oct-23 Jan-24 Apr-24 Jul-24 Oct-24 Jan-25 Apr-25 Jul-25 Oct-25 Jan-26 2022 2023 2024 2025 2026
+$ in millions 1Q 2Q 3Q 4Q 1Q 2Q 3Q 4Q 1Q 2Q 3Q 4QE 1QE 2QE 3QE 4QE FY FY FY FYE FYE
+CASH FLOW
+Cash Flows from Operations
+Net income $1,618 $656 $680 $1,414 $2,043 $6,188 $9,243 $12,285 $14,881 $16,599 $19,309 $18,947 $21,165 $23,969 $27,185 $30,204 $9,753 $4,368 $29,759 $69,736 $102,522
+Stock-based compensation expense 578 648 745 738 735 842 979 993 1,011 1,154 1,252 1,252 1,252 1,252 1,252 1,252 2,004 2,709 3,549 4,669 5,008
+Depreciation and amortization 334 378 406 426 384 365 372 387 410 433 478 478 478 478 478 478 1,174 1,544 1,508 1,799 1,912
+Deferred income taxes (542) (443) (532) (647) (1,135) (746) (529) (78) (1,577) (193) (602) (602) (602) (602) (602) (602) (407) (2,164) (2,488) (2,974) (2,408)
+Other 1,393 2 (34) 30 (20) (129) 3 (369) (214) (1,843) (116) 0 0 0 0 0 (53) 1,391 (515) (2,173) 0
+Changes in Operating Assets and Liabilities:
+Accounts receivable (788) 120 410 1,081 (252) (2,986) (1,243) (1,690) (2,366) (1,767) (3,561) (611) (1,621) (1,503) (2,255) (1,889) (2,216) 823 (6,171) (8,305) (7,268)
+Inventories (560) (725) (563) (706) 566 296 (457) (503) (577) (803) (978) (599) (1,244) (496) (614) (168) (774) (2,554) (98) (2,957) (2,522)
+Prepaid expenses and other current assets (1,261) (293) 247 (210) (215) (376) 254 (1,184) (726) 714 (714) 0 0 0 0 0 (1,715) (1,517) (1,521) (726) 0
+Accounts payable 255 304 (917) (193) 11 777 461 281 (22) 823 1,689 164 324 305 377 103 657 (551) 1,530 2,654 1,110
+Accrued liabilities and other LT liabilities 704 623 (50) 316 794 2,117 (1,750) 1,377 4,525 (628) 872 0 0 0 0 0 685 1,593 2,538 4,769 0
+Net Cash from Operations $1,731 $1,270 $392 $2,249 $2,911 $6,348 $7,333 $11,499 $15,345 $14,489 $17,629 $19,029 $19,752 $23,403 $25,821 $29,378 $9,108 $5,642 $28,091 $66,492 $98,354
+Cash Flow from Investing
+PP&E ($361) ($433) ($530) ($509) ($248) ($289) ($278) ($253) ($369) ($977) ($813) ($700) ($800) ($800) ($800) ($800) ($975) ($1,833) ($1,068) ($2,859) ($3,200)
+Acquisition of Business (36) (13) 0 0 (83) 0 0 0 (39) (279) (147) 0 0 0 0 0 (263) (49) (83) (465) 0
+Proceeds from (Purchases of) Marketable Sec. 3,044 2,094 3,696 500 (289) 56 (2,454) (5,743) (5,150) (1,585) (2,978) 0 0 0 0 0 (8,566) 9,334 (8,430) (9,713) 0
+Other (35) (30) (18) 5 (221) (214) (437) (113) (135) (344) (407) 0 0 0 0 0 (26) (78) (985) (886) 0
+Net Cash from Investing $2,612 $1,618 $3,148 ($4) ($841) ($447) ($3,169) ($6,109) ($5,693) ($3,185) ($4,345) ($700) ($800) ($800) ($800) ($800) ($9,830) $7,374 ($10,566) ($13,923) ($3,200)
+Cash Flows from Financing
+Proceeds from (repurchase of) of common ($1,996) ($3,345) ($3,485) ($1,212) $0 ($3,067) ($3,806) ($2,660) ($7,740) ($7,158) ($10,998) ($7,000) ($7,000) ($7,000) ($7,000) ($7,000) $0 ($10,038) ($9,533) ($32,896) ($28,000)
+Proceeds from employee stock plans 204 1 143 5 246 1 156 0 285 0 0 0 0 0 0 0 260 353 403 285 0
+Payment of dividends to stockholders (100) (100) (100) (98) (99) (99) (99) (99) (98) (246) (245) (247) (247) (247) (247) (247) (399) (398) (396) (836) (987)
+Proceeds from (repayment of) notes 0 1 0 0 0 (1,250) 0 0 0 (1,250) 0 0 0 0 0 0 3,977 1 (1,250) (1,250) 0
+Payments related to tax on restricted stock (532) (305) (294) (344) (507) (672) (764) (841) (1,752) (1,637) (1,680) (1,680) (1,680) (1,680) (1,680) (1,680) (1,904) (1,475) (2,784) (6,749) (6,720)
+Other (22) (14) (17) (7) (20) (11) (14) (29) (40) (29) 175 0 0 0 0 0 (69) (60) (74) 106 0
+Net Cash from Financing ($2,446) ($3,762) ($3,753) ($1,656) ($380) ($5,098) ($4,527) ($3,629) ($9,345) ($10,320) ($12,748) ($8,927) ($8,927) ($8,927) ($8,927) ($8,927) $1,865 ($11,617) ($13,634) ($41,340) ($35,707)
+Cash and Cash eqv at beginning $1,990 $3,887 $3,013 $2,800 $3,389 $5,079 $5,882 $5,519 $7,280 $7,587 $8,571 $9,107 $18,509 $28,533 $42,209 $58,303 $847 $1,990 $3,389 $7,280 $18,509
+Net Increase in Cash and Cash eqv. 1,897 (874) (213) 589 1,690 803 (363) 1,761 307 984 536 9,402 10,024 13,676 16,094 19,651 1,143 1,399 3,891 11,229 59,446
+Cash and Cash eqv at end 3,887 3,013 2,800 3,389 5,079 5,882 5,519 7,280 7,587 8,571 9,107 18,509 28,533 42,209 58,303 77,955 1,990 3,389 7,280 18,509 77,955
+Marketable Securities 16,451 14,024 10,343 9,907 10,241 10,141 12,762 18,704 23,851 26,229 29,380 29,380 29,380 29,380 29,380 29,380 19,218 9,907 18,704 29,380 29,380
+Total Cash and Cash eqv plus MS at end $20,338 $17,037 $13,143 $13,296 $15,320 $16,023 $18,281 $25,984 $31,438 $34,800 $38,487 $47,889 $57,913 $71,589 $87,683 $107,335 $21,208 $13,296 $25,984 $47,889 $107,335
+Cash Flow from Operations $1,731 $1,270 $392 $2,249 $2,911 $6,348 $7,333 $11,499 $15,345 $14,489 $17,629 $19,029 $19,752 $23,403 $25,821 $29,378 $9,108 $5,642 $28,091 $66,492 $98,354
+Capex (361) (433) (530) (509) (248) (289) (278) (253) (369) (977) (813) (700) (800) (800) (800) (800) (975) (1,833) (1,068) (2,859) (3,200)
+Free Cash Flow $1,370 $837 ($138) $1,740 $2,663 $6,059 $7,055 $11,246 $14,976 $13,512 $16,816 $18,329 $18,952 $22,603 $25,021 $28,578 $8,133 $3,809 $27,023 $63,633 $95,154
+Source: Company Reports and Barclays Research
+20 November 2024 7
+NVIDIA
+FY End: January Apr-22 Jul-22 Oct-22 Jan-23 Apr-23 Jul-23 Oct-23 Jan-24 Apr-24 Jul-24 Oct-24 Jan-25 Apr-25 Jul-25 Oct-25 Jan-26 2022 2023 2024 2025 2026
+$ in millions 1Q 2Q 3Q 4Q 1Q 2Q 3Q 4Q 1Q 2Q 3Q 4QE 1QE 2QE 3QE 4QE FY FY FY FYE FYE									
+CASH FLOW									
+Cash Flows from Operations
+Net income
+Stock-based compensation expense
+Depreciation and amortization
+Deferred income taxes
+Other
+Changes in Operating Assets and Liabilities:
+Accounts receivable
+Inventories
+Prepaid expenses and other current assets
+Accounts payable
+Accrued liabilities and other LT liabilities									
+	$1,618 $656 $680 $1,414		$2,043 $6,188 $9,243 $12,285		$14,881 $16,599 $19,309 $18,947		$21,165 $23,969 $27,185 $30,204		
+	578 648 745 738
+334 378 406 426
+(542) (443) (532) (647)
+1,393 2 (34) 30
+(788) 120 410 1,081
+(560) (725) (563) (706)
+(1,261) (293) 247 (210)
+255 304 (917) (193)
+704 623 (50) 316		735 842 979 993
+384 365 372 387
+(1,135) (746) (529) (78)
+(20) (129) 3 (369)
+(252) (2,986) (1,243) (1,690)
+566 296 (457) (503)
+(215) (376) 254 (1,184)
+11 777 461 281
+794 2,117 (1,750) 1,377		1,011 1,154 1,252 1,252
+410 433 478 478
+(1,577) (193) (602) (602)
+(214) (1,843) (116) 0
+(2,366) (1,767) (3,561) (611)
+(577) (803) (978) (599)
+(726) 714 (714) 0
+(22) 823 1,689 164
+4,525 (628) 872 0		1,252 1,252 1,252 1,252
+478 478 478 478
+(602) (602) (602) (602)
+0 0 0 0
+(1,621) (1,503) (2,255) (1,889)
+(1,244) (496) (614) (168)
+0 0 0 0
+324 305 377 103
+0 0 0 0		
+Net Cash from Operations
+Cash Flow from Investing
+PP&E
+Acquisition of Business
+Proceeds from (Purchases of) Marketable Sec.
+Other	$1,731 $1,270 $392 $2,249
+($361) ($433) ($530) ($509)
+(36) (13) 0 0
+3,044 2,094 3,696 500
+(35) (30) (18) 5		$2,911 $6,348 $7,333 $11,499
+($248) ($289) ($278) ($253)
+(83) 0 0 0
+(289) 56 (2,454) (5,743)
+(221) (214) (437) (113)		$15,345 $14,489 $17,629 $19,029
+($369) ($977) ($813) ($700)
+(39) (279) (147) 0
+(5,150) (1,585) (2,978) 0
+(135) (344) (407) 0		$19,752 $23,403 $25,821 $29,378
+($800) ($800) ($800) ($800)
+0 0 0 0
+0 0 0 0
+0 0 0 0		
+Net Cash from Investing $2,612 $1,618 $3,148 ($4)
+Cash Flows from Financing
+Proceeds from (repurchase of) of common ($1,996) ($3,345) ($3,485) ($1,212)
+Proceeds from employee stock plans 204 1 143 5
+Payment of dividends to stockholders (100) (100) (100) (98)
+Proceeds from (repayment of) notes 0 1 0 0
+Payments related to tax on restricted stock (532) (305) (294) (344)
+Other (22) (14) (17) (7)			($841) ($447) ($3,169) ($6,109)
+$0 ($3,067) ($3,806) ($2,660)
+246 1 156 0
+(99) (99) (99) (99)
+0 (1,250) 0 0
+(507) (672) (764) (841)
+(20) (11) (14) (29)		($5,693) ($3,185) ($4,345) ($700)
+($7,740) ($7,158) ($10,998) ($7,000)
+285 0 0 0
+(98) (246) (245) (247)
+0 (1,250) 0 0
+(1,752) (1,637) (1,680) (1,680)
+(40) (29) 175 0		($800) ($800) ($800) ($800)
+($7,000) ($7,000) ($7,000) ($7,000)
+0 0 0 0
+(247) (247) (247) (247)
+0 0 0 0
+(1,680) (1,680) (1,680) (1,680)
+0 0 0 0		
+Net Cash from Financing
+Cash and Cash eqv at beginning
+Net Increase in Cash and Cash eqv.
+Cash and Cash eqv at end
+Marketable Securities	($2,446) ($3,762) ($3,753) ($1,656)
+$1,990 $3,887 $3,013 $2,800
+1,897 (874) (213) 589
+3,887 3,013 2,800 3,389
+16,451 14,024 10,343 9,907	($1,656)	($380) ($5,098) ($4,527) ($3,629)
+$3,389 $5,079 $5,882 $5,519
+1,690 803 (363) 1,761
+5,079 5,882 5,519 7,280
+10,241 10,141 12,762 18,704	($3,629)	($9,345) ($10,320) ($12,748) ($8,927)
+$7,280 $7,587 $8,571 $9,107
+307 984 536 9,402
+7,587 8,571 9,107 18,509
+23,851 26,229 29,380 29,380	($8,927)	($8,927) ($8,927) ($8,927) ($8,927)
+$18,509 $28,533 $42,209 $58,303
+10,024 13,676 16,094 19,651
+28,533 42,209 58,303 77,955
+29,380 29,380 29,380 29,380	($8,927)	
+Total Cash and Cash eqv plus MS at end	$20,338 $17,037 $13,143 $13,296		$15,320 $16,023 $18,281 $25,984		$31,438 $34,800 $38,487 $47,889		$57,913 $71,589 $87,683 $107,335		
+Cash Flow from Operations
+Capex	$1,731 $1,270 $392 $2,249
+(361) (433) (530) (509)		$2,911 $6,348 $7,333 $11,499
+(248) (289) (278) (253)		$15,345 $14,489 $17,629 $19,029
+(369) (977) (813) (700)		$19,752 $23,403 $25,821 $29,378
+(800) (800) (800) (800)		
+Free Cash Flow	$1,370 $837 ($138) $1,740		$2,663 $6,059 $7,055 $11,246		$14,976 $13,512 $16,816 $18,329		$18,952 $22,603 $25,021 $28,578		
+
+Barclays | NVIDIA Corp.
+Analyst(s) Certification(s):
+I, Tom O'Malley, hereby certify (1) that the views expressed in this research report accurately reflect my personal views about any or all of the subject
+securities or issuers referred to in this research report and (2) no part of my compensation was, is or will be directly or indirectly related to the specific
+recommendations or views expressed in this research report.
+Important Disclosures:
+Barclays Research is produced by the Investment Bank of Barclays Bank PLC and its affiliates (collectively and each individually, "Barclays"). All
+authors contributing to this research report are Research Analysts unless otherwise indicated. The publication date at the top of the report reflects the
+local time where the report was produced and may differ from the release date provided in GMT.
+Availability of Disclosures:
+Where any companies are the subject of this research report, for current important disclosures regarding those companies please refer to https://
+publicresearch.barclays.com or alternatively send a written request to: Barclays Research Compliance, 745 Seventh Avenue, 13th Floor, New York, NY
+10019 or call +1-212-526-1072.
+The analysts responsible for preparing this research report have received compensation based upon various factors including the firm's total revenues,
+a portion of which is generated by investment banking activities, the profitability and revenues of the Markets business and the potential interest of the
+firm's investing clients in research with respect to the asset class covered by the analyst.
+Analysts regularly conduct site visits to view the material operations of covered companies, but Barclays policy prohibits them from accepting payment
+or reimbursement by any covered company of their travel expenses for such visits.
+Barclays Research Department produces various types of research including, but not limited to, fundamental analysis, equity-linked analysis,
+quantitative analysis, and trade ideas. Recommendations contained in one type of Barclays Research may differ from those contained in other types of
+Barclays Research, whether as a result of differing time horizons, methodologies, or otherwise.
+In order to access Barclays Statement regarding Research Dissemination Policies and Procedures, please refer to https://
+publicresearch.barclays.com/S/RD.htm. In order to access Barclays Research Conflict Management Policy Statement, please refer to: https://
+publicresearch.barclays.com/S/CM.htm.
+Primary Stocks (Ticker, Date, Price)
+NVIDIA Corp. (NVDA, 20-Nov-2024, USD 145.89), Overweight/Neutral, CD/CE/J/K/M
+Unless otherwise indicated, prices are sourced from Bloomberg and reflect the closing price in the relevant trading market, which may not be the last
+available closing price at the time of publication.
+Disclosure Legend:
+A: Barclays Bank PLC and/or an affiliate has been lead manager or co-lead manager of a publicly disclosed offer of securities of the issuer in the
+previous 12 months.
+B: An employee or non-executive director of Barclays PLC is a director of this issuer.
+CD: Barclays Bank PLC and/or an affiliate is a market-maker in debt securities issued by this issuer.
+CE: Barclays Bank PLC and/or an affiliate is a market-maker in equity securities issued by this issuer.
+CH: Barclays Bank PLC and/or its group companies makes, or will make, a market in the securities (as defined under paragraph 16.2 (k) of the HK SFC
+Code of Conduct) in respect of this issuer.
+D: Barclays Bank PLC and/or an affiliate has received compensation for investment banking services from this issuer in the past 12 months.
+E: Barclays Bank PLC and/or an affiliate expects to receive or intends to seek compensation for investment banking services from this issuer within the
+next 3 months.
+FA: Barclays Bank PLC and/or an affiliate beneficially owns 1% or more of a class of equity securities of this issuer, as calculated in accordance with US
+regulations.
+FB: Barclays Bank PLC and/or an affiliate beneficially owns a long position of more than 0.5% of a class of equity securities of this issuer, as calculated
+in accordance with EU regulations.
+FC: Barclays Bank PLC and/or an affiliate beneficially owns a short position of more than 0.5% of a class of equity securities of this issuer, as calculated
+in accordance with EU regulations.
+FD: Barclays Bank PLC and/or an affiliate beneficially owns 1% or more of a class of equity securities of this issuer, as calculated in accordance with
+South Korean regulations.
+FE: Barclays Bank PLC and/or its group companies has financial interests in relation to this issuer and such interests aggregate to an amount equal to
+or more than 1% of this issuer’s market capitalization, as calculated in accordance with HK regulations.
+GD: One of the Research Analysts on the fundamental credit coverage team (and/or a member of his or her household) has a long position in the
+common equity securities of this issuer.
+GE: One of the Research Analysts on the fundamental equity coverage team (and/or a member of his or her household) has a long position in the
+common equity securities of this issuer.
+H: This issuer beneficially owns more than 5% of any class of common equity securities of Barclays PLC.
+I: Barclays Bank PLC and/or an affiliate is party to an agreement with this issuer for the provision of financial services to Barclays Bank PLC and/or an
+affiliate.
+J: Barclays Bank PLC and/or an affiliate is a liquidity provider and/or trades regularly in the securities of this issuer and/or in any related derivatives.
+20 November 2024 8
+
+Barclays | NVIDIA Corp.
+K: Barclays Bank PLC and/or an affiliate has received non-investment banking related compensation (including compensation for brokerage services, if
+applicable) from this issuer within the past 12 months.
+L: This issuer is, or during the past 12 months has been, an investment banking client of Barclays Bank PLC and/or an affiliate.
+M: This issuer is, or during the past 12 months has been, a non-investment banking client (securities related services) of Barclays Bank PLC and/or an
+affiliate.
+N: This issuer is, or during the past 12 months has been, a non-investment banking client (non-securities related services) of Barclays Bank PLC and/or
+an affiliate.
+O: Not in use.
+P: A partner, director or officer of Barclays Capital Canada Inc. has, during the preceding 12 months, provided services to the subject company for
+remuneration, other than normal course investment advisory or trade execution services.
+Q: Barclays Bank PLC and/or an affiliate is a Corporate Broker to this issuer.
+R: Barclays Capital Canada Inc. and/or an affiliate has received compensation for investment banking services from this issuer in the past 12 months.
+S: This issuer is a Corporate Broker to Barclays PLC.
+T: Barclays Bank PLC and/or an affiliate is providing investor engagement services to this issuer.
+U: The equity securities of this Canadian issuer include subordinate voting restricted shares.
+V: The equity securities of this Canadian issuer include non-voting restricted shares.
+Risk Disclosure(s)
+Master limited partnerships (MLPs) are pass-through entities structured as publicly listed partnerships. For tax purposes, distributions to MLP unit
+holders may be treated as a return of principal. Investors should consult their own tax advisors before investing in MLP units.
+Disclosure(s) regarding Information Sources
+Copyright © (2024) Sustainalytics. Sustainalytics retains ownership and all intellectual property rights in its proprietary information and data that may
+be included in this report. Any Sustainalytics’ information and data included herein may not be copied or redistributed, is intended for informational
+purposes only, does not constitute investment advice and is not warranted to be complete, timely and accurate. Sustainalytics’ information and data is
+subject to conditions available at www.sustainalytics.com/legal-disclaimers/
+Bloomberg® is a trademark and service mark of Bloomberg Finance L.P. and its affiliates (collectively “Bloomberg”) and the Bloomberg Indices are
+trademarks of Bloomberg. Bloomberg or Bloomberg’s licensors own all proprietary rights in the Bloomberg Indices. Bloomberg does not approve or
+endorse this material, or guarantee the accuracy or completeness of any information herein, or make any warranty, express or implied, as to the results
+to be obtained therefrom and, to the maximum extent allowed by law, Bloomberg shall have no liability or responsibility for injury or damages arising
+in connection therewith.
+Guide to the Barclays Fundamental Equity Research Rating System:
+Our coverage analysts use a relative rating system in which they rate stocks as Overweight, Equal Weight or Underweight (see definitions below)
+relative to other companies covered by the analyst or a team of analysts that are deemed to be in the same industry (the "industry coverage universe").
+In addition to the stock rating, we provide industry views which rate the outlook for the industry coverage universe as Positive, Neutral or Negative (see
+definitions below). A rating system using terms such as buy, hold and sell is not the equivalent of our rating system. Investors should carefully read the
+entire research report including the definitions of all ratings and not infer its contents from ratings alone.
+Stock Rating
+Overweight - The stock is expected to outperform the unweighted expected total return of the industry coverage universe over a 12-month investment
+horizon.
+Equal Weight - The stock is expected to perform in line with the unweighted expected total return of the industry coverage universe over a 12-month
+investment horizon.
+Underweight - The stock is expected to underperform the unweighted expected total return of the industry coverage universe over a 12-month
+investment horizon.
+Rating Suspended - The rating and target price have been suspended temporarily due to market events that made coverage impracticable or to
+comply with applicable regulations and/or firm policies in certain circumstances including where the Investment Bank of Barclays Bank PLC is acting in
+an advisory capacity in a merger or strategic transaction involving the company.
+Industry View
+Positive - industry coverage universe fundamentals/valuations are improving.
+Neutral - industry coverage universe fundamentals/valuations are steady, neither improving nor deteriorating.
+Negative - industry coverage universe fundamentals/valuations are deteriorating.
+Below is the list of companies that constitute the "industry coverage universe":
+U.S. Semiconductors & Semiconductor Capital Equipment
+Advanced Micro Devices (AMD) Allegro Microsystems (ALGM) Analog Devices (ADI)
+Applied Materials Inc. (AMAT) Arm Holdings plc (ARM) Astera Labs, Inc. (ALAB)
+Broadcom Inc. (AVGO) Camtek (CAMT) Cirrus Logic Inc. (CRUS)
+Coherent Corp. (COHR) Credo Technology Group (CRDO) Intel Corp. (INTC)
+KLA Corporation (KLAC) Lam Research Corporation (LRCX) Lumentum Holdings Inc. (LITE)
+20 November 2024 9
+
+Barclays | NVIDIA Corp.
+MACOM Technology Solutions Holdings, Inc.
+Marvell Technology Group, Ltd. (MRVL) Micron Technology, Inc. (MU)
+(MTSI)
+NVIDIA Corp. (NVDA) NXP Semiconductors NV (NXPI) Penguin Solutions (PENG)
+Qorvo Inc. (QRVO) QUALCOMM, Inc. (QCOM) Seagate Technology plc (STX)
+Silicon Laboratories, Inc. (SLAB) SiTime Corporation (SITM) Skyworks Solutions, Inc. (SWKS)
+Texas Instruments, Inc. (TXN) Veeco Instruments Inc (VECO) Western Digital Corporation (WDC)
+Distribution of Ratings:
+Barclays Equity Research has 1862 companies under coverage.
+48% have been assigned an Overweight rating which, for purposes of mandatory regulatory disclosures, is classified as a Buy rating; 52% of companies
+with this rating are investment banking clients of the Firm; 72% of the issuers with this rating have received financial services from the Firm.
+36% have been assigned an Equal Weight rating which, for purposes of mandatory regulatory disclosures, is classified as a Hold rating; 45% of
+companies with this rating are investment banking clients of the Firm; 62% of the issuers with this rating have received financial services from the Firm.
+15% have been assigned an Underweight rating which, for purposes of mandatory regulatory disclosures, is classified as a Sell rating; 32% of
+companies with this rating are investment banking clients of the Firm; 54% of the issuers with this rating have received financial services from the Firm.
+Guide to the Barclays Research Price Target:
+Each analyst has a single price target on the stocks that they cover. The price target represents that analyst's expectation of where the stock will trade
+in the next 12 months. Upside/downside scenarios, where provided, represent potential upside/potential downside to each analyst's price target over
+the same 12-month period.
+Types of investment recommendations produced by Barclays Equity Research:
+In addition to any ratings assigned under Barclays’ formal rating systems, this publication may contain investment recommendations in the form of
+trade ideas, thematic screens, scorecards or portfolio recommendations that have been produced by analysts within Equity Research. Any such
+investment recommendations shall remain open until they are subsequently amended, rebalanced or closed in a future research report.
+Barclays may also re-distribute equity research reports produced by third-party research providers that contain recommendations that differ from
+and/or conflict with those published by Barclays’ Equity Research Department.
+Disclosure of other investment recommendations produced by Barclays Equity Research:
+Barclays Equity Research may have published other investment recommendations in respect of the same securities/instruments recommended in this
+research report during the preceding 12 months. To view all investment recommendations published by Barclays Equity Research in the preceding 12
+months please refer to https://live.barcap.com/go/research/Recommendations.
+Legal entities involved in producing Barclays Research:
+Barclays Bank PLC (Barclays, UK)
+Barclays Capital Inc. (BCI, US)
+Barclays Bank Ireland PLC, Frankfurt Branch (BBI, Frankfurt)
+Barclays Bank Ireland PLC, Paris Branch (BBI, Paris)
+Barclays Bank Ireland PLC, Milan Branch (BBI, Milan)
+Barclays Securities Japan Limited (BSJL, Japan)
+Barclays Bank PLC, Hong Kong Branch (Barclays Bank, Hong Kong)
+Barclays Bank Mexico, S.A. (BBMX, Mexico)
+Barclays Capital Casa de Bolsa, S.A. de C.V. (BCCB, Mexico)
+Barclays Securities (India) Private Limited (BSIPL, India)
+Barclays Bank PLC, Singapore Branch (Barclays Bank, Singapore)
+Barclays Bank PLC, DIFC Branch (Barclays Bank, DIFC)
+20 November 2024 10
+MACOM Technology Solutions Holdings, Inc.
+Marvell Technology Group, Ltd. (MRVL) Micron Technology, Inc. (MU)
+(MTSI)
+NVIDIA Corp. (NVDA) NXP Semiconductors NV (NXPI) Penguin Solutions (PENG)
+Qorvo Inc. (QRVO) QUALCOMM, Inc. (QCOM) Seagate Technology plc (STX)
+Silicon Laboratories, Inc. (SLAB) SiTime Corporation (SITM) Skyworks Solutions, Inc. (SWKS)
+Texas Instruments, Inc. (TXN) Veeco Instruments Inc (VECO) Western Digital Corporation (WDC)
+Distribution of Ratings:
+Barclays Equity Research has 1862 companies under coverage.
+48% have been assigned an Overweight rating which, for purposes of mandatory regulatory disclosures, is classified as a Buy rating; 52% of companies
+with this rating are investment banking clients of the Firm; 72% of the issuers with this rating have received financial services from the Firm.
+36% have been assigned an Equal Weight rating which, for purposes of mandatory regulatory disclosures, is classified as a Hold rating; 45% of
+companies with this rating are investment banking clients of the Firm; 62% of the issuers with this rating have received financial services from the Firm.
+15% have been assigned an Underweight rating which, for purposes of mandatory regulatory disclosures, is classified as a Sell rating; 32% of
+companies with this rating are investment banking clients of the Firm; 54% of the issuers with this rating have received financial services from the Firm.
+Guide to the Barclays Research Price Target:
+Each analyst has a single price target on the stocks that they cover. The price target represents that analyst's expectation of where the stock will trade
+in the next 12 months. Upside/downside scenarios, where provided, represent potential upside/potential downside to each analyst's price target over
+the same 12-month period.
+Types of investment recommendations produced by Barclays Equity Research:
+In addition to any ratings assigned under Barclays’ formal rating systems, this publication may contain investment recommendations in the form of
+trade ideas, thematic screens, scorecards or portfolio recommendations that have been produced by analysts within Equity Research. Any such
+investment recommendations shall remain open until they are subsequently amended, rebalanced or closed in a future research report.
+Barclays may also re-distribute equity research reports produced by third-party research providers that contain recommendations that differ from
+and/or conflict with those published by Barclays’ Equity Research Department.
+Disclosure of other investment recommendations produced by Barclays Equity Research:
+Barclays Equity Research may have published other investment recommendations in respect of the same securities/instruments recommended in this
+research report during the preceding 12 months. To view all investment recommendations published by Barclays Equity Research in the preceding 12
+months please refer to https://live.barcap.com/go/research/Recommendations.
+Legal entities involved in producing Barclays Research:
+Barclays Bank PLC (Barclays, UK)
+Barclays Capital Inc. (BCI, US)
+Barclays Bank Ireland PLC, Frankfurt Branch (BBI, Frankfurt)
+Barclays Bank Ireland PLC, Paris Branch (BBI, Paris)
+Barclays Bank Ireland PLC, Milan Branch (BBI, Milan)
+Barclays Securities Japan Limited (BSJL, Japan)
+Barclays Bank PLC, Hong Kong Branch (Barclays Bank, Hong Kong)
+Barclays Bank Mexico, S.A. (BBMX, Mexico)
+Barclays Capital Casa de Bolsa, S.A. de C.V. (BCCB, Mexico)
+Barclays Securities (India) Private Limited (BSIPL, India)
+Barclays Bank PLC, Singapore Branch (Barclays Bank, Singapore)
+Barclays Bank PLC, DIFC Branch (Barclays Bank, DIFC)
+
+Barclays | NVIDIA Corp.
+NVIDIA Corp. (NVDA / NVDA)
+Stock Rating: OVERWEIGHT
+Industry View: NEUTRAL
+Closing Price: USD 145.89 (20-Nov-2024)
+Rating and Price Target Chart - USD (as of 20-Nov-2024)
+Currency=USD
+150
+125
+100
+75
+50
+25
+0
+Jan-2022 Jul-2022 Jan-2023 Jul-2023 Jan-2024 Jul-2024
+Closing Price Target Price
+Source: IDC, Barclays Research
+Link to Barclays Live for interactive charting
+Publication Closing Price* Rating Adjusted Price
+Date Target
+10-Jun-2024 1208.88 145.00
+22-May-2024 95.39 120.00
+20-May-2024 92.48 110.00
+16-Feb-2024 72.61 85.00
+23-Aug-2023 47.12 65.00
+20-Jul-2023 45.52 60.00
+25-May-2023 37.98 50.00
+22-Feb-2023 20.75 27.50
+23-Jan-2023 19.19 25.00
+17-Nov-2022 15.68 17.00
+24-Oct-2022 12.60 14.00
+25-Aug-2022 17.91 19.00
+25-Jul-2022 17.02 20.00
+25-Apr-2022 19.90 29.50
+On 20-Nov-2021, prior to any intra-day change that may have been
+published, the rating for this security was Overweight, and the adjusted
+price target was 35.00.
+Source: Bloomberg, Barclays Research
+*This is the closing price referenced in the publication, which may not be
+the last available closing price at the time of publication.
+Historical stock prices and price targets may have been adjusted for stock
+splits and dividends.
+CD: Barclays Bank PLC and/or an affiliate is a market-maker in debt securities issued by NVIDIA Corp..
+20 November 2024 11
+			
+			
+			
+			
+			
+			
+			
+			
+
+Barclays | NVIDIA Corp.
+CE: Barclays Bank PLC and/or an affiliate is a market-maker in equity securities issued by NVIDIA Corp..
+J: Barclays Bank PLC and/or an affiliate is a liquidity provider and/or trades regularly in the securities by NVIDIA Corp. and/or in any related
+derivatives.
+K: Barclays Bank PLC and/or an affiliate has received non-investment banking related compensation (including compensation for brokerage services,
+if applicable) from NVIDIA Corp. within the past 12 months.
+M: NVIDIA Corp. is, or during the past 12 months has been, a non-investment banking client (securities related services) of Barclays Bank PLC and/or
+an affiliate.
+Valuation Methodology: Our price target of $160 is based upon 37x our CY25E non-GAAP EPS of $4.33.
+Risks which May Impede the Achievement of the Barclays Research Valuation and Price Target: Risks to the downside include a slower ramp in
+GPUs for AI in the DC, slower recovery in the gaming market, a slower Auto ramp and slower GM improvement.
+Disclaimer:
+This publication has been produced by Barclays Research Department in the Investment Bank of Barclays Bank PLC and/or one or more of its affiliates
+(collectively and each individually, "Barclays").
+It has been prepared for institutional investors and not for retail investors. It has been distributed by one or more Barclays affiliated legal entities listed
+below or by an independent and non-affiliated third-party entity (as may be communicated to you by such third-party entity in its communications
+with you). It is provided for information purposes only, and Barclays makes no express or implied warranties, and expressly disclaims all warranties of
+merchantability or fitness for a particular purpose or use with respect to any data included in this publication. To the extent that this publication states
+on the front page that it is intended for institutional investors and is not subject to all of the independence and disclosure standards applicable to debt
+research reports prepared for retail investors under U.S. FINRA Rule 2242, it is an “institutional debt research report” and distribution to retail investors
+is strictly prohibited. Barclays also distributes such institutional debt research reports to various issuers, media, regulatory and academic
+organisations for their own internal informational news gathering, regulatory or academic purposes and not for the purpose of making investment
+decisions regarding any debt securities. Media organisations are prohibited from re-publishing any opinion or recommendation concerning a debt
+issuer or debt security contained in any Barclays institutional debt research report. Any such recipients that do not want to continue receiving Barclays
+institutional debt research reports should contact debtresearch@barclays.com. Unless clients have agreed to receive “institutional debt research
+reports” as required by US FINRA Rule 2242, they will not receive any such reports that may be co-authored by non-debt research analysts. Eligible
+clients may get access to such cross asset reports by contacting debtresearch@barclays.com. Barclays will not treat unauthorized recipients of this
+report as its clients and accepts no liability for use by them of the contents which may not be suitable for their personal use. Prices shown are
+indicative and Barclays is not offering to buy or sell or soliciting offers to buy or sell any financial instrument.
+Without limiting any of the foregoing and to the extent permitted by law, in no event shall Barclays, nor any affiliate, nor any of their respective officers,
+directors, partners, or employees have any liability for (a) any special, punitive, indirect, or consequential damages; or (b) any lost profits, lost revenue,
+loss of anticipated savings or loss of opportunity or other financial loss, even if notified of the possibility of such damages, arising from any use of this
+publication or its contents.
+Other than disclosures relating to Barclays, the information contained in this publication has been obtained from sources that Barclays Research
+believes to be reliable, but Barclays does not represent or warrant that it is accurate or complete. Appearances by Third-Party Speakers: Any views or
+opinions expressed by third-party speakers during this event are solely those of the speaker and do not represent the views or opinions of Barclays.
+Barclays is not responsible for, and makes no warranties whatsoever as to, the information or opinions contained in any written, electronic, audio or
+video presentations by any third-party speakers at the event (“Third-Party Content”). Any such Third-Party Content has not been adopted or endorsed
+by Barclays and does not represent the views or opinions of Barclays. Third-Party Content is provided for information purposes only and has not been
+independently verified by Barclays for its accuracy or completeness.
+The views in this publication are solely and exclusively those of the authoring analyst(s) and are subject to change, and Barclays Research has no
+obligation to update its opinions or the information in this publication. Unless otherwise disclosed herein, the analysts who authored this report have
+not received any compensation from the subject companies in the past 12 months. If this publication contains recommendations, they are general
+recommendations that were prepared independently of any other interests, including those of Barclays and/or its affiliates, and/or the subject
+companies. This publication does not contain personal investment recommendations or investment advice or take into account the individual financial
+circumstances or investment objectives of the clients who receive it. Barclays is not a fiduciary to any recipient of this publication. The securities and
+other investments discussed herein may not be suitable for all investors and may not be available for purchase in all jurisdictions. The United States
+imposed sanctions on certain Chinese companies (https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-
+information/chinese-military-companies-sanctions), which may restrict U.S. persons from purchasing securities issued by those companies. Investors
+must independently evaluate the merits and risks of the investments discussed herein, including any sanctions restrictions that may apply, consult any
+independent advisors they believe necessary, and exercise independent judgment with regard to any investment decision. The value of and income
+from any investment may fluctuate from day to day as a result of changes in relevant economic markets (including changes in market liquidity). The
+information herein is not intended to predict actual results, which may differ substantially from those reflected. Past performance is not necessarily
+indicative of future results. The information provided does not constitute a financial benchmark and should not be used as a submission or
+contribution of input data for the purposes of determining a financial benchmark.
+This publication is not investment company sales literature as defined by Section 270.24(b) of the US Investment Company Act of 1940, nor is it
+intended to constitute an offer, promotion or recommendation of, and should not be viewed as marketing (including, without limitation, for the
+purposes of the UK Alternative Investment Fund Managers Regulations 2013 (SI 2013/1773) or AIFMD (Directive 2011/61)) or pre-marketing (including,
+without limitation, for the purposes of Directive (EU) 2019/1160) of the securities, products or issuers that are the subject of this report.
+Third Party Distribution: Any views expressed in this communication are solely those of Barclays and have not been adopted or endorsed by any third
+party distributor.
+United Kingdom: This document is being distributed (1) only by or with the approval of an authorised person (Barclays Bank PLC) or (2) to, and is
+directed at (a) persons in the United Kingdom having professional experience in matters relating to investments and who fall within the definition of
+"investment professionals" in Article 19(5) of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 (the "Order"); or (b) high
+net worth companies, unincorporated associations and partnerships and trustees of high value trusts as described in Article 49(2) of the Order; or (c)
+20 November 2024 12
+
+Barclays | NVIDIA Corp.
+other persons to whom it may otherwise lawfully be communicated (all such persons being "Relevant Persons"). Any investment or investment activity
+to which this communication relates is only available to and will only be engaged in with Relevant Persons. Any other persons who receive this
+communication should not rely on or act upon it. Barclays Bank PLC is authorised by the Prudential Regulation Authority and regulated by the
+Financial Conduct Authority and the Prudential Regulation Authority and is a member of the London Stock Exchange.
+European Economic Area (“EEA”): This material is being distributed to any “Authorised User” located in a Restricted EEA Country by Barclays Bank
+Ireland PLC. The Restricted EEA Countries are Austria, Bulgaria, Estonia, Finland, Hungary, Iceland, Liechtenstein, Lithuania, Luxembourg, Malta,
+Portugal, Romania, Slovakia and Slovenia. For any other “Authorised User” located in a country of the European Economic Area, this material is being
+distributed by Barclays Bank PLC. Barclays Bank Ireland PLC is a bank authorised by the Central Bank of Ireland whose registered office is at 1
+Molesworth Street, Dublin 2, Ireland. Barclays Bank PLC is not registered in France with the Autorité des marchés financiers or the Autorité de contrôle
+prudentiel. Authorised User means each individual associated with the Client who is notified by the Client to Barclays and authorised to use the
+Research Services. The Restricted EEA Countries will be amended if required.
+Finland: Notwithstanding Finland’s status as a Restricted EEA Country, Research Services may also be provided by Barclays Bank PLC where permitted
+by the terms of its cross-border license.
+Americas: The Investment Bank of Barclays Bank PLC undertakes U.S. securities business in the name of its wholly owned subsidiary Barclays Capital
+Inc., a FINRA and SIPC member. Barclays Capital Inc., a U.S. registered broker/dealer, is distributing this material in the United States and, in
+connection therewith accepts responsibility for its contents. Any U.S. person wishing to effect a transaction in any security discussed herein should do
+so only by contacting a representative of Barclays Capital Inc. in the U.S. at 745 Seventh Avenue, New York, New York 10019.
+Non-U.S. persons should contact and execute transactions through a Barclays Bank PLC branch or affiliate in their home jurisdiction unless local
+regulations permit otherwise.
+This material is distributed in Canada by Barclays Capital Canada Inc., a registered investment dealer, a Dealer Member of Canadian Investment
+Regulatory Organization (www.ciro.ca), and a Member of the Canadian Investor Protection Fund (CIPF).
+This material is distributed in Mexico by Barclays Bank Mexico, S.A. and/or Barclays Capital Casa de Bolsa, S.A. de C.V. This material is distributed in the
+Cayman Islands and in the Bahamas by Barclays Capital Inc., which it is not licensed or registered to conduct and does not conduct business in, from or
+within those jurisdictions and has not filed this material with any regulatory body in those jurisdictions.
+Japan: This material is being distributed to institutional investors in Japan by Barclays Securities Japan Limited. Barclays Securities Japan Limited is a
+joint-stock company incorporated in Japan with registered office of 6-10-1 Roppongi, Minato-ku, Tokyo 106-6131, Japan. It is a subsidiary of Barclays
+Bank PLC and a registered financial instruments firm regulated by the Financial Services Agency of Japan. Registered Number: Kanto Zaimukyokucho
+(kinsho) No. 143.
+Asia Pacific (excluding Japan): Barclays Bank PLC, Hong Kong Branch is distributing this material in Hong Kong as an authorised institution regulated
+by the Hong Kong Monetary Authority. Registered Office: 41/F, Cheung Kong Center, 2 Queen's Road Central, Hong Kong.
+All Indian securities-related research and other equity research produced by Barclays’ Investment Bank are distributed in India by Barclays Securities
+(India) Private Limited (BSIPL). BSIPL is a company incorporated under the Companies Act, 1956 having CIN U67120MH2006PTC161063. BSIPL is
+registered and regulated by the Securities and Exchange Board of India (SEBI) as a Research Analyst: INH000001519; Portfolio Manager INP000002585;
+Stock Broker INZ000269539 (member of NSE and BSE); Depository Participant with the National Securities & Depositories Limited (NSDL): DP ID: IN-DP-
+NSDL-478-2020; Investment Adviser: INA000000391. BSIPL is also registered as a Mutual Fund Advisor having AMFI ARN No. 53308. The registered office
+of BSIPL is at Nirlon Knowledge Park, 9th floor, Block B-6, Off. Western Express Highway, Goregaon (East), Mumbai – 400063, India. Telephone No: +91
+22 61754000 Fax number: +91 22 61754099. Any other reports produced by Barclays’ Investment Bank are distributed in India by Barclays Bank PLC,
+India Branch, an associate of BSIPL in India that is registered with Reserve Bank of India (RBI) as a Banking Company under the provisions of The
+Banking Regulation Act, 1949 (Regn No BOM43) and registered with SEBI as Merchant Banker (Regn No INM000002129) and also as Banker to the Issue
+(Regn No INBI00000950). Barclays Investments and Loans (India) Limited, registered with RBI as Non Banking Financial Company (Regn No RBI
+CoR-07-00258), and Barclays Wealth Trustees (India) Private Limited, registered with Registrar of Companies (CIN U93000MH2008PTC188438), are
+associates of BSIPL in India that are not authorised to distribute any reports produced by Barclays’ Investment Bank.
+This material is distributed in Singapore by the Singapore Branch of Barclays Bank PLC, a bank licensed in Singapore by the Monetary Authority of
+Singapore. For matters in connection with this material, recipients in Singapore may contact the Singapore branch of Barclays Bank PLC, whose
+registered address is 10 Marina Boulevard, #23-01 Marina Bay Financial Centre Tower 2, Singapore 018983.
+This material, where distributed to persons in Australia, is produced or provided by Barclays Bank PLC.
+This communication is directed at persons who are a “Wholesale Client” as defined by the Australian Corporations Act 2001.
+Please note that the Australian Securities and Investments Commission (ASIC) has provided certain exemptions to Barclays Bank PLC (BBPLC) under
+paragraph 911A(2)(l) of the Corporations Act 2001 from the requirement to hold an Australian financial services licence (AFSL) in respect of financial
+services provided to Australian Wholesale Clients, on the basis that BBPLC is authorised by the Prudential Regulation Authority of the United Kingdom
+(PRA) and regulated by the Financial Conduct Authority (FCA) of the United Kingdom and the PRA under United Kingdom laws. The United Kingdom
+has laws which differ from Australian laws. To the extent that this communication involves the provision of financial services by BBPLC to Australian
+Wholesale Clients, BBPLC relies on the relevant exemption from the requirement to hold an AFSL. Accordingly, BBPLC does not hold an AFSL.
+This communication may be distributed to you by either: (i) Barclays Bank PLC directly or (ii) Barrenjoey Markets Pty Limited (ACN 636 976 059,
+“Barrenjoey”), the holder of Australian Financial Services Licence (AFSL) 521800, a non-affiliated third party distributor, where clearly identified to you
+by Barrenjoey. Barrenjoey is not an agent of Barclays Bank PLC.
+This material, where distributed in New Zealand, is produced or provided by Barclays Bank PLC. Barclays Bank PLC is not registered, filed with or
+approved by any New Zealand regulatory authority. This material is not provided under or in accordance with the Financial Markets Conduct Act of
+2013 (“FMCA”), and is not a disclosure document or “financial advice” under the FMCA. This material is distributed to you by either: (i) Barclays Bank
+PLC directly or (ii) Barrenjoey Markets Pty Limited (“Barrenjoey”), a non-affiliated third party distributor, where clearly identified to you by Barrenjoey.
+Barrenjoey is not an agent of Barclays Bank PLC. This material may only be distributed to “wholesale investors” that meet the “investment business”,
+“investment activity”, “large”, or “government agency” criteria specified in Schedule 1 of the FMCA.
+20 November 2024 13
+
+Barclays | NVIDIA Corp.
+Middle East: Nothing herein should be considered investment advice as defined in the Israeli Regulation of Investment Advisory, Investment Marketing
+and Portfolio Management Law, 1995 (“Advisory Law”). This document is being made to eligible clients (as defined under the Advisory Law) only.
+Barclays Israeli branch previously held an investment marketing license with the Israel Securities Authority but it cancelled such license on 30/11/2014
+as it solely provides its services to eligible clients pursuant to available exemptions under the Advisory Law, therefore a license with the Israel
+Securities Authority is not required. Accordingly, Barclays does not maintain an insurance coverage pursuant to the Advisory Law.
+This material is distributed in the United Arab Emirates (including the Dubai International Financial Centre) and Qatar by Barclays Bank PLC. Barclays
+Bank PLC in the Dubai International Financial Centre (Registered No. 0060) is regulated by the Dubai Financial Services Authority (DFSA). Principal
+place of business in the Dubai International Financial Centre: The Gate Village, Building 4, Level 4, PO Box 506504, Dubai, United Arab Emirates.
+Barclays Bank PLC-DIFC Branch, may only undertake the financial services activities that fall within the scope of its existing DFSA licence. Related
+financial products or services are only available to Professional Clients, as defined by the Dubai Financial Services Authority. Barclays Bank PLC in the
+UAE is regulated by the Central Bank of the UAE and is licensed to conduct business activities as a branch of a commercial bank incorporated outside
+the UAE in Dubai (Licence No.: 13/1844/2008, Registered Office: Building No. 6, Burj Dubai Business Hub, Sheikh Zayed Road, Dubai City) and Abu Dhabi
+(Licence No.: 13/952/2008, Registered Office: Al Jazira Towers, Hamdan Street, PO Box 2734, Abu Dhabi). This material does not constitute or form part
+of any offer to issue or sell, or any solicitation of any offer to subscribe for or purchase, any securities or investment products in the UAE (including the
+Dubai International Financial Centre) and accordingly should not be construed as such. Furthermore, this information is being made available on the
+basis that the recipient acknowledges and understands that the entities and securities to which it may relate have not been approved, licensed by or
+registered with the UAE Central Bank, the Dubai Financial Services Authority or any other relevant licensing authority or governmental agency in the
+UAE. The content of this report has not been approved by or filed with the UAE Central Bank or Dubai Financial Services Authority. Barclays Bank PLC in
+the Qatar Financial Centre (Registered No. 00018) is authorised by the Qatar Financial Centre Regulatory Authority (QFCRA). Barclays Bank PLC-QFC
+Branch may only undertake the regulated activities that fall within the scope of its existing QFCRA licence. Principal place of business in Qatar: Qatar
+Financial Centre, Office 1002, 10th Floor, QFC Tower, Diplomatic Area, West Bay, PO Box 15891, Doha, Qatar. Related financial products or services are
+only available to Business Customers as defined by the Qatar Financial Centre Regulatory Authority.
+Russia:
+Sustainable Investing Related Research:There is currently no globally accepted framework or definition (legal, regulatory or otherwise) of, nor market consensus as to what constitutes a 'sustainable', 'ESG', 'green', 'climate-friendly' or an equivalent company, investment, strategy or consideration or what precise attributes are required to be eligible to be categorised by such terms. This means there are different ways to evaluate a company or an investment and so different values may be placed on certain sustainability credentials as well as adverse ESG-related impacts of companies and ESG controversies. The evolving nature of sustainable investing considerations, models and methodologies means it can be challenging to definitively and universally classify a company or investment under a sustainable investing label and there may be areas where such companies and investments could improve or where adverse ESG-related impacts or ESG controversies exist. The evolving nature of sustainable finance related regulations and the development of jurisdiction-specific regulatory criteria also means that there is likely to be a degree of divergence as to the interpretation of such terms in the market. We expect industry guidance, market practice, and regulations in this field to continue to evolve.
+Any information, data, image, or other content including from a third party source contained, referred to herein or used for whatsoever purpose by Barclays or a third party ("Information"), in relation to any actual or potential 'ESG', 'sustainable' or equivalent objective, issue, factor or consideration is not intended to be relied upon for ESG or sustainability classification, regulatory regime or industry initiative purposes ("ESG Regimes"), unless otherwise stated. Nothing in these materials, including any images included therein, is intended to convey, suggest or indicate that Barclays considers or represents any product, service, person or body mentioned in these materials as meeting or qualifying for any ESG or sustainability classification, label or similar standards that may exist under ESG Regimes. Barclays has not conducted any assessment of compliance with ESG Regimes. Parties are reminded to make their own assessments for these purposes.
+IRS Circular 230 Prepared Materials Disclaimer: Barclays does not provide tax advice and nothing contained herein should be construed to be tax advice. Please be advised that any discussion of U.S. tax matters contained herein (including any attachments) (i) is not intended or written to be used, and cannot be used, by you for the purpose of avoiding U.S. tax-related penalties; and (ii) was written to support the promotion or marketing of the transactions or other matters addressed herein. Accordingly, you should seek advice based on your particular circumstances from an independent tax advisor.
+Barclays | NVIDIA Corp.
+U.S. Semiconductors & Semiconductor Capital Equipment
+Sneha Muthe
++1 212 526 8385
+snehakhagendra.muthe@barclays.com
+BCI, US
+20 November 2024 15

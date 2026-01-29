@@ -1,0 +1,1594 @@
+J P M O R G A N North America Equity Research
+21 November 2024
+
+NVIDIA Corporation
+Solid Results/Guide on Continued Strong AI Demand
+Overweight
+NVDA, NVDA US
+Price (20 Nov 24):$145.89
+▲Price Target (Dec-25):$170.00
+Prior (Dec-25):$155.00
+
+NVIDIA reported Oct results (revenue/GMs/EPS ) above consensus estimates (in-line with market expectations), and off of a higher Oct-Qtr revenue base, the team guided to a 7% Q/Q increase in the Jan-Qtr, in-line with consensus (but slightly below market expectations) on continued strong spending from its customers to support their AI/accelerated compute initiatives (both training/inference), initial production ramp of the Blackwell platform on top of continued strong demand pull for its Hopper H100/H200. The team expects continued strength in Hopper shipments into 2025 even as next-gen Blackwell shipment continues to ramp higher. The team is driving strong product/manufacturing execution with Blackwell revenues tracking ahead of its initial expectation of "several billion dollars" for the Jan-Qtr. Demand for Blackwell is very strong and will continue to outstrip supply for several quarters into CY25. Supply tightness is broad and not just limited to CoWoS and HBM but the team is gradually unlocking supply as we move through CY25. China sales, we estimate were low-teens% of datacenter revenues in the Oct-Qtr and was a strong contributor but continues to be below its peak levels of 25%. On networking, the business is down 15% Q/Q due to timing issues (e.g. data center readiness) and supply shortages related to the optics, transceivers, and cabling businesses but partially offset by strength in Infiniband, ethernet switches, and SmartNICs. The team is working through the supply shortage issues and we expect networking growth to be more in-sync with the datacenter compute in CY25. Software is also gaining strong traction led by Nvidia AI enterprise and is expected to approach $2B in annual run-rate exiting this year (from $1.5B annualized revenue run-rate in the Oct-Qtr). GM is expected to trend lower in the Apr-Qtr (we estimate 71-72% GM), we believe driven by higher ramp up costs/lower production yields of new Blackwell solutions. We expect gross margins to improve throughout next year on improving yields and better cost absorption and reach mid-70s in the 2H of next year. Bottom line, the team continues to maintain a 1-2 step lead ahead of competitors with its silicon/hardware/software platforms, and a strong ecosystem (4M CUDA software developers) and the team is further distancing itself with its aggressive cadence of new product launches and more product segmentation over time. We increase our forward estimates and increase our Dec-25 PT to $170 (from our prior PT of $155), and reiterate our OW rating.
+
+Key Changes (FYE Jan)
+Prev Cur
+Adj. EPS - 25E ($) 2.81 2.93
+Adj. EPS - 26E ($) 4.02 4.20
+
+Quarterly Forecasts (FYE Jan)
+Adj. EPS ($)
+2024A 2025E 2026E
+Q1 0.11 0.61A 0.88
+Q2 0.27 0.68A 0.99
+Q3 0.40 0.81A 1.11
+Q4 0.52 0.83 1.23
+FY 1.30 2.93 4.20
+
+Style Exposure
+Sources for: Style Exposure – J.P. Morgan Quantitative and Derivatives Strategy; all other tables are company data and J.P. Morgan estimates.
+
+Investment Thesis and Valuation
+Investment Thesis
+We believe NVIDIA continues to execute across all segments. While 1H is typically seasonally weaker than 2H, we expect solid demand in PC gaming to be a strong revenue driver for the company, offsetting PC OEM, which is in secular decline. We expect the data center segment to grow strongly as hyperscale customers continue to embrace GPU-accelerated deep learning for processing large data sets. We are encouraged by strength in the automotive and enterprise segments as well, although strong adoption of autonomous driving in the market remains to be seen. We anticipate significant upside in the shares, driving our Overweight rating.
+
+Valuation
+Our Dec-25 PT assumes that NVIDIA trades at a 35x multiple applied to ~$4.90 of annualized earnings power exiting CY25E ($1.23 *4). Our earnings multiple is consistent with its potential earnings CAGR of 30-35%+ over the next few years led by the continued strong datacenter growth, monetizing an incremental ~$14B of auto revenue pipeline and incremental software, licensing, and subscription revenues over the next several years.
+
+Company Data
+Shares O/S (mn) 24,990
+52-week range ($) 149.77-45.01
+Market cap ($ mn) 3,645,791.00
+Exchange rate 1.00
+Free float (%) 96.0%
+3M ADV (mn) 272.64
+3M ADV ($ mn) 34,517.9
+Volatility (90 Day) 58
+Index S&P 500
+BBG ANR (Buy | Hold | Sell) 68|6|2
+
+Key Metrics (FYE Jan)
+$ in millions FY24A FY25E FY26E
+Revenue 60,922 128,666
+188,402
+Adj. EBIT 33,069 80,131 117,564
+Adj. EBITDA 33,493 80,555 117,988
+Adj. net income 32,312 72,716 104,035
+Adj. EPS 1.30 2.93 4.20
+BBG EPS 2.86 4.22 -
+Cashflow from operations 28,091 59,817 89,232
+FCFF 27,023 56,845 85,980
+Margins and Growth
+Revenue Growth Y/Y (%) 125.9% 111.2% 46.4%
+EBIT margin 54.3% 62.3% 62.4%
+EBIT Growth Y/Y (%) 464.5% 142.3% 46.7%
+EBITDA margin 55.0% 62.6% 62.6%
+EBITDA Growth Y/Y (%) 433.2% 140.5% 46.5%
+Net margin 53.0% 56.5% 55.2%
+Adj. EPS growth 288.4% 126.0% 43.3%
+Ratios
+Adj. tax rate 12.1% 14.5% 17.0%
+Interest cover - - -
+Net debt/Equity NM NM NM
+Net debt/EBITDA NM NM NM
+ROE 99.3% 115.0% 81.2%
+Valuation
+FCFF yield 0.7% 1.6% 2.4%
+Dividend yield 0.0% 0.0% 0.0%
+EV/Revenue 59.6 28.0 18.8
+EV/EBITDA 108.4 44.8 29.9
+Adj. P/E 112.6 49.8 34.7
+Source: J.P. Morgan Quantitative and Derivatives Strategy for Performance Drivers; company data, Bloomberg Finance L.P. and J.P. Morgan estimates for all other tables. Note: Price history may not be
+complete or exact.
+2
+
+Harlan SurAC North America Equity Research JPMORGAN
+(1-415) 315-6700 21 November 2024
+harlan.sur@jpmorgan.com &T Th Eis C Ho Gu Zm .e
+d c n t is b e in g p r o v id e d f o r t h e e x c lu s iv e u s e o f J I A X I N L I U a t T H E H K U N I V E R S I T Y O F S C I
+• Strong F3Q25 (Oct-Qtr) results led by continued strong AI demand pull and
+ramp of H100/200 platforms. NVIDIA reported F3Q25 revenue of $35.1B (up
+17% Q/Q), above consensus ($33.3B) led by the continued strong demand pull for
+its its Datacenter solutions. Datacenter revenue grew 17% Q/Q on strong demand
+pull for H200 platform ramp (DataCenter Compute up 22% Q/Q). Networking (
+down 15% Q/Q) were soft due to timing issues (e.g. data center readiness)and
+supply shortages related to the optics, transceivers, and cabling businesses but
+partially offset by strength in Infiniband, ethernet switches, and SmartNICs. Gaming
+revenues were up 14% Q/Q on seasonal strength. Pro Vis grew 14% Q/Q. Auto was
+up 30% Q/Q on continued ramp of its intelligent cockpit compute solutions and
+autonomous platforms. GM of 75.0% in-line with consensus (75.0%). EPS of $0.81
+was above consensus. We estimate that China datacenter revenues were about low-
+teens of the datacenter mix in the Oct-Qtr.
+• F4Q25 (Jan-Qtr) guidance above consensus on continued strong datacenter
+demand and initial Blackwell production ramp. J an-Q revenue guidance of
+$37.5B (up 7% Q/Q),slightly above consensus ( $37.1B) on continued strong
+Datacenter demand and initial Blackwell production ramp. At the midpoint, in
+F3Q25, the team sees Q/Q growth led by strong Q/Q datacenter growth while
+gaming is down Q/Q on supply constraints. GM is expected to be 73.5%. OpEx is
+guided to $3.4B. Implied EPS is $0.83, slightly above consensus of $0.82.
+• Blackwell production ramps progressing well…and the team remains supply
+constrained on Blackwell through majority of CY25. D emand was strong for AI
+inference and training. On Blackwell, the team is driving strong product/
+manufacturing execution with Blackwell revenues tracking ahead of its initial
+expectation of “several billion dollars” for the Jan-Qtr. Demand for Blackwell is
+very strong and will outstrip supply for several quarters into CY25.
+• Increasing forward estimates and increasing our Dec-25 PT to $170. We
+increase our forward estimates. We increase our PT to $170 (from prior PT of $155).
+We remain Overweight NVDA. Our PT assumes that NVIDIA trades at a 35x
+multiple applied to ~$4.90 of annualized earnings power exiting CY25E.
+3
+
+Harlan SurAC North America Equity Research JPMORGAN
+(1-415) 315-6700 21 November 2024
+harlan.sur@jpmorgan.com &T Th Eis C Ho Gu Zm .e
+d c n t is b e in g p r o v id e d f o r t h e e x c lu s iv e u s e o f J I A X I N L I U a t T H E H K U N I V E R S I T Y O F S C I
+Table 1: NVIDIA F3Q25 (Oct-Qtr) Earnings and F4Q25 (Jan-Qtr) Outlook
+$ in millions, except per share data
+F3Q25 (Oct-Q) F4Q25E (Jan-Q)
+Actual JPM Est Diff Consensus Guidance Consensus
+Revenue ($M) $35,082 $32,500 $2,582 $33,250 $37,500 $37,080
+Q/Q Change 16.8% 8.2% 8.6%
+Gross Margin (excl SBC) 75.0% 75.0% 0.0% 75.0% 73.5% 73.5%
+Op Margin (excl SBC) 66.0% 65.3% 0.7%
+Proforma EPS (excl SBC) $0.81 $0.72 $0.09 $0.74 $0.83 $0.82
+Source: Company reports and J.P. Morgan estimates
+Table 2: Reporting Segment Summary for F3Q25 (vs. F2Q25)
+$ in millions
+F2Q25 F3Q25 Q/Q Y/Y % of Revs
+Graphic $3,594 $4,046 13% 16% 12%
+Compute & Networking $26,446 $31,036 17% 112% 88%
+Total $30,040 $ 35,082 17% 94%
+Source: Company reports
+Table 3: End Market Segment Summary for F3Q25 (vs. F2Q25)
+$ in millions
+F2Q25 F3Q25 Q/Q Y/Y % of Revs
+PC OEM $88 $97 10% 33% 0%
+PC Gaming $2,880 $3,279 14% 15% 9%
+Pro Vis $454 $486 7% 17% 1%
+Datacenter $26,272 $30,771 17% 112% 88%
+Automotive $346 $449 30% 72% 1%
+Total $30,040 $35,082 17% 94%
+Source: Company reports
+Balance Sheet and Cash Flow
+During the Oct-Qtr, the company generated cash flow from operations of $17.6B (vs.
+$14.5B in the Jul-Qtr) and exited the quarter with $38.5B in cash, cash equivalents, and
+marketable securities (vs. $34.8B in the Jul-Qtr). Inventory increased to $7.65B in the
+Oct-Qtr. In F3Q25, NVIDIA returned $245 million in cash dividend and repurchased
+$11B in shares.
+4
+F3Q25 (Oct-Q)
+Actual JPM Est Diff Consensus
+$35,082 $32,500 $2,582 $33,250
+16.8% 8.2% 8.6%
+75.0% 75.0% 0.0% 75.0%
+66.0% 65.3% 0.7%
+$0.81 $0.72 $0.09 $0.74
+
+Harlan SurAC North America Equity Research JPMORGAN
+(1-415) 315-6700 21 November 2024
+harlan.sur@jpmorgan.com &T Th Eis C Ho Gu Zm .e
+d c n t is b e in g p r o v id e d f o r t h e e x c lu s iv e u s e o f J I A X I N L I U a t T H E H K U N I V E R S I T Y O F S C I
+Appendix I: Comp and Group Valuation
+Table 4: Semiconductor Comp and Group Valuation Table
+11/20/2024 Consensus Consensus Consensus Consensus
+JPM Market 11/20/24 Non-GAAP EPS P/E Revenues P/S Non-GAAP EPS Sales P/E P/S
+Rating Cap Price C24E C25E C24E C25E C24E C25E C24E C25E C24E C25E C24E C25E C24E C25E C24E C25E
+Harlan Sur, Lead Coverage
+phone: 415-315-6700, email: harlan.sur@jpmchase.com
+PC Semiconductors
+INTC UW $103,051 $24.01 N/A $1.00 N/A 24.1 $52,641 $55,408 2.0 1.9 ($0.15) $0.96 $52,668 $55,941 (164.5) 25.1 2.0 1.8
+NVDA OW $3,614,279 $145.89 $2.81 $4.02 51.9 36.3 $125,219 $182,609 28.9 19.8 $2.82 $4.01 $123,267 $182,081 51.7 36.4 29.3 19.8
+AMD N $225,114 $137.60 $3.28 $5.10 42.0 27.0 $25,641 $32,615 8.8 6.9 $3.32 $5.11 $25,665 $32,544 41.4 26.9 8.8 6.9
+Memory
+MU OW $110,666 $98.37 $3.95 $11.23 24.9 8.8 $29,085 $42,593 3.8 2.6 $4.50 $10.84 $30,171 $41,902 21.9 9.1 3.7 2.6
+WDC NR $22,791 $63.84 $5.75 $7.67 11.1 8.3 $15,616 $17,301 1.5 1.3 $5.77 $8.46 $15,618 $17,906 11.1 7.5 1.5 1.3
+Enterprise/Networking/Datacenter Semiconductors
+MRVL OW $77,792 $89.86 $1.46 $2.42 61.4 37.2 $5,538 $7,466 14.0 10.4 $1.45 $2.52 $5,459 $7,334 62.2 35.6 14.2 10.6
+AVGO OW $761,235 $163.25 $5.20 $6.60 31.4 24.7 $53,999 $63,061 14.1 12.1 $5.08 $6.41 $53,404 $62,153 32.2 25.5 14.3 12.2
+ALAB OW $15,159 $97.42 $0.57 $0.80 169.9 121.7 $350 $504 43.4 30.1 $0.72 $1.08 $383 $615 135.3 90.0 39.6 24.7
+Mobile Devices
+SWKS N $13,466 $83.43 $5.88 $5.88 14.2 14.2 $4,041 $4,156 3.3 3.2 $5.88 $5.48 $4,042 $4,060 14.2 15.2 3.3 3.3
+QRVO UW $6,230 $65.66 $5.34 $5.00 12.3 13.1 $3,774 $3,739 1.7 1.7 $5.35 $5.37 $3,775 $3,723 12.3 12.2 1.7 1.7
+IoT
+SLAB OW $3,281 $101.55 N/A $0.83 N/A 122.0 $584 $805 5.6 4.1 ($1.71) $1.16 $584 $801 (59.4) 87.2 5.6 4.1
+SYNA OW $2,887 $72.55 $2.86 $3.92 25.4 18.5 $1,007 $1,126 2.9 2.6 $2.84 $4.03 $1,007 $1,121 25.6 18.0 2.9 2.6
+Analog/Microcontrollers
+TXN OW $182,335 $198.19 $5.07 $6.16 39.1 32.2 $15,484 $17,673 11.8 10.3 $5.13 $6.07 $15,490 $17,194 38.6 32.7 11.8 10.6
+ADI OW $105,251 $211.01 $6.11 $7.84 34.5 26.9 $9,178 $10,609 11.5 9.9 $6.26 $7.92 $9,276 $10,634 33.7 26.7 11.3 9.9
+NXPI N $56,785 $220.34 $13.03 $12.23 16.9 18.0 $12,603 $12,568 4.5 4.5 $13.04 $13.00 $12,603 $12,762 16.9 17.0 4.5 4.4
+MCHP OW $35,295 $65.12 $1.86 $1.78 35.0 36.5 $4,791 $4,814 7.4 7.3 $1.87 $2.08 $4,795 $4,999 34.9 31.3 7.4 7.1
+Diversified/Consumer/Standard Components/Other
+ON N $29,058 $67.31 $4.00 $4.22 16.8 15.9 $7,120 $7,386 4.1 3.9 $4.00 $4.31 $7,121 $7,408 16.8 15.6 4.1 3.9
+MTSI N $9,506 $127.56 $2.75 $3.49 46.3 36.6 $787 $932 12.1 10.2 $2.76 $3.63 $787 $939 46.2 35.2 12.1 10.1
+Foundries
+GFS N $23,121 $41.66 $1.55 $1.80 26.9 23.1 $6,745 $7,174 3.4 3.2 $1.53 $1.79 $6,746 $7,344 27.2 23.3 3.4 3.1
+OSAT
+AMKR OW $6,287 $25.36 $1.56 $2.38 16.2 10.7 $6,496 $7,117 1.0 0.9 $1.39 $1.88 $6,350 $6,763 18.3 13.5 1.0 0.9
+Semiconductor Capital Equipment
+AMAT OW $141,166 $170.49 $8.81 $10.03 19.3 17.0 $27,619 $30,400 5.1 4.6 $8.78 $9.71 $27,472 $29,893 19.4 17.6 5.1 4.7
+LRCX OW $91,350 $70.05 $3.33 $3.91 21.1 17.9 $16,133 $18,575 5.7 4.9 $3.34 $3.82 $16,138 $18,234 21.0 18.4 5.7 5.0
+KLAC OW $83,184 $616.83 $26.94 $32.42 22.9 19.0 $10,720 $12,285 7.8 6.8 $27.01 $31.19 $10,733 $11,954 22.8 19.8 7.8 7.0
+Chip Design Automation Software
+ARM OW $142,123 $133.70 $1.39 $2.12 96.3 63.0 $3,656 $4,917 38.9 28.9 $1.40 $2.00 $3,660 $4,792 95.4 66.9 38.8 29.7
+CDNS N $83,286 $304.01 $5.90 $6.92 51.5 43.9 $4,630 $5,304 18.0 15.7 $5.93 $6.85 $4,636 $5,251 51.3 44.4 18.0 15.9
+SNPS OW $84,554 $541.56 $13.13 $15.91 41.2 34.0 $6,282 $2,023 13.5 41.8 $13.28 $15.37 $6,270 $7,069 40.8 35.2 13.5 12.0
+Large Cap Semi Average 36.3 27.7 10.4 8.6 16.1 27.2 10.5 8.7
+Small-Mid Cap Semi Average 25.1 46.9 5.9 5.0 25.1 21.0 5.9 5.2
+Semi Group Average (ex-outliers) 30.4 25.2 7.5 6.6 14.2 24.6 7.5 6.6
+SOX Index 4,884 115 217 42.4 22.5 $737 $843 6.6 5.8 42.4 22.5 6.6 5.8
+S&P500 5,917 236 271 25.0 21.8 $1,879 $1,983 3.1 3.0 25.0 21.8 3.1 3.0
+Source: Company reports, Bloomberg Finance L.P., and J.P. Morgan estimates. Prices as of market close 11/20/2024.
+5
+11/20/2024						Revenues		P/S	Consensus
+Non-GAAP EPS	Consensus	Consensus	Consensus
+JPM Market			11/20/24	Non-GAAP EPS	P/E					Sales	P/E	P/S
+Rating Cap			Price	C24E C25E	C24E C25E	C24E C25E		C24E C25E	C24E C25E	C24E C25E	C24E C25E	C24E C25E
+Harlan Sur, Lead Coverage
+phone: 415-315-6700, email: harlan.sur@jpmchase.com
+PC Semiconductors
+INTC UW $103,051 $24.01
+NVDA OW $3,614,279 $145.89
+AMD N $225,114 $137.60
+Memory
+MU OW $110,666 $98.37
+WDC NR $22,791 $63.84
+Enterprise/Networking/Datacenter Semiconductors
+MRVL OW $77,792 $89.86
+AVGO OW $761,235 $163.25
+ALAB OW $15,159 $97.42
+Mobile Devices
+SWKS N $13,466 $83.43
+QRVO UW $6,230 $65.66
+IoT
+SLAB OW $3,281 $101.55
+SYNA OW $2,887 $72.55
+Analog/Microcontrollers
+TXN OW $182,335 $198.19
+ADI OW $105,251 $211.01
+NXPI N $56,785 $220.34
+MCHP OW $35,295 $65.12
+Diversified/Consumer/Standard Components/Other
+ON N $29,058 $67.31
+MTSI N $9,506 $127.56
+Foundries
+GFS N $23,121 $41.66
+OSAT
+AMKR OW $6,287 $25.36
+Semiconductor Capital Equipment
+AMAT OW $141,166 $170.49
+LRCX OW $91,350 $70.05
+KLAC OW $83,184 $616.83
+Chip Design Automation Software
+ARM OW $142,123 $133.70
+CDNS N $83,286 $304.01
+SNPS OW $84,554 $541.56	ad Coverage							2.0 1.9
+28.9 19.8
+8.8 6.9
+3.8 2.6
+1.5 1.3
+14.0 10.4
+14.1 12.1
+43.4 30.1
+3.3 3.2
+1.7 1.7
+5.6 4.1
+2.9 2.6
+11.8 10.3
+11.5 9.9
+4.5 4.5
+7.4 7.3
+4.1 3.9
+12.1 10.2
+3.4 3.2
+1.0 0.9
+5.1 4.6
+5.7 4.9
+7.8 6.8
+38.9 28.9
+18.0 15.7
+13.5 41.8				
+	5-6700, email: harlan.sur@jpmchase.com											
+	uctors			N/A $1.00
+$2.81 $4.02
+$3.28 $5.10
+$3.95 $11.23
+$5.75 $7.67
+$1.46 $2.42
+$5.20 $6.60
+$0.57 $0.80
+$5.88 $5.88
+$5.34 $5.00
+N/A $0.83
+$2.86 $3.92
+$5.07 $6.16
+$6.11 $7.84
+$13.03 $12.23
+$1.86 $1.78
+$4.00 $4.22
+$2.75 $3.49
+$1.55 $1.80
+$1.56 $2.38
+$8.81 $10.03
+$3.33 $3.91
+$26.94 $32.42
+$1.39 $2.12
+$5.90 $6.92
+$13.13 $15.91								
+		$103,051	$24.01		N/A 24.1	$52,641 $55,408			($0.15) $0.96	$52,668 $55,941	(164.5) 25.1	2.0 1.8
+			$145.89		51.9 36.3	$125,219 $182,609			$2.82 $4.01	$123,267 $182,081	51.7 36.4	29.3 19.8
+		$225,114	$137.60		42.0 27.0	$25,641 $32,615			$3.32 $5.11	$25,665 $32,544	41.4 26.9	8.8 6.9
+												
+			$98.37		24.9 8.8	$29,085 $42,593			$4.50 $10.84	$30,171 $41,902	21.9 9.1	3.7 2.6
+			$63.84		11.1 8.3	$15,616 $17,301			$5.77 $8.46	$15,618 $17,906	11.1 7.5	1.5 1.3
+		acenter Semicondu	ctors									
+			$89.86		61.4 37.2	$5,538 $7,466			$1.45 $2.52	$5,459 $7,334	62.2 35.6	14.2 10.6
+		$761,235	$163.25		31.4 24.7
+169.9 121.7	$53,999 $63,061
+$350 $504			$5.08 $6.41	$53,404 $62,153	32.2 25.5	14.3 12.2
+		$15,159	$97.42						$0.72 $1.08	$383 $615	135.3 90.0	39.6 24.7
+												
+		$13,466	$83.43		14.2 14.2	$4,041 $4,156			$5.88 $5.48	$4,042 $4,060	14.2 15.2	3.3 3.3
+		$6,230	$65.66		12.3 13.1	$3,774 $3,739			$5.35 $5.37	$3,775 $3,723	12.3 12.2	1.7 1.7
+												
+		$3,281	$101.55		N/A 122.0	$584 $805			($1.71) $1.16	$584 $801	(59.4) 87.2	5.6 4.1
+		$2,887	$72.55		25.4 18.5	$1,007 $1,126			$2.84 $4.03	$1,007 $1,121	25.6 18.0	2.9 2.6
+												
+		$182,335	$198.19		39.1 32.2	$15,484 $17,673
+$9,178 $10,609			$5.13 $6.07	$15,490 $17,194	38.6 32.7	11.8 10.6
+					34.5 26.9				$6.26 $7.92	$9,276 $10,634	33.7 26.7
+16.9 17.0
+34.9 31.3
+16.8 15.6
+46.2 35.2
+27.2 23.3	11.3 9.9
+4.5 4.4
+7.4 7.1
+					16.9 18.0	$12,603 $12,568			$13.04 $13.00	$12,603 $12,762		
+					35.0 36.5
+16.8 15.9
+46.3 36.6	$4,791 $4,814
+$7,120 $7,386
+$787 $932
+$6,745 $7,174
+$6,496 $7,117			$1.87 $2.08	$4,795 $4,999		
+												
+		$29,058	$67.31						$4.00 $4.31	$7,121 $7,408		4.1 3.9
+			$127.56						$2.76 $3.63	$787 $939		12.1 10.1
+												
+			$41.66		26.9 23.1
+16.2 10.7				$1.53 $1.79	$6,746 $7,344		3.4 3.1
+												
+			$25.36						$1.39 $1.88	$6,350 $6,763	18.3 13.5	1.0 0.9
+			$170.49
+$70.05
+$616.83
+$133.70
+$304.01
+$541.56									
+					19.3 17.0	$27,619 $30,400			$8.78 $9.71	$27,472 $29,893	19.4 17.6	5.1 4.7
+					21.1 17.9	$16,133 $18,575			$3.34 $3.82	$16,138 $18,234	21.0 18.4	5.7 5.0
+					22.9 19.0
+96.3 63.0
+51.5 43.9
+41.2 34.0	$10,720 $12,285
+$3,656 $4,917
+$4,630 $5,304
+$6,282 $2,023			$27.01 $31.19	$10,733 $11,954	22.8 19.8	7.8 7.0
+												
+									$1.40 $2.00	$3,660 $4,792	95.4 66.9	38.8 29.7
+									$5.93 $6.85	$4,636 $5,251	51.3 44.4	18.0 15.9
+									$13.28 $15.37	$6,270 $7,069	40.8 35.2	13.5 12.0
+Large Cap Semi Average 36.3 27.7 10.4 8.6
+Small-Mid Cap Semi Average 25.1 46.9 5.9 5.0
+Semi Group Average (ex-outliers) 30.4 25.2 7.5 6.6
+SOX Index 4,884 115 217 42.4 22.5 $737 $843 6.6 5.8
+S&P500 5,917 236 271 25.0 21.8 $1,879 $1,983 3.1 3.0										16.1 27.2 10.5 8.7
+25.1 21.0 5.9 5.2
+14.2 24.6 7.5 6.6
+42.4 22.5 6.6 5.8
+25.0 21.8 3.1 3.0		
+												
+												
+												
+												
+
+42.4 22.5
+25.0 21.8
+
+Harlan SurAC North America Equity Research JPMORGAN
+(1-415) 315-6700 21 November 2024
+harlan.sur@jpmorgan.com &T Th Eis C Ho Gu Zm .e
+d c n t is b e in g p r o v id e d f o r t h e e x c lu s iv e u s e o f J I A X I N L I U a t T H E H K U N I V E R S I T Y O F S C I
+Appendix II: Financial Tables
+Table 5: NVIDIA Income Statement
+$ in millions, except per share data
+$M Apr-21 Jul-21 Oct-21 Jan-22 C21 Apr-22 Jul-22 Oct-22 Jan-23 C22 Apr-23 Jul-23 Oct-23 Jan-24 C23 Apr-24 Jul-24 Oct-24 Jan-25 C24 Apr-25 Jul-25 Oct-25 Jan-26 C25
+FY end: Jan. 1Q22 2Q22 3Q22 4Q22 F22 1Q23 2Q23 3Q23 4Q23 F23 1Q24 2Q24 3Q24 4Q24 F24E 1Q25 2Q25 3Q25 4Q25E F25E 1Q26E 2Q26E 3Q26E 4Q26E F26E
+Total revenue 5,661 6,507 7,103 7,643 26,914 8,288 6,704 5,931 6,051 26,974 7,192 13,507 18,120 22,103 60,922 26,044 30,040 35,082 37,500 128,666 40,812 44,740 49,194 53,655 188,402
+% Change Y/Y 83.8% 68.3% 50.3% 52.8% 61.4% 46.4% 3.0% -16.5% -20.8% 0.2% -13.2% 101.5% 205.5% 265.3% 125.9% 262.1% 122.4% 93.6% 69.7% 111.2% 56.7% 48.9% 40.2% 43.1% 46.4%
+% Change Q/Q 13.2% 14.9% 9.2% 7.6% 8.4% -19.1% -11.5% 2.0% 18.9% 87.8% 34.2% 22.0% 17.8% 15.3% 16.8% 6.9% 8.8% 9.6% 10.0% 9.1%
+Cost of goods sold 2,032 2,292 2,472 2,644 9,440 2,857 3,789 2,754 2,218 11,618 2,544 4,045 4,720 5,312 16,621 5,638 7,466 8,926 10,125 32,155 11,632 12,080 12,791 13,414 49,916
+% Change Y/Y 88.8% 44.1% 40.0% 43.2% 50.3% 40.6% 65.3% 11.4% -16.1% 23.1% -11.0% 6.8% 71.4% 139.5% 43.1% 121.6% 84.6% 89.1% 90.6% 93.5% 106.3% 61.8% 43.3% 32.5% 55.2%
+% Change Q/Q 10.1% 12.8% 7.9% 7.0% 8.1% 32.6% -27.3% -19.5% 14.7% 59.0% 16.7% 12.5% 6.1% 32.4% 19.6% 13.4% 14.9% 3.9% 5.9% 4.9%
+Non-GAAP Gross margin (ex SBC) 66.2% 66.7% 67.0% 67.0% 66.8% 67.1% 45.9% 56.1% 66.1% 57.4% 66.8% 71.2% 75.0% 76.7% 72.9% 78.9% 75.7% 75.0% 73.5% 75.2% 72.0% 73.4% 74.4% 75.4% 73.7%
+GAAP Gross margin 64.1% 64.8% 65.2% 65.4% 64.9% 65.5% 43.5% 53.6% 63.3% 56.9% 64.6% 70.1% 74.0% 76.0% 72.7% 78.4% 75.1% 74.6% 73.0% 75.0% 71.5% 73.0% 74.0% 75.0% 73.5%
+R&D 1,153 1,245 1,403 1,466 5,267 1,618 1,824 1,945 1,951 7,338 1,875 2,040 2,294 2,465 8,674 2,720 3,090 3,390 3,806 13,006 3,882 4,077 4,280 4,494 16,734
+% Total revenue 20.4% 19.1% 19.8% 19.2% 19.6% 19.5% 27.2% 32.8% 32.2% 27.2% 26.1% 15.1% 12.7% 11.2% 14.2% 10.4% 10.3% 9.7% 10.2% 10.1% 9.5% 9.1% 8.7% 8.4% 8.9%
+SG&A (Adj.) 440 454 487 493 1,874 530 536 561 533 2,160 583 609 673 693 2,558 756 816 858 944 3,374 982 1,021 1,072 1,115 4,189
+% Total revenue 7.8% 7.0% 6.9% 6.5% 7.0% 6.4% 8.0% 9.5% 8.8% 8.0% 8.1% 4.5% 3.7% 3.1% 4.2% 2.9% 2.7% 2.4% 2.5% 2.6% 2.4% 2.3% 2.2% 2.1% 2.2%
+Operating income 2,036 2,516 2,741 3,040 10,333 3,283 555 671 1,349 5,858 2,190 6,813 10,433 13,633 33,069 16,930 18,668 21,908 22,625 80,131 24,317 27,563 31,052 34,632 117,564
+% Total revenue 36.0% 38.7% 38.6% 39.8% 38.4% 39.6% 8.3% 11.3% 22.3% 21.7% 30.5% 50.4% 57.6% 61.7% 54.3% 65.0% 62.1% 62.4% 60.3% 62.3% 59.6% 61.6% 63.1% 64.5% 62.4%
+Opex GAAP 1673 1771 1960 2029 3563 2416 2576 2576 2508 2662 2983 3176 3497 3932 4287 4750 4864 5097 5352 5609
+Opex Non-GAAP 1189 1266 1375 1447 5,277 1608 1749 1793 1775 6,925 1750 1838 2026 2210 7,824 2501 2792 3046 3400 11,739 3514 3747 4002 4259 15,523
+Opm % ex options 43.5% 45.8% 46.5% 47.0% 47.2% 46.6% 18.0% 23.9% 34.5% 31.8% 40.7% 56.7% 63.0% 66.2% 60.1% 68.9% 66.0% 66.0% 64.1% 66.0% 63.1% 64.8% 66.0% 67.2% 65.4%
+3168 3655 FALSE 4162
+Interest/Other Expense (45) (49) (52) (52) (198) (45) (16) 24 43 6 84 120 175 232 611 302 380 411 400 1,493 400 400 400 400 1,600
+Pretax income 1,991 2,467 2,689 2,988 10,135 3,238 539 695 1,392 5,864 2,274 6,933 10,608 13,865 33,680 17,232 19,048 22,319 23,025 81,624 24,717 27,963 31,452 35,032 119,164
+% Total revenue 35.2% 37.9% 37.9% 39.1% 37.7% 39.1% 8.0% 11.7% 23.0% 21.7% 31.6% 51.3% 58.5% 62.7% 55.3% 66.2% 63.4% 63.6% 61.4% 63.4% 60.6% 62.5% 63.9% 65.3% 63.2%
+Income tax 132 20 174 (138) 188 187 (181) (67) (125) (186) 166 793 1,279 1,821 4,059 2,398 2,615 3,007 3,799 11,819 4,202 4,754 5,347 5,956 20,258
+Tax rate 6.6% 0.8% 6.5% -4.6% 1.9% 5.8% -33.6% -9.6% -9.0% -3.2% 7.3% 11.4% 12.1% 13.1% 12.1% 13.9% 13.7% 13.5% 16.5% 14.5% 17.0% 17.0% 17.0% 17.0% 17.0%
+Net income (non-GAAP) 2,313 2,623 2,973 3,350 11,259 3,443 1,292 1,456 2,174 8,365 2,713 6,740 10,020 12,839 32,312 15,238 16,952 20,010 20,516 72,716 21,797 24,491 27,387 30,359 104,035
+% Total revenue 32.8% 37.6% 35.4% 40.9% 37.0% 36.8% 10.7% 12.8% 25.1% 22.4% 29.3% 45.5% 51.5% 54.5% 48.6% 57.0% 54.7% 55.0% 51.3% 54.3% 50.3% 51.9% 53.1% 54.2% 52.5%
+Avg. No. of Diluted Shr 25,280 25,320 25,380 25,450 25,358 25,370 25,160 24,990 24,770 25,073 24,900 24,990 24,940 24,900 24,933 24,890 24,848 24,774 24,774 24,822 24,774 24,774 24,774 24,774 24,774
+Avg. No. of Diluted Shr (non-GAAP) 25,280 25,320 25,380 25,450 25,358 25,370 25,160 24,990 24,770 25,073 24,900 24,990 24,940 24,900 24,933 24,890 24,848 24,774 24,774 24,822 24,774 24,774 24,774 24,774 24,774
+Convertible Adjustment
+EPS (Non-GAAP) $0.09 $0.10 $0.12 $0.13 $0.44 $0.14 $0.05 $0.06 $0.09 $0.33 $0.11 $0.27 $0.40 $0.52 $1.30 $0.61 $0.68 $0.81 $0.83 $2.93 $0.88 $0.99 $1.11 $1.23 $4.20
+% Change Y/Y 103.4% 89.9% 61.0% 69.8% 77.5% 48.3% -50.4% -50.3% -33.3% -24.9% -19.7% 425.2% 589.6% 487.5% 288.4% 461.9% 153.0% 101.0% 60.6% 126.0% 43.7% 44.9% 36.9% 48.0% 43.3%
+% Change Q/Q 18.0% 13.2% 13.1% 12.4% 3.1% -62.2% 13.5% 50.6% 24.1% 147.5% 49.0% 28.3% 18.7% 11.4% 18.4% 2.5% 6.2% 12.4% 11.8% 10.9%
+Source: Company reports and J.P. Morgan estimates
+Table 6: NVIDIA Balance Sheet
+$ in millions, except per share data
+Jan'21 Apr'21 Jul'21 Oct'21 Jan'22 Apr'22 Jul'22 Oct'22 Jan'23 Apr'23 Jul'23 Oct'23 Jan'24 Apr'24 Jul'24 Oct'24 Jan'25 Apr'25 Jul'25 Oct'25 Jan'26
+FY End: Jan. 4Q21 1Q22 2Q22 3Q22 4Q22 1Q23 2Q23 3Q23 4Q23 1Q24 2Q24 3Q24 4Q24 1Q25 2Q25 3Q25 4Q25E 1Q26E 2Q26E 3Q26E 4Q26E
+Assets
+Cash and ST investment 11,561 12,667 19,654 19,298 21,208 20,338 17,037 13,143 13,296 15,320 16,023 18,281 25,984 31,438 34,800 38,487 46,987 58,758 77,077 97,365 120,803
+Accounts receivable 2,429 3,024 3,586 3,954 4,650 5,438 5,317 4,908 3,827 4,080 7,066 8,309 9,999 12,365 14,132 17,693 19,560 21,982 24,007 26,343 28,602
+Inventories 1,826 1,992 2,114 2,233 2,605 3,163 3,889 4,454 5,159 4,611 4,319 4,779 5,282 5,864 6,675 7,654 14,220 17,528 17,949 18,845 19,687
+Prepaid and other 239 444 452 321 366 636 1,175 718 791 872 1,389 1,289 3,080 4,062 4,026 3,806 3,806 3,806 3,806 3,806 3,806
+Total current assets 16,055 18,127 25,806 25,806 28,829 29,575 27,418 23,223 23,073 24,883 28,797 32,658 44,345 53,729 59,633 67,640 84,572 102,074 122,839 146,359 172,898
+PP&E, net 2,149 2,268 2,364 2,509 2,778 2,916 3,233 3,774 3,807 3,740 3,799 3,844 3,914 4,006 4,885 5,343 6,050 6,757 7,464 8,171 8,878
+Deposits and other 3,657 3,595 3,809 5,561 5,892 6,145 6,417 7,269 8,254 9,866 11,134 11,965 11,927 13,898 15,135 17,468 17,468 17,468 17,468 17,468 17,468
+Goodwill 4,193 4,193 4,193 4,302 4,349 4,365 4,372 4,372 4,372 4,430 4,430 4,430 4,430 4,453 4,622 4,724 4,724 4,724 4,724 4,724 4,724
+Intangible assets 2,737 2,613 2,478 2,454 2,339 2,211 2,036 1,850 1,676 1,541 1,395 1,251 1,112 986 952 838 838 838 838 838 838
+Total assets 28,791 30,796 38,650 40,632 44,187 45,212 43,476 40,488 41,182 44,460 49,555 54,148 65,728 77,072 85,227 96,013 113,652 131,861 153,333 177,560 204,806
+Liabilities
+Accounts payable 1,201 1,218 1,474 1,664 1,783 1,999 2,421 1,491 1,193 1,141 1,929 2,380 2,699 2,715 3,680 5,353 5,443 6,253 6,494 6,876 7,211
+Accrued liabilities 1,725 1,787 1,974 1,948 2,552 3,563 3,903 4,115 4,120 4,869 7,156 5,472 6,682 11,258 10,289 11,126 11,126 11,126 11,126 11,126 11,126
+Short-term Debt 999 999 1,000 0 0 0 1,249 1,249 1,250 1,250 1,249 1,249 1,250 1,250
+Deferred revenue
+Total current liabilities 3,925 4,004 4,448 3,612 4,335 5,562 7,573 6,855 6,563 7,260 10,334 9,101 10,631 15,223 13,969 16,479 16,569 17,379 17,620 18,002 18,337
+Capital lease obligations 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Long-term Debt 5,964 5,964 10,943 10,944 10,946 10,947 9,700 9,701 9,703 9,704 8,456 8,457 8,459 8,460 8,461 8,462 8,462 8,462 8,462 8,462 8,462
+Long-term liabilities 2,009 2,054 2,112 2,278 2,294 2,383 2,352 2,583 2,815 2,976 3,264 3,325 3,660 4,247 4,640 5,173 5,173 5,173 5,173 5,173 5,173
+Total liabilities 11,898 12,022 17,503 16,834 17,575 18,892 19,625 19,139 19,081 19,940 22,054 20,883 22,750 27,930 27,070 30,114 30,204 31,014 31,255 31,637 31,972
+Total stockholders' equity 16,893 18,774 21,147 23,798 26,612 26,320 23,851 21,349 22,101 24,520 27,501 33,265 42,978 49,142 58,157 65,899 83,448 100,847 122,078 145,923 172,834
+Total liability and stockholders' equity 28,791 30,796 38,650 40,632 44,187 45,212 43,476 40,488 41,182 44,460 49,555 54,148 65,728 77,072 85,227 96,013 113,652 131,861 153,333 177,560 204,806
+Source: Company reports and J.P. Morgan estimates
+6
+$M
+FY end: Jan.	Apr-21 Jul-21 Oct-21 Jan-22
+1Q22 2Q22 3Q22 4Q22	C21
+F22	Apr-22 Jul-22 Oct-22 Jan-23
+1Q23 2Q23 3Q23 4Q23	C22
+F23	Apr-23 Jul-23 Oct-23 Jan-24
+1Q24 2Q24 3Q24 4Q24	C23
+F24E	Apr-24 Jul-24 Oct-24 Jan-25
+1Q25 2Q25 3Q25 4Q25E	C24
+F25E	Apr-25 Jul-25 Oct-25 Jan-26
+1Q26E 2Q26E 3Q26E 4Q26E	C25
+F26E
+Total revenue 5,661 6,507 7,103 7,643
+% Change Y/Y 83.8% 68.3% 50.3% 52.8%
+% Change Q/Q 13.2% 14.9% 9.2% 7.6%
+Cost of goods sold 2,032 2,292 2,472 2,644
+% Change Y/Y 88.8% 44.1% 40.0% 43.2%
+% Change Q/Q 10.1% 12.8% 7.9% 7.0%
+Non-GAAP Gross margin (ex SBC) 66.2% 66.7% 67.0% 67.0%
+GAAP Gross margin 64.1% 64.8% 65.2% 65.4%
+R&D 1,153 1,245 1,403 1,466
+% Total revenue 20.4% 19.1% 19.8% 19.2%
+SG&A (Adj.) 440 454 487 493
+% Total revenue 7.8% 7.0% 6.9% 6.5%
+Operating income 2,036 2,516 2,741 3,040
+% Total revenue 36.0% 38.7% 38.6% 39.8%
+Opex GAAP 1673 1771 1960 2029
+Opex Non-GAAP 1189 1266 1375 1447
+Opm % ex options 43.5% 45.8% 46.5% 47.0%
+Interest/Other Expense (45) (49) (52) (52)
+Pretax income 1,991 2,467 2,689 2,988
+% Total revenue 35.2% 37.9% 37.9% 39.1%
+Income tax 132 20 174 (138)
+Tax rate 6.6% 0.8% 6.5% -4.6%
+Net income (non-GAAP) 2,313 2,623 2,973 3,350
+% Total revenue 32.8% 37.6% 35.4% 40.9%
+Avg. No. of Diluted Shr 25,280 25,320 25,380 25,450
+Avg. No. of Diluted Shr (non-GAAP) 25,280 25,320 25,380 25,450
+Convertible Adjustment		26,914
+61.4%
+9,440
+50.3%
+66.8%
+64.9%
+5,267
+19.6%
+1,874
+7.0%
+10,333
+38.4%
+5,277
+47.2%
+(198)
+10,135
+37.7%
+188
+1.9%
+11,259
+37.0%
+25,358
+25,358	8,288 6,704 5,931 6,051
+46.4% 3.0% -16.5% -20.8%
+8.4% -19.1% -11.5% 2.0%
+2,857 3,789 2,754 2,218
+40.6% 65.3% 11.4% -16.1%
+8.1% 32.6% -27.3% -19.5%
+67.1% 45.9% 56.1% 66.1%
+65.5% 43.5% 53.6% 63.3%
+1,618 1,824 1,945 1,951
+19.5% 27.2% 32.8% 32.2%
+530 536 561 533
+6.4% 8.0% 9.5% 8.8%
+3,283 555 671 1,349
+39.6% 8.3% 11.3% 22.3%
+3563 2416 2576 2576
+1608 1749 1793 1775
+46.6% 18.0% 23.9% 34.5%
+(45) (16) 24 43
+3,238 539 695 1,392
+39.1% 8.0% 11.7% 23.0%
+187 (181) (67) (125)
+5.8% -33.6% -9.6% -9.0%
+3,443 1,292 1,456 2,174
+36.8% 10.7% 12.8% 25.1%
+25,370 25,160 24,990 24,770
+25,370 25,160 24,990 24,770	26,974
+0.2%
+11,618
+23.1%
+57.4%
+56.9%
+7,338
+27.2%
+2,160
+8.0%
+5,858
+21.7%
+6,925
+31.8%
+6
+5,864
+21.7%
+(186)
+-3.2%
+8,365
+22.4%
+25,073
+25,073	7,192 13,507 18,120 22,103
+-13.2% 101.5% 205.5% 265.3%
+18.9% 87.8% 34.2% 22.0%
+2,544 4,045 4,720 5,312
+-11.0% 6.8% 71.4% 139.5%
+14.7% 59.0% 16.7% 12.5%
+66.8% 71.2% 75.0% 76.7%
+64.6% 70.1% 74.0% 76.0%
+1,875 2,040 2,294 2,465
+26.1% 15.1% 12.7% 11.2%
+583 609 673 693
+8.1% 4.5% 3.7% 3.1%
+2,190 6,813 10,433 13,633
+30.5% 50.4% 57.6% 61.7%
+2508 2662 2983 3176
+1750 1838 2026 2210
+40.7% 56.7% 63.0% 66.2%
+84 120 175 232
+2,274 6,933 10,608 13,865
+31.6% 51.3% 58.5% 62.7%
+166 793 1,279 1,821
+7.3% 11.4% 12.1% 13.1%
+2,713 6,740 10,020 12,839
+29.3% 45.5% 51.5% 54.5%
+24,900 24,990 24,940 24,900
+24,900 24,990 24,940 24,900	60,922
+125.9%
+16,621
+43.1%
+72.9%
+72.7%
+8,674
+14.2%
+2,558
+4.2%
+33,069
+54.3%
+7,824
+60.1%
+611
+33,680
+55.3%
+4,059
+12.1%
+32,312
+48.6%
+24,933
+24,933	26,044 30,040 35,082 37,500
+262.1% 122.4% 93.6% 69.7%
+17.8% 15.3% 16.8% 6.9%
+5,638 7,466 8,926 10,125
+121.6% 84.6% 89.1% 90.6%
+6.1% 32.4% 19.6% 13.4%
+78.9% 75.7% 75.0% 73.5%
+78.4% 75.1% 74.6% 73.0%
+2,720 3,090 3,390 3,806
+10.4% 10.3% 9.7% 10.2%
+756 816 858 944
+2.9% 2.7% 2.4% 2.5%
+16,930 18,668 21,908 22,625
+65.0% 62.1% 62.4% 60.3%
+3497 3932 4287 4750
+2501 2792 3046 3400
+68.9% 66.0% 66.0% 64.1%
+3168
+302 380 411 400
+17,232 19,048 22,319 23,025
+66.2% 63.4% 63.6% 61.4%
+2,398 2,615 3,007 3,799
+13.9% 13.7% 13.5% 16.5%
+15,238 16,952 20,010 20,516
+57.0% 54.7% 55.0% 51.3%
+24,890 24,848 24,774 24,774
+24,890 24,848 24,774 24,774	128,666
+111.2%
+32,155
+93.5%
+75.2%
+75.0%
+13,006
+10.1%
+3,374
+2.6%
+80,131
+62.3%
+11,739
+66.0%
+1,493
+81,624
+63.4%
+11,819
+14.5%
+72,716
+54.3%
+24,822
+24,822	40,812 44,740 49,194 53,655
+56.7% 48.9% 40.2% 43.1%
+8.8% 9.6% 10.0% 9.1%
+11,632 12,080 12,791 13,414
+106.3% 61.8% 43.3% 32.5%
+14.9% 3.9% 5.9% 4.9%
+72.0% 73.4% 74.4% 75.4%
+71.5% 73.0% 74.0% 75.0%
+3,882 4,077 4,280 4,494
+9.5% 9.1% 8.7% 8.4%
+982 1,021 1,072 1,115
+2.4% 2.3% 2.2% 2.1%
+24,317 27,563 31,052 34,632
+59.6% 61.6% 63.1% 64.5%
+4864 5097 5352 5609
+3514 3747 4002 4259
+63.1% 64.8% 66.0% 67.2%
+3655 FALSE 4162
+400 400 400 400
+24,717 27,963 31,452 35,032
+60.6% 62.5% 63.9% 65.3%
+4,202 4,754 5,347 5,956
+17.0% 17.0% 17.0% 17.0%
+21,797 24,491 27,387 30,359
+50.3% 51.9% 53.1% 54.2%
+24,774 24,774 24,774 24,774
+24,774 24,774 24,774 24,774	188,402
+46.4%
+49,916
+55.2%
+73.7%
+73.5%
+16,734
+8.9%
+4,189
+2.2%
+117,564
+62.4%
+15,523
+65.4%
+1,600
+119,164
+63.2%
+20,258
+17.0%
+104,035
+52.5%
+24,774
+24,774
+EPS (Non-GAAP) $0.09 $0.10 $0.12 $0.13
+% Change Y/Y 103.4% 89.9% 61.0% 69.8%
+% Change Q/Q 18.0% 13.2% 13.1% 12.4%		$0.44
+77.5%	$0.14 $0.05 $0.06 $0.09
+48.3% -50.4% -50.3% -33.3%
+3.1% -62.2% 13.5% 50.6%	$0.33
+-24.9%	$0.11 $0.27 $0.40 $0.52
+-19.7% 425.2% 589.6% 487.5%
+24.1% 147.5% 49.0% 28.3%	$1.30
+288.4%	$0.61 $0.68 $0.81 $0.83
+461.9% 153.0% 101.0% 60.6%
+18.7% 11.4% 18.4% 2.5%	$2.93
+126.0%	$0.88 $0.99 $1.11 $1.23
+43.7% 44.9% 36.9% 48.0%
+6.2% 12.4% 11.8% 10.9%	$4.20
+43.3%
+
+Jan'21
+FY End: Jan. 4Q21		Apr'21 Jul'21 Oct'21 Jan'22
+1Q22 2Q22 3Q22 4Q22
+12,667 19,654 19,298 21,208
+3,024 3,586 3,954 4,650
+1,992 2,114 2,233 2,605
+444 452 321 366
+18,127 25,806 25,806 28,829
+2,268 2,364 2,509 2,778
+3,595 3,809 5,561 5,892
+4,193 4,193 4,302 4,349
+2,613 2,478 2,454 2,339
+30,796 38,650 40,632 44,187
+1,218 1,474 1,664 1,783
+1,787 1,974 1,948 2,552
+999 1,000 0 0
+4,004 4,448 3,612 4,335
+0 0 0 0
+5,964 10,943 10,944 10,946
+2,054 2,112 2,278 2,294
+12,022 17,503 16,834 17,575
+18,774 21,147 23,798 26,612
+30,796 38,650 40,632 44,187	Apr'22 Jul'22 Oct'22 Jan'23
+1Q23 2Q23 3Q23 4Q23
+20,338 17,037 13,143 13,296
+5,438 5,317 4,908 3,827
+3,163 3,889 4,454 5,159
+636 1,175 718 791
+29,575 27,418 23,223 23,073
+2,916 3,233 3,774 3,807
+6,145 6,417 7,269 8,254
+4,365 4,372 4,372 4,372
+2,211 2,036 1,850 1,676
+45,212 43,476 40,488 41,182
+1,999 2,421 1,491 1,193
+3,563 3,903 4,115 4,120
+0 1,249 1,249 1,250
+5,562 7,573 6,855 6,563
+0 0 0 0
+10,947 9,700 9,701 9,703
+2,383 2,352 2,583 2,815
+18,892 19,625 19,139 19,081
+26,320 23,851 21,349 22,101
+45,212 43,476 40,488 41,182	Apr'23 Jul'23 Oct'23 Jan'24
+1Q24 2Q24 3Q24 4Q24
+15,320 16,023 18,281 25,984
+4,080 7,066 8,309 9,999
+4,611 4,319 4,779 5,282
+872 1,389 1,289 3,080
+24,883 28,797 32,658 44,345
+3,740 3,799 3,844 3,914
+9,866 11,134 11,965 11,927
+4,430 4,430 4,430 4,430
+1,541 1,395 1,251 1,112
+44,460 49,555 54,148 65,728
+1,141 1,929 2,380 2,699
+4,869 7,156 5,472 6,682
+1,250 1,249 1,249 1,250
+7,260 10,334 9,101 10,631
+0 0 0 0
+9,704 8,456 8,457 8,459
+2,976 3,264 3,325 3,660
+19,940 22,054 20,883 22,750
+24,520 27,501 33,265 42,978
+44,460 49,555 54,148 65,728	Apr'24 Jul'24 Oct'24 Jan'25
+1Q25 2Q25 3Q25 4Q25E
+31,438 34,800 38,487 46,987
+12,365 14,132 17,693 19,560
+5,864 6,675 7,654 14,220
+4,062 4,026 3,806 3,806
+53,729 59,633 67,640 84,572
+4,006 4,885 5,343 6,050
+13,898 15,135 17,468 17,468
+4,453 4,622 4,724 4,724
+986 952 838 838
+77,072 85,227 96,013 113,652
+2,715 3,680 5,353 5,443
+11,258 10,289 11,126 11,126
+1,250
+15,223 13,969 16,479 16,569
+0 0 0 0
+8,460 8,461 8,462 8,462
+4,247 4,640 5,173 5,173
+27,930 27,070 30,114 30,204
+49,142 58,157 65,899 83,448
+77,072 85,227 96,013 113,652	Apr'25 Jul'25 Oct'25 Jan'26
+1Q26E 2Q26E 3Q26E 4Q26E
+58,758 77,077 97,365 120,803
+21,982 24,007 26,343 28,602
+17,528 17,949 18,845 19,687
+3,806 3,806 3,806 3,806
+102,074 122,839 146,359 172,898
+6,757 7,464 8,171 8,878
+17,468 17,468 17,468 17,468
+4,724 4,724 4,724 4,724
+838 838 838 838
+131,861 153,333 177,560 204,806
+6,253 6,494 6,876 7,211
+11,126 11,126 11,126 11,126
+17,379 17,620 18,002 18,337
+0 0 0 0
+8,462 8,462 8,462 8,462
+5,173 5,173 5,173 5,173
+31,014 31,255 31,637 31,972
+100,847 122,078 145,923 172,834
+131,861 153,333 177,560 204,806
+Assets
+Cash and ST investment
+Accounts receivable
+Inventories
+Prepaid and other
+Total current assets
+PP&E, net
+Deposits and other
+Goodwill
+Intangible assets
+Total assets
+Liabilities
+Accounts payable
+Accrued liabilities
+Short-term Debt
+Deferred revenue
+Total current liabilities
+Capital lease obligations
+Long-term Debt
+Long-term liabilities
+Total liabilities
+Total stockholders' equity
+Total liability and stockholders' equity	11,561
+2,429
+1,826
+239
+16,055
+2,149
+3,657
+4,193
+2,737
+28,791
+1,201
+1,725
+999
+3,925
+0
+5,964
+2,009
+11,898
+16,893
+28,791					
+
+Harlan SurAC North America Equity Research JPMORGAN
+(1-415) 315-6700 21 November 2024
+harlan.sur@jpmorgan.com &T Th Eis C Ho Gu Zm .e
+d c n t is b e in g p r o v id e d f o r t h e e x c lu s iv e u s e o f J I A X I N L I U a t T H E H K U N I V E R S I T Y O F S C I
+Table 7: NVIDIA Cash Flow Statement
+$ in millions
+Apr'21 Jul'21 Oct'21 Jan'22 Apr'22 Jul'22 Oct'22 Jan'23 Apr'23 Jul'23 Oct'23 Jan'24 Apr'24 Jul'24 Oct'24 Jan'25 Apr'25 Jul'25 Oct'25 Jan'26
+FY End: Jan. 1Q22 2Q22 3Q22 4Q22 1Q23 2Q23 3Q23 4Q23 1Q24 2Q24 3Q24 4Q24 1Q25 2Q25 3Q25E 4Q25E 1Q26E 2Q26E 3Q26E 4Q26E
+Net income (GAAP) 1,912 2,374 2,464 3,003 1,618 656 680 1,414 2,043 6,188 9,243 12,285 14,881 16,599 19,309 19,226 20,515 23,209 26,105 29,077
+Depreciation and amortization 281 286 298 309 334 378 406 426 384 365 372 387 410 433 478 106 106 106 106 106
+Stock-based compensation 429 465 559 551 578 648 745 738 735 842 979 993 1,011 1,154 1,252 1,545 1,545 1,545 1,545 1,545
+Excess tax benefits from stock comp
+Other adjustments (112) 18 31 (151) 851 (5) (34) (617) (1,155) (69) 3 (447) (1,791) (144) (116)
+Change in working capital
+Change in Receivables (595) (563) (366) (692) (788) 120 (410) 1,081 (252) (2,986) (1,243) (1,690) (2,366) (1,767) (3,561) (1,867) (2,422) (2,026) (2,336) (2,259)
+Changes in Inventory (159) (123) (118) (374) (560) (725) (563) (706) 566 296 (457) (503) (577) (803) (978) (6,566) (3,309) (421) (896) (842)
+Prepaid expenses and other assets 2 16 (1,575) (158) (1,261) (293) 247 (210) (215) (376) 254 (1,184) (726) 714 (714) 0 0 0 0 0
+Deposits and other assets
+Accounts payable 70 209 15 183 255 304 (917) (193) 11 777 461 281 (22) 823 1,689 (90) (810) (241) (382) (335)
+Accrued liabilities and other liabilities (1) 133 (62) 423 634 633 (92) 166 689 1,986 (1,722) 1,072 4,202 (888) 606 0 0 0 0 0
+Other liabilities 47 (133) 273 (61) 70 (446) 330 150 105 (675) (557) 305 323 (1,632) (336)
+Cash Flow from operations 1,874 2,682 1,519 3,033 1,731 1,270 392 2,249 2,911 6,348 7,333 11,499 15,345 14,489 17,629 12,354 15,626 22,172 24,142 27,292
+Purchases of marketable securities (4,470) (4,798) 2,756 (3,932) (3,644) 5,884 (2,801) (2,542) 2,891 (9,303) (5,744) 1,386
+Sales and maturities of marketable securities 3,498 2,443 (6,752) (1,243) 6,976 5,738 (2,188) 500 2,512 2,598 (5,345) (5,743) 4,153 4,109 (4,364)
+Purchases of PP&E (298) (183) (221) (273) (361) (433) (530) (509) (248) (289) (278) (253) (369) (977) (813) (813) (813) (813) (813) (813)
+Acquisition, net of cash acquired 0 0 (203) (60) (36) (13) 0 0 (83) 0 0 0 (39) (279) (147)
+Other Investing Activities (2) 5 (18) (11) (35) (30) (18) 5 (221) (214) (437) (113) (135) (294) (407)
+Cash flow from investments (1,272) (2,533) (4,438) (1,587) 2,612 1,618 3,148 (4) (841) (447) (3,169) (6,109) (5,693) (3,185) (4,345) (813) (813) (813) (813) (813)
+Common stock issued under employee stock plans 126 2 149 204 1 143 246 1 156 285 0 204 204 204 204 204 204
+Issue/Repurchase of common stock (477) (1,996) (3,345) (3,485) (1,212) 0 (3,067) (3,806) (2,660) (7,740) (7,158) (10,998) (3,000) (3,000) (3,000) (3,000) (3,000)
+Principal payments on capital leases (1,008) 0 0 0
+Debt proceeds/borrowings 0 4,985 (26) 0 0 (7) 0 (1,250) (29) 0 (1,250)
+Excess tax benefits from stock comp (365) (440) (618) (305) (294) (339) (672) (764) (841) (1,637) (1,680)
+Dividends paid (99) (100) (100) (100) (100) (100) (100) (98) (99) (99) (99) (99) (98) (246) (245) (245) (245) (245) (245) (245)
+Other financing activities (21) (21) (22) (554) (13) (17) (527) (11) (14) (1,792) (29) (29)
+Cash flow from financing (471) 4,501 (1,421) (744) (2,446) (3,762) (3,753) (1,656) (380) (5,098) (4,527) (3,629) (9,345) (10,320) (12,748) (3,041) (3,041) (3,041) (3,041) (3,041)
+Cash at beginning of period 847 978 5,628 1,288 1,990 3,887 3,013 2,800 3,389 5,079 5,882 5,519 7,280 7,587 8,571 9,107 17,607 29,379 47,697 67,985
+Net change in cash and equivalents 131 4,650 (4,340) 702 1,897 (874) (213) 589 1,690 803 (363) 1,761 307 984 536 8,500 11,772 18,318 20,288 23,438
+Cash at end of period 978 5,628 1,288 1,990 3,887 3,013 2,800 3,389 5,079 5,882 5,519 7,280 7,587 8,571 9,107 17,607 29,379 47,697 67,985 91,423
+Source: Company reports and J.P. Morgan estimate
+7
+FY End: Jan.	Apr'21 Jul'21 Oct'21 Jan'22
+1Q22 2Q22 3Q22 4Q22		Apr'22 Jul'22 Oct'22 Jan'23
+1Q23 2Q23 3Q23 4Q23		Apr'23 Jul'23 Oct'23 Jan'24
+1Q24 2Q24 3Q24 4Q24		Apr'24 Jul'24 Oct'24 Jan'25
+1Q25 2Q25 3Q25E 4Q25E		Apr'25 Jul'25 Oct'25 Jan'26
+1Q26E 2Q26E 3Q26E 4Q26E	
+Net income (GAAP)
+Depreciation and amortization
+Stock-based compensation
+Excess tax benefits from stock comp
+Other adjustments
+Change in working capital
+Change in Receivables
+Changes in Inventory
+Prepaid expenses and other assets
+Deposits and other assets
+Accounts payable
+Accrued liabilities and other liabilities
+Other liabilities
+Cash Flow from operations
+Purchases of marketable securities
+Sales and maturities of marketable securities
+Purchases of PP&E
+Acquisition, net of cash acquired
+Other Investing Activities
+Cash flow from investments
+Common stock issued under employee stock plans
+Issue/Repurchase of common stock
+Principal payments on capital leases
+Debt proceeds/borrowings
+Excess tax benefits from stock comp
+Dividends paid
+Other financing activities
+Cash flow from financing
+Cash at beginning of period
+Net change in cash and equivalents
+Cash at end of period	1,912
+281
+429
+(112)
+(595)
+(159)
+2
+70
+(1)
+47
+1,874
+(4,470)
+3,498
+(298)
+0
+(2)
+(1,272)
+126
+(477)
+0
+(99)
+(21)
+(471)
+847
+131
+978	2,374 2,464 3,003
+286 298 309
+465 559 551
+18 31 (151)
+(563) (366) (692)
+(123) (118) (374)
+16 (1,575) (158)
+209 15 183
+133 (62) 423
+(133) 273 (61)
+2,682 1,519 3,033
+(4,798) 2,756
+2,443 (6,752) (1,243)
+(183) (221) (273)
+0 (203) (60)
+5 (18) (11)
+(2,533) (4,438) (1,587)
+2 149
+(1,008)
+4,985 (26)
+(365) (440) (618)
+(100) (100) (100)
+(21) (22)
+4,501 (1,421) (744)
+978 5,628 1,288
+4,650 (4,340) 702
+5,628 1,288 1,990	1,618
+334
+578
+851
+(788)
+(560)
+(1,261)
+255
+634
+70
+1,731
+(3,932)
+6,976
+(361)
+(36)
+(35)
+2,612
+204
+(1,996)
+0
+(100)
+(554)
+(2,446)
+1,990
+1,897
+3,887	656 680 1,414
+378 406 426
+648 745 738
+(5) (34) (617)
+120 (410) 1,081
+(725) (563) (706)
+(293) 247 (210)
+304 (917) (193)
+633 (92) 166
+(446) 330 150
+1,270 392 2,249
+(3,644) 5,884
+5,738 (2,188) 500
+(433) (530) (509)
+(13) 0 0
+(30) (18) 5
+1,618 3,148 (4)
+1 143
+(3,345) (3,485) (1,212)
+0
+0 (7)
+(305) (294) (339)
+(100) (100) (98)
+(13) (17)
+(3,762) (3,753) (1,656)
+3,887 3,013 2,800
+(874) (213) 589
+3,013 2,800 3,389	2,043
+384
+735
+(1,155)
+(252)
+566
+(215)
+11
+689
+105
+2,911
+(2,801)
+2,512
+(248)
+(83)
+(221)
+(841)
+246
+0
+0
+(99)
+(527)
+(380)
+3,389
+1,690
+5,079	6,188 9,243 12,285
+365 372 387
+842 979 993
+(69) 3 (447)
+(2,986) (1,243) (1,690)
+296 (457) (503)
+(376) 254 (1,184)
+777 461 281
+1,986 (1,722) 1,072
+(675) (557) 305
+6,348 7,333 11,499
+(2,542) 2,891
+2,598 (5,345) (5,743)
+(289) (278) (253)
+0 0 0
+(214) (437) (113)
+(447) (3,169) (6,109)
+1 156
+(3,067) (3,806) (2,660)
+0
+(1,250) (29)
+(672) (764) (841)
+(99) (99) (99)
+(11) (14)
+(5,098) (4,527) (3,629)
+5,079 5,882 5,519
+803 (363) 1,761
+5,882 5,519 7,280	14,881
+410
+1,011
+(1,791)
+(2,366)
+(577)
+(726)
+(22)
+4,202
+323
+15,345
+(9,303)
+4,153
+(369)
+(39)
+(135)
+(5,693)
+285
+(7,740)
+0
+(98)
+(1,792)
+(9,345)
+7,280
+307
+7,587	16,599 19,309 19,226
+433 478 106
+1,154 1,252 1,545
+(144) (116)
+(1,767) (3,561) (1,867)
+(803) (978) (6,566)
+714 (714) 0
+823 1,689 (90)
+(888) 606 0
+(1,632) (336)
+14,489 17,629 12,354
+(5,744) 1,386
+4,109 (4,364)
+(977) (813) (813)
+(279) (147)
+(294) (407)
+(3,185) (4,345) (813)
+0 204 204
+(7,158) (10,998) (3,000)
+0
+(1,250)
+(1,637) (1,680)
+(246) (245) (245)
+(29) (29)
+(10,320) (12,748) (3,041)
+7,587 8,571 9,107
+984 536 8,500
+8,571 9,107 17,607	20,515
+106
+1,545
+(2,422)
+(3,309)
+0
+(810)
+0
+15,626
+(813)
+(813)
+204
+(3,000)
+(245)
+(3,041)
+17,607
+11,772
+29,379	23,209 26,105 29,077
+106 106 106
+1,545 1,545 1,545
+(2,026) (2,336) (2,259)
+(421) (896) (842)
+0 0 0
+(241) (382) (335)
+0 0 0
+22,172 24,142 27,292
+(813) (813) (813)
+(813) (813) (813)
+204 204 204
+(3,000) (3,000) (3,000)
+(245) (245) (245)
+(3,041) (3,041) (3,041)
+29,379 47,697 67,985
+18,318 20,288 23,438
+47,697 67,985 91,423
+
+Harlan SurAC North America Equity Research JPMORGAN
+(1-415) 315-6700 21 November 2024
+harlan.sur@jpmorgan.com &T Th Eis C Ho Gu Zm .e
+d c n t is b e in g p r o v id e d f o r t h e e x c lu s iv e u s e o f J I A X I N L I U a t T H E H K U N I V E R S I T Y O F S C I
+Investment Thesis, Valuation and Risks
+NVIDIA Corporation (Overweight; Price Target: $170.00)
+Investment Thesis
+We believe NVIDIA continues to execute across all segments. While 1H is typically
+seasonally weaker than 2H, we expect solid demand in PC gaming to be a strong revenue
+driver for the company, offsetting PC OEM, which is in secular decline. We expect the data
+center segment to grow strongly as hyperscale customers continue to embrace GPU-
+accelerated deep learning for processing large data sets. We are encouraged by strength in
+the automotive and enterprise segments as well, although strong adoption of autonomous
+driving in the market remains to be seen. We anticipate significant upside in shares, driving
+our Overweight rating.
+Valuation
+Our Dec-25 PT assumes that NVIDIA trades at a 35x multiple applied to ~$4.90 of
+annualized earnings power exiting CY25E ($1.23 *4). Our earnings multiple is consistent
+with its potential earnings CAGR of 30-35%+ over the next few years led by the continued
+strong datacenter growth, monetizing an incremental ~$14B of auto revenue pipeline and
+incremental software, licensing, and subscription revenues over the next several years.
+Risks to Rating and Price Target
+• Although PC gaming demand seems resilient to macroeconomic weakness, any macro
+uncertainty could weigh on PC gaming demand trends. Given NVDA’s ~53% exposure
+to the PC gaming segment, any consumer PC gaming weakness poses downside risk to
+our estimates.
+• NVIDIA’s GPUs could gain lower than expected deployment into data center
+applications as hyperscale customers further adopt deep learning as a new and effective
+way of processing large unstructured data sets. Any significant decrease in the adoption
+of deep learning by hyperscale customers or increase in competition could result in
+downside risk to our revenue and earnings estimates.
+8
+
+Harlan SurAC North America Equity Research JPMORGAN
+(1-415) 315-6700 21 November 2024
+harlan.sur@jpmorgan.com &T Th Eis C Ho Gu Zm .e
+d c n t is b e in g p r o v id e d f o r t h e e x c lu s iv e u s e o f J I A X I N L I U a t T H E H K U N I V E R S I T Y O F S C I
+NVIDIA Corporation: Summary of Financials
+Income Statement - Annual FY23A FY24A FY25E FY26E FY27E Income Statement - Quarterly 1Q25A 2Q25A 3Q25A 4Q25E
+Revenue 26,974 60,922 128,666 188,402 - Revenue 26,044A 30,040A 35,082A 37,500
+COGS (11,618) (16,621) (32,155) (49,916) - COGS (5,638)A (7,466)A (8,926)A (10,125)
+Gross profit 15,356 44,301 96,511 138,486 - Gross profit 20,406A 22,574A 26,156A 27,375
+SG&A (2,160) (2,558) (3,374) (4,189) - SG&A (756)A (816)A (858)A (944)
+Adj. EBITDA 6,282 33,493 80,555 117,988 - Adj. EBITDA 17,036A 18,774A 22,014A 22,731
+D&A (424) (424) (424) (424) - D&A (106)A (106)A (106)A (106)
+Adj. EBIT 5,858 33,069 80,131 117,564 - Adj. EBIT 16,930A 18,668A 21,908A 22,625
+Net Interest - - - - - Net Interest - - - -
+Adj. PBT 5,864 33,680 81,624 119,164 - Adj. PBT 17,232A 19,048A 22,319A 23,025
+Tax 186 (4,059) (11,819) (20,258) - Tax (2,398)A (2,615)A (3,007)A (3,799)
+Minority Interest - - - - - Minority Interest - - - -
+Adj. Net Income 8,365 32,312 72,716 104,035 - Adj. Net Income 15,238A 16,952A 20,010A 20,516
+Reported EPS 0.17 1.19 2.82 3.97 - Reported EPS 0.60A 0.67A 0.78A 0.77
+Adj. EPS 0.33 1.30 2.93 4.20 - Adj. EPS 0.61A 0.68A 0.81A 0.83
+DPS 0.02 0.02 0.04 0.04 - DPS 0.01A 0.01A 0.01A 0.01
+Payout ratio 9.2% 1.3% 1.4% 1.0% - Payout ratio 1.7%A 1.5%A 1.3%A 1.3%
+Shares outstanding 25,073 24,933 24,822 24,774 - Shares outstanding 24,890A 24,848A 24,774A 24,774
+Balance Sheet & Cash Flow Statement FY23A FY24A FY25E FY26E FY27E Ratio Analysis FY23A FY24A FY25E FY26E FY27E
+Cash and cash equivalents 13,296 25,984 46,987 120,803 - Gross margin 56.9% 72.7% 75.0% 73.5% -
+Accounts receivable 3,827 9,999 19,560 28,602 - EBITDA margin 23.3% 55.0% 62.6% 62.6% -
+Inventories 5,159 5,282 14,220 19,687 - EBIT margin 21.7% 54.3% 62.3% 62.4% -
+Other current assets 791 3,080 3,806 3,806 - Net profit margin 31.0% 53.0% 56.5% 55.2% -
+Current assets 23,073 44,345 84,572 172,898 -
+PP&E 3,807 3,914 6,050 8,878 - ROE 34.3% 99.3% 115.0% 81.2% -
+LT investments - - - - - ROA 19.6% 60.4% 81.1% 65.3% -
+Other non current assets 14,302 17,469 23,030 23,030 - ROCE 16.1% 67.8% 94.8% 71.4% -
+Total assets 41,182 65,728 113,652 204,806 - SG&A/Sales 8.0% 4.2% 2.6% 2.2% -
+Net debt/equity NM NM NM NM -
+Short term borrowings 1,250 1,250 0 0 -
+Payables 1,193 2,699 5,443 7,211 - P/E (x) 437.3 112.6 49.8 34.7 -
+Other short term liabilities 4,120 6,682 11,126 11,126 - P/BV (x) 165.5 84.6 43.4 20.9 -
+Current liabilities 6,563 10,631 16,569 18,337 - EV/EBITDA (x) 580.0 108.4 44.8 29.9 -
+Long-term debt 9,703 8,459 8,462 8,462 - Dividend Yield 0.0% 0.0% 0.0% 0.0% -
+Other long term liabilities 2,815 3,660 5,173 5,173 -
+Total liabilities 19,081 22,750 30,204 31,972 - Sales/Assets (x) 0.6 1.1 1.4 1.2 -
+Shareholders' equity 22,101 42,978 83,448 172,834 - Interest cover (x) - - - - -
+Minority interests - - - - - Operating leverage (19426.5%) 369.1% 128.0% 100.6% -
+Total liabilities & equity 41,182 65,728 113,652 204,806 -
+Revenue y/y Growth 0.2% 125.9% 111.2% 46.4% -
+BVPS 0.88 1.72 3.36 6.98 -
+EBITDA y/y Growth (41.6%) 433.2% 140.5% 46.5% -
+y/y Growth (16.0%) 95.6% 95.0% 107.5% -
+Tax rate 3.2% 12.1% 14.5% 17.0% -
+Net debt/(cash) (2,343) (16,275) (38,525)(112,341) -
+Adj. Net Income y/y Growth (25.7%) 286.3% 125.0% 43.1% -
+EPS y/y Growth (24.9%) 288.4% 126.0% 43.3% -
+Cash flow from operating activities 5,642 28,091 59,817 89,232 -
+DPS y/y Growth 0.0% 0.0% 150.0% 0.0% -
+o/w Depreciation & amortization 424 424 424 424 -
+o/w Changes in working capital (3,174) (5,057) (14,536) (16,278) -
+Cash flow from investing activities 7,374 (10,566) (14,036) (3,252) -
+o/w Capital expenditure (1,833) (1,068) (2,972) (3,252) -
+as % of sales 6.8% 1.8% 2.3% 1.7% -
+Cash flow from financing activities (11,617) (13,634) (35,454) (12,164) -
+o/w Dividends paid (398) (396) (834) (980) -
+o/w Net debt issued/(repaid) (7) (1,279) (1,250) 0 -
+Net change in cash 1,399 3,891 10,327 73,816 -
+Adj. Free cash flow to firm 3,809 27,023 56,845 85,980 -
+y/y Growth (53.2%) 609.5% 110.4% 51.3% -
+Source: Company reports and J.P. Morgan estimates.
+Note: $ in millions (except per-share data).Fiscal year ends Jan. o/w - out of which
+9
+
+Harlan SurAC North America Equity Research JPMORGAN
+(1-415) 315-6700 21 November 2024
+harlan.sur@jpmorgan.com &T Th Eis C Ho Gu Zm .e
+d c n t is b e in g p r o v id e d f o r t h e e x c lu s iv e u s e o f J I A X I N L I U a t T H E H K U N I V E R S I T Y O F S C I
+Analyst Certification: The Research Analyst(s) denoted by an “AC” on the cover of this report certifies (or, where multiple Research Analysts
+are primarily responsible for this report, the Research Analyst denoted by an “AC” on the cover or within the document individually certifies,
+with respect to each security or issuer that the Research Analyst covers in this research) that: (1) all of the views expressed in this report
+accurately reflect the Research Analyst’s personal views about any and all of the subject securities or issuers; and (2) no part of any of the
+Research Analyst's compensation was, is, or will be directly or indirectly related to the specific recommendations or views expressed by the
+Research Analyst(s) in this report. For all Korea-based Research Analysts listed on the front cover, if applicable, they also certify, as per KOFIA
+requirements, that the Research Analyst’s analysis was made in good faith and that the views reflect the Research Analyst’s own opinion,
+without undue influence or intervention.
+All authors named within this report are Research Analysts who produce independent research unless otherwise specified. In Europe, Sector
+Specialists (Sales and Trading) may be shown on this report as contacts but are not authors of the report or part of the Research Department.
+Important Disclosures
+Market Maker: J.P. Morgan Securities LLC makes a market in the securities of NVIDIA Corporation.
+Market Maker/ Liquidity Provider: J.P. Morgan is a market maker and/or liquidity provider in the financial instruments of/related to
+NVIDIA Corporation.
+Client: J.P. Morgan currently has, or had within the past 12 months, the following entity(ies) as clients: NVIDIA Corporation.
+Client/Non-Investment Banking, Securities-Related: J.P. Morgan currently has, or had within the past 12 months, the following entity(ies)
+as clients, and the services provided were non-investment-banking, securities-related: NVIDIA Corporation.
+Client/Non-Securities-Related: J.P. Morgan currently has, or had within the past 12 months, the following entity(ies) as clients, and the
+services provided were non-securities-related: NVIDIA Corporation.
+Potential Investment Banking Compensation: J.P. Morgan expects to receive, or intends to seek, compensation for investment banking
+services in the next three months from NVIDIA Corporation.
+Non-Investment Banking Compensation Received: J.P. Morgan has received compensation in the past 12 months for products or services
+other than investment banking from NVIDIA Corporation.
+Debt Position: J.P. Morgan may hold a position in the debt securities of NVIDIA Corporation, if any.
+Company-Specific Disclosures: Important disclosures, including price charts and credit opinion history tables, are available for compendium
+reports and all J.P. Morgan–covered companies, and certain non-covered companies, by visitinghttps://www.jpmm.com/research/disclosures,
+calling 1-800-477-0406, or e-mailing research.disclosure.inquiries@jpmorgan.com with your request.
+Date Rating Price ($) Price Target
+($)
+26-May-22 OW 16.98 28.5
+08-Aug-22 OW 18.99 23
+25-Aug-22 OW 17.22 22
+23-Feb-23 OW 20.75 25
+25-May-23 OW 30.54 50
+24-Aug-23 OW 47.12 60
+22-Nov-23 OW 49.94 65
+22-Feb-24 OW 67.47 85
+23-May-24 OW 94.95 115
+29-Aug-24 OW 125.61 155
+The chart(s) show J.P. Morgan's continuing coverage of the stocks; the current analysts may or may not have covered it over the entire period.
+J.P. Morgan ratings or designations: OW = Overweight, N= Neutral, UW = Underweight, NR = Not Rated
+Explanation of Equity Research Ratings, Designations and Analyst(s) Coverage Universe:
+J.P. Morgan uses the following rating system: Overweight (over the duration of the price target indicated in this report, we expect this stock will
+outperform the average total return of the stocks in the Research Analyst’s, or the Research Analyst’s team’s, coverage universe); Neutral (over
+10
+
+Harlan SurAC North America Equity Research JPMORGAN
+(1-415) 315-6700 21 November 2024
+harlan.sur@jpmorgan.com &T Th Eis C Ho Gu Zm .e
+d c n t is b e in g p r o v id e d f o r t h e e x c lu s iv e u s e o f J I A X I N L I U a t T H E H K U N I V E R S I T Y O F S C I
+the duration of the price target indicated in this report, we expect this stock will perform in line with the average total return of the stocks in the
+Research Analyst’s, or the Research Analyst’s team’s, coverage universe); and Underweight (over the duration of the price target indicated in
+this report, we expect this stock will underperform the average total return of the stocks in the Research Analyst’s, or the Research Analyst’s
+team’s, coverage universe. NR is Not Rated. In this case, J.P. Morgan has removed the rating and, if applicable, the price target, for this stock
+because of either a lack of a sufficient fundamental basis or for legal, regulatory or policy reasons. The previous rating and, if applicable, the
+price target, no longer should be relied upon. An NR designation is not a recommendation or a rating. In our Asia (ex-Australia and ex-India)
+and U.K. small- and mid-cap Equity Research, each stock’s expected total return is compared to the expected total return of a benchmark
+country market index, not to those Research Analysts’ coverage universe. If it does not appear in the Important Disclosures section of this report,
+the certifying Research Analyst’s coverage universe can be found on J.P. Morgan’s Research website, https://www.jpmorganmarkets.com.
+Coverage Universe: Sur, Harlan: Advanced Micro Devices (AMD), Analog Devices (ADI), Applied Materials (AMAT), Arm Holdings Plc
+(ARM), Astera Labs Inc (ALAB), Broadcom Inc (AVGO), Cadence Design Systems (CDNS), GlobalFoundries (GFS), Intel (INTC), KLA
+Corporation (KLAC), Lam Research (LRCX), Marvell Technology Inc (MRVL), Microchip Technology (MCHP), Micron Technology (MU),
+NVIDIA Corporation (NVDA), NXP Semiconductors (NXPI), ON Semiconductor Corporation (ON), Synopsys Inc (SNPS), Texas Instruments
+(TXN), Western Digital (WDC)
+J.P. Morgan Equity Research Ratings Distribution, as of October 05, 2024
+Overweight Neutral Underweight
+(buy) (hold) (sell)
+J.P. Morgan Global Equity Research Coverage* 49% 38% 13%
+IB clients** 50% 46% 38%
+JPMS Equity Research Coverage* 46% 41% 13%
+IB clients** 71% 67% 54%
+*Please note that the percentages may not add to 100% because of rounding.
+**Percentage of subject companies within each of the "buy," "hold" and "sell" categories for which J.P. Morgan has provided
+investment banking services within the previous 12 months.
+For purposes of FINRA ratings distribution rules only, our Overweight rating falls into a buy rating category; our Neutral rating falls
+into a hold rating category; and our Underweight rating falls into a sell rating category. Please note that stocks with an NR designation
+are not included in the table above. This information is current as of the end of the most recent calendar quarter.
+Equity Valuation and Risks: For valuation methodology and risks associated with covered companies or price targets for covered companies,
+please see the most recent company-specific research report at http://www.jpmorganmarkets.com, contact the primary analyst or your J.P.
+Morgan representative, or email research.disclosure.inquiries@jpmorgan.com. For material information about the proprietary models used,
+please see the Summary of Financials in company-specific research reports and the Company Tearsheets, which are available to download on
+the company pages of our client website, http://www.jpmorganmarkets.com. This report also sets out within it the material underlying
+assumptions used.
+A history of J.P. Morgan investment recommendations disseminated during the preceding 12 months can be accessed on the Research &
+Commentary page of http://www.jpmorganmarkets.com where you can also search by analyst name, sector or financial instrument.
+Analysts' Compensation:The research analysts responsible for the preparation of this report receive compensation based upon various factors,
+including the quality and accuracy of research, client feedback, competitive factors, and overall firm revenues.
+Other Disclosures
+J.P. Morgan is a marketing name for investment banking businesses of JPMorgan Chase & Co. and its subsidiaries and affiliates worldwide.
+UK MIFID FICC research unbundling exemption: UK clients should refer to UK MIFID Research Unbundling exemption for details of J.P.
+Morgan’s implementation of the FICC research exemption and guidance on relevant FICC research categorisation.
+All research material made available to clients are simultaneously available on our client website, J.P. Morgan Markets, unless specifically
+permitted by relevant laws. Not all research content is redistributed, e-mailed or made available to third-party aggregators. For all research
+material available on a particular stock, please contact your sales representative.
+Any long form nomenclature for references to China; Hong Kong; Taiwan; and Macau within this research material are Mainland China; Hong
+Kong SAR (China); Taiwan (China); and Macau SAR (China).
+J.P. Morgan Research may, from time to time, write on issuers or securities targeted by economic or financial sanctions imposed or administered
+by the governmental authorities of the U.S., EU, UK or other relevant jurisdictions (Sanctioned Securities). Nothing in this report is intended to
+be read or construed as encouraging, facilitating, promoting or otherwise approving investment or dealing in such Sanctioned Securities. Clients
+should be aware of their own legal and compliance obligations when making investment decisions.
+Any digital or crypto assets discussed in this research report are subject to a rapidly changing regulatory landscape. For relevant regulatory
+11
+
+Harlan SurAC North America Equity Research JPMORGAN
+(1-415) 315-6700 21 November 2024
+harlan.sur@jpmorgan.com &T Th Eis C Ho Gu Zm .e
+d c n t is b e in g p r o v id e d f o r t h e e x c lu s iv e u s e o f J I A X I N L I U a t T H E H K U N I V E R S I T Y O F S C I
+advisories on crypto assets, including bitcoin and ether, please see https://www.jpmorgan.com/disclosures/cryptoasset-disclosure.
+The author(s) of this research report may not be licensed to carry on regulated activities in your jurisdiction and, if not licensed, do not hold
+themselves out as being able to do so.
+Exchange-Traded Funds (ETFs): J.P. Morgan Securities LLC (“JPMS”) acts as authorized participant for substantially all U.S.-listed ETFs. To
+the extent that any ETFs are mentioned in this report, JPMS may earn commissions and transaction-based compensation in connection with the
+distribution of those ETF shares and may earn fees for performing other trade-related services, such as securities lending to short sellers of the
+ETF shares. JPMS may also perform services for the ETFs themselves, including acting as a broker or dealer to the ETFs. In addition, affiliates
+of JPMS may perform services for the ETFs, including trust, custodial, administration, lending, index calculation and/or maintenance and other
+services.
+Options and Futures related research: If the information contained herein regards options- or futures-related research, such information is
+available only to persons who have received the proper options or futures risk disclosure documents. Please contact your J.P. Morgan
+Representative or visit https://www.theocc.com/components/docs/riskstoc.pdf for a copy of the Option Clearing Corporation's Characteristics
+and Risks of Standardized Options or http://www.finra.org/sites/default/files/Security_Futures_Risk_Disclosure_Statement_2018.pdf for a copy
+of the Security Futures Risk Disclosure Statement.
+Changes to Interbank Offered Rates (IBORs) and other benchmark rates: Certain interest rate benchmarks are, or may in the future
+become, subject to ongoing international, national and other regulatory guidance, reform and proposals for reform. For more information, please
+consult: https://www.jpmorgan.com/global/disclosures/interbank_offered_rates
+Private Bank Clients: Where you are receiving research as a client of the private banking businesses offered by JPMorgan Chase & Co. and its
+subsidiaries (“J.P. Morgan Private Bank”), research is provided to you by J.P. Morgan Private Bank and not by any other division of J.P. Morgan,
+including, but not limited to, the J.P. Morgan Corporate and Investment Bank and its Global Research division.
+Legal entity responsible for the production and distribution of research: The legal entity identified below the name of the Reg AC Research
+Analyst who authored this material is the legal entity responsible for the production of this research. Where multiple Reg AC Research Analysts
+authored this material with different legal entities identified below their names, these legal entities are jointly responsible for the production of
+this research. Research Analysts from various J.P. Morgan affiliates may have contributed to the production of this material but may not be
+licensed to carry out regulated activities in your jurisdiction (and do not hold themselves out as being able to do so). Unless otherwise stated
+below, this material has been distributed by the legal entity responsible for production. If you have any queries, please contact the relevant
+Research Analyst in your jurisdiction or the entity in your jurisdiction that has distributed this research material.
+Legal Entities Disclosures and Country-/Region-Specific Disclosures:
+Argentina: JPMorgan Chase Bank N.A Sucursal Buenos Aires is regulated by Banco Central de la República Argentina (“BCRA”- Central
+Bank of Argentina) and Comisión Nacional de Valores (“CNV”- Argentinian Securities Commission - ALYC y AN Integral N°51). Australia:
+J.P. Morgan Securities Australia Limited (“JPMSAL”) (ABN 61 003 245 234/AFS Licence No: 238066) is regulated by the Australian
+Securities and Investments Commission and is a Market Participant of ASX Limited, a Clearing and Settlement Participant of ASX Clear Pty
+Limited and a Clearing Participant of ASX Clear (Futures) Pty Limited. This material is issued and distributed in Australia by or on behalf of
+JPMSAL only to "wholesale clients" (as defined in section 761G of the Corporations Act 2001). A list of all financial products covered can be
+found by visiting https://www.jpmm.com/research/disclosures. J.P. Morgan seeks to cover companies of relevance to the domestic and
+international investor base across all Global Industry Classification Standard (GICS) sectors, as well as across a range of market capitalisation
+sizes. If applicable, in the course of conducting public side due diligence on the subject company(ies), the Research Analyst team may at times
+perform such diligence through corporate engagements such as site visits, discussions with company representatives, management presentations,
+etc. Research issued by JPMSAL has been prepared in accordance with J.P. Morgan Australia’s Research Independence Policy which can be
+found at the following link: J.P. Morgan Australia - Research Independence Policy. Brazil: Banco J.P. Morgan S.A. is regulated by the
+Comissao de Valores Mobiliarios (CVM) and by the Central Bank of Brazil. Ombudsman J.P. Morgan: 0800-7700847 / 0800-7700810 (For
+Hearing Impaired) / ouvidoria.jp.morgan@jpmorgan.com. Canada: J.P. Morgan Securities Canada Inc. is a registered investment dealer,
+regulated by the Canadian Investment Regulatory Organization and the Ontario Securities Commission and is the participating member on
+Canadian exchanges. This material is distributed in Canada by or on behalf of J.P.Morgan Securities Canada Inc. Chile: Inversiones J.P. Morgan
+Limitada is an unregulated entity incorporated in Chile. China: J.P. Morgan Securities (China) Company Limited has been approved by CSRC
+to conduct the securities investment consultancy business. Dubai International Financial Centre (DIFC): JPMorgan Chase Bank, N.A., Dubai
+Branch is regulated by the Dubai Financial Services Authority (DFSA) and its registered address is Dubai International Financial Centre - The
+Gate, West Wing, Level 3 and 9 PO Box 506551, Dubai, UAE. This material has been distributed by JP Morgan Chase Bank, N.A., Dubai
+Branch to persons regarded as professional clients or market counterparties as defined under the DFSA rules. European Economic Area
+(EEA): Unless specified to the contrary, research is distributed in the EEA by J.P. Morgan SE (“JPM SE”), which is authorised as a credit
+institution by the Federal Financial Supervisory Authority (Bundesanstalt für Finanzdienstleistungsaufsicht, BaFin) and jointly supervised by the
+BaFin, the German Central Bank (Deutsche Bundesbank) and the European Central Bank (ECB). JPM SE is a company headquartered in
+Frankfurt with registered address at TaunusTurm, Taunustor 1, Frankfurt am Main, 60310, Germany. The material has been distributed in the
+EEA to persons regarded as professional investors (or equivalent) pursuant to Art. 4 para. 1 no. 10 and Annex II of MiFID II and its respective
+implementation in their home jurisdictions (“EEA professional investors”). This material must not be acted on or relied on by persons who are
+not EEA professional investors. Any investment or investment activity to which this material relates is only available to EEA relevant persons
+and will be engaged in only with EEA relevant persons. Hong Kong: J.P. Morgan Securities (Asia Pacific) Limited (CE number AAJ321) is
+regulated by the Hong Kong Monetary Authority and the Securities and Futures Commission in Hong Kong, and J.P. Morgan Broking (Hong
+12
+
+Harlan SurAC North America Equity Research JPMORGAN
+(1-415) 315-6700 21 November 2024
+harlan.sur@jpmorgan.com &T Th Eis C Ho Gu Zm .e
+d c n t is b e in g p r o v id e d f o r t h e e x c lu s iv e u s e o f J I A X I N L I U a t T H E H K U N I V E R S I T Y O F S C I
+Kong) Limited (CE number AAB027) is regulated by the Securities and Futures Commission in Hong Kong. JP Morgan Chase Bank, N.A.,
+Hong Kong Branch (CE Number AAL996) is regulated by the Hong Kong Monetary Authority and the Securities and Futures Commission, is
+organized under the laws of the United States with limited liability. Where the distribution of this material is a regulated activity in Hong Kong,
+the material is distributed in Hong Kong by or through J.P. Morgan Securities (Asia Pacific) Limited and/or J.P. Morgan Broking (Hong Kong)
+Limited. India: J.P. Morgan India Private Limited (Corporate Identity Number - U67120MH1992FTC068724), having its registered office at
+J.P. Morgan Tower, Off. C.S.T. Road, Kalina, Santacruz - East, Mumbai – 400098, is registered with the Securities and Exchange Board of India
+(SEBI) as a ‘Research Analyst’ having registration number INH000001873. J.P. Morgan India Private Limited is also registered with SEBI as a
+member of the National Stock Exchange of India Limited and the Bombay Stock Exchange Limited (SEBI Registration Number –
+INZ000239730) and as a Merchant Banker (SEBI Registration Number - MB/INM000002970). Telephone: 91-22-6157 3000, Facsimile: 91-22-
+6157 3990 and Website: http://www.jpmipl.com. JPMorgan Chase Bank, N.A. - Mumbai Branch is licensed by the Reserve Bank of India (RBI)
+(Licence No. 53/ Licence No. BY.4/94; SEBI - IN/CUS/014/ CDSL : IN-DP-CDSL-444-2008/ IN-DP-NSDL-285-2008/ INBI00000984/
+INE231311239) as a Scheduled Commercial Bank in India, which is its primary license allowing it to carry on Banking business in India and
+other activities, which a Bank branch in India are permitted to undertake. For non-local research material, this material is not distributed in India
+by J.P. Morgan India Private Limited. Compliance Officer: Spurthi Gadamsetty; spurthi.gadamsetty@jpmchase.com; +912261573225.
+Grievance Officer: Ramprasadh K, jpmipl.research.feedback@jpmorgan.com; +912261573000.
+Investment in securities market are subject to market risks. Read all the related documents carefully before investing. Registration
+granted by SEBI and certification from NISM in no way guarantee performance of the intermediary or provide any assurance of
+returns to investors.
+Indonesia: PT J.P. Morgan Sekuritas Indonesia is a member of the Indonesia Stock Exchange and is registered and supervised by the Otoritas
+Jasa Keuangan (OJK). Korea: J.P. Morgan Securities (Far East) Limited, Seoul Branch, is a member of the Korea Exchange (KRX). JPMorgan
+Chase Bank, N.A., Seoul Branch, is licensed as a branch office of foreign bank (JPMorgan Chase Bank, N.A.) in Korea. Both entities are
+regulated by the Financial Services Commission (FSC) and the Financial Supervisory Service (FSS). For non-macro research material, the
+material is distributed in Korea by or through J.P. Morgan Securities (Far East) Limited, Seoul Branch. Japan: JPMorgan Securities Japan Co.,
+Ltd. and JPMorgan Chase Bank, N.A., Tokyo Branch are regulated by the Financial Services Agency in Japan. Malaysia: This material is issued
+and distributed in Malaysia by JPMorgan Securities (Malaysia) Sdn Bhd (18146-X), which is a Participating Organization of Bursa Malaysia
+Berhad and holds a Capital Markets Services License issued by the Securities Commission in Malaysia. Mexico: J.P. Morgan Casa de Bolsa,
+S.A. de C.V. and J.P. Morgan Grupo Financiero are members of the Mexican Stock Exchange and are authorized to act as a broker dealer by the
+National Banking and Securities Exchange Commission. New Zealand: This material is issued and distributed by JPMSAL in New Zealand
+only to "wholesale clients" (as defined in the Financial Markets Conduct Act 2013). JPMSAL is registered as a Financial Service Provider under
+the Financial Service providers (Registration and Dispute Resolution) Act of 2008. Philippines: J.P. Morgan Securities Philippines Inc. is a
+Trading Participant of the Philippine Stock Exchange and a member of the Securities Clearing Corporation of the Philippines and the Securities
+Investor Protection Fund. It is regulated by the Securities and Exchange Commission. Singapore: This material is issued and distributed in
+Singapore by or through J.P. Morgan Securities Singapore Private Limited (JPMSS) [MDDI (P) 068/08/2024 and Co. Reg. No.: 199405335R],
+which is a member of the Singapore Exchange Securities Trading Limited, and/or JPMorgan Chase Bank, N.A., Singapore branch (JPMCB
+Singapore), both of which are regulated by the Monetary Authority of Singapore. This material is issued and distributed in Singapore only to
+accredited investors, expert investors and institutional investors, as defined in Section 4A of the Securities and Futures Act, Cap. 289 (SFA).
+This material is not intended to be issued or distributed to any retail investors or any other investors that do not fall into the classes of
+“accredited investors,” “expert investors” or “institutional investors,” as defined under Section 4A of the SFA. Recipients of this material in
+Singapore are to contact JPMSS or JPMCB Singapore in respect of any matters arising from, or in connection with, the material. South Africa:
+J.P. Morgan Equities South Africa Proprietary Limited and JPMorgan Chase Bank, N.A., Johannesburg Branch are members of the
+Johannesburg Securities Exchange and are regulated by the Financial Services Conduct Authority (FSCA). Taiwan: J.P. Morgan Securities
+(Taiwan) Limited is a participant of the Taiwan Stock Exchange (company-type) and regulated by the Taiwan Securities and Futures Bureau.
+Material relating to equity securities is issued and distributed in Taiwan by J.P. Morgan Securities (Taiwan) Limited, subject to the license scope
+and the applicable laws and the regulations in Taiwan. According to Paragraph 2, Article 7-1 of Operational Regulations Governing Securities
+Firms Recommending Trades in Securities to Customers (as amended or supplemented) and/or other applicable laws or regulations, please note
+that the recipient of this material is not permitted to engage in any activities in connection with the material that may give rise to conflicts of
+interests, unless otherwise disclosed in the “Important Disclosures” in this material. Thailand: This material is issued and distributed in
+Thailand by JPMorgan Securities (Thailand) Ltd., which is a member of the Stock Exchange of Thailand and is regulated by the Ministry of
+Finance and the Securities and Exchange Commission, and its registered address is 3rd Floor, 20 North Sathorn Road, Silom, Bangrak, Bangkok
+10500. UK: Unless specified to the contrary, research is distributed in the UK by J.P. Morgan Securities plc (“JPMS plc”) which is a member of
+the London Stock Exchange and is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the
+Prudential Regulation Authority. JPMS plc is registered in England & Wales No. 2711006, Registered Office 25 Bank Street, London, E14 5JP.
+This material is directed in the UK only to: (a) persons having professional experience in matters relating to investments falling within article
+19(5) of the Financial Services and Markets Act 2000 (Financial Promotion) (Order) 2005 (“the FPO”); (b) persons outlined in article 49 of the
+FPO (high net worth companies, unincorporated associations or partnerships, the trustees of high value trusts, etc.); or (c) any persons to whom
+this communication may otherwise lawfully be made; all such persons being referred to as "UK relevant persons". This material must not be
+acted on or relied on by persons who are not UK relevant persons. Any investment or investment activity to which this material relates is only
+available to UK relevant persons and will be engaged in only with UK relevant persons. Research issued by JPMS plc has been prepared in
+accordance with JPMS plc's policy for prevention and avoidance of conflicts of interest related to the production of Research which can be
+found at the following link: J.P. Morgan EMEA - Research Independence Policy. U.S.: J.P. Morgan Securities LLC (“JPMS”) is a member of
+the NYSE, FINRA, SIPC, and the NFA. JPMorgan Chase Bank, N.A. is a member of the FDIC. Material published by non-U.S. affiliates is
+13
+
+Harlan SurAC North America Equity Research JPMORGAN
+(1-415) 315-6700 21 November 2024
+harlan.sur@jpmorgan.com &T Th Eis C Ho Gu Zm .e
+d c n t is b e in g p r o v id e d f o r t h e e x c lu s iv e u s e o f J I A X I N L I U a t T H E H K U N I V E R S I T Y O F S C I
+distributed in the U.S. by JPMS who accepts responsibility for its content.
+General: Additional information is available upon request. The information in this material has been obtained from sources believed to be
+reliable. While all reasonable care has been taken to ensure that the facts stated in this material are accurate and that the forecasts, opinions and
+expectations contained herein are fair and reasonable, JPMorgan Chase & Co. or its affiliates and/or subsidiaries (collectively J.P. Morgan) make
+no representations or warranties whatsoever to the completeness or accuracy of the material provided, except with respect to any disclosures
+relative to J.P. Morgan and the Research Analyst's involvement with the issuer that is the subject of the material. Accordingly, no reliance should
+be placed on the accuracy, fairness or completeness of the information contained in this material. There may be certain discrepancies with data
+and/or limited content in this material as a result of calculations, adjustments, translations to different languages, and/or local regulatory
+restrictions, as applicable. These discrepancies should not impact the overall investment analysis, views and/or recommendations of the subject
+company(ies) that may be discussed in the material. J.P. Morgan accepts no liability whatsoever for any loss arising from any use of this material
+or its contents, and neither J.P. Morgan nor any of its respective directors, officers or employees, shall be in any way responsible for the contents
+hereof, apart from the liabilities and responsibilities that may be imposed on them by the relevant regulatory authority in the jurisdiction in
+question, or the regulatory regime thereunder. Opinions, forecasts or projections contained in this material represent J.P. Morgan's current
+opinions or judgment as of the date of the material only and are therefore subject to change without notice. Periodic updates may be provided on
+companies/industries based on company-specific developments or announcements, market conditions or any other publicly available
+information. There can be no assurance that future results or events will be consistent with any such opinions, forecasts or projections, which
+represent only one possible outcome. Furthermore, such opinions, forecasts or projections are subject to certain risks, uncertainties and
+assumptions that have not been verified, and future actual results or events could differ materially. The value of, or income from, any
+investments referred to in this material may fluctuate and/or be affected by changes in exchange rates. All pricing is indicative as of the close of
+market for the securities discussed, unless otherwise stated. Past performance is not indicative of future results. Accordingly, investors may
+receive back less than originally invested. This material is not intended as an offer or solicitation for the purchase or sale of any financial
+instrument. The opinions and recommendations herein do not take into account individual client circumstances, objectives, or needs and are not
+intended as recommendations of particular securities, financial instruments or strategies to particular clients. This material may include views on
+structured securities, options, futures and other derivatives. These are complex instruments, may involve a high degree of risk and may be
+appropriate investments only for sophisticated investors who are capable of understanding and assuming the risks involved. The recipients of
+this material must make their own independent decisions regarding any securities or financial instruments mentioned herein and should seek
+advice from such independent financial, legal, tax or other adviser as they deem necessary. J.P. Morgan may trade as a principal on the basis of
+the Research Analysts’ views and research, and it may also engage in transactions for its own account or for its clients’ accounts in a manner
+inconsistent with the views taken in this material, and J.P. Morgan is under no obligation to ensure that such other communication is brought to
+the attention of any recipient of this material. Others within J.P. Morgan, including Strategists, Sales staff and other Research Analysts, may take
+views that are inconsistent with those taken in this material. Employees of J.P. Morgan not involved in the preparation of this material may have
+investments in the securities (or derivatives of such securities) mentioned in this material and may trade them in ways different from those
+discussed in this material. This material is not an advertisement for or marketing of any issuer, its products or services, or its securities in any
+jurisdiction.
+Confidentiality and Security Notice: This transmission may contain information that is privileged, confidential, legally privileged, and/or
+exempt from disclosure under applicable law. If you are not the intended recipient, you are hereby notified that any disclosure, copying,
+distribution, or use of the information contained herein (including any reliance thereon) is STRICTLY PROHIBITED. Although this
+transmission and any attachments are believed to be free of any virus or other defect that might affect any computer system into which it is
+received and opened, it is the responsibility of the recipient to ensure that it is virus free and no responsibility is accepted by JPMorgan Chase &
+Co., its subsidiaries and affiliates, as applicable, for any loss or damage arising i
+Harlan Sur
+AC North America Equity Research
+JPMORGAN
+(1-415) 315-6700
+21 November 2024
+harlan.sur@jpmorgan.com

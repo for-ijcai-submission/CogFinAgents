@@ -1,0 +1,3 @@
+date,source,doc_type,title,text_path,asset
+2024-11-1,dataset\Institutional Analysis Report\coinbase_research\20241101_Coinbase_Research_-XBT_Weekly.pdf,ANALYSIS_REPORT,20241101_Coinbase_Research_-XBT_Weekly,data\BTC\filings_text\20241101_Coinbase_Research_-XBT_Weekly.txt,BTC
+2024-11-15,dataset\Institutional Analysis Report\coinbase_research\20241115_Coinbase_Research_-XBTUSD_Weekly_20241115.pdf,ANALYSIS_REPORT,20241115_Coinbase_Research_-XBTUSD_Weekly_20241115,data\BTC\filings_text\20241115_Coinbase_Research_-XBTUSD_Weekly_20241115.txt,BTC

@@ -1,0 +1,1097 @@
+Hold NVIDIA Corporation 2 0 November 2024
+
+North America
+United States
+Reuters Bloomberg Exchange Ticker Price at 20 Nov 2024 (USD) 145.89
+NVDA.OQ NVDA US NMS NVDA
+Price target 140.00
+TMT
+52-week range 696.41 - 45.50
+Semiconductors
+
+Ross Seymore
+Research Analyst
++1-415-617-3268
+Melissa Weathers
+Research Analyst
++1-212-250-2134
+DJ Sebastian
+Research Associate
++1-415-262-2007
+
+Key changes
+TP 115.00 to ↑ 21.7%
+140.00
+EPS (USD) 2.72 to 2.85 ↑ 4.5%
+Revenue (USDm) 126,461.5 to ↑ 2.9%
+130,163.7
+
+NVDA delivered another trademark beat/raise, albeit with the shape a bit different
+than we expected with the F3Q "beat" being larger than expected and the F4Q
+"raise" a bit smaller. Regardless of the shape, the aggregate of the two quarters
+yields impressive growth and positive revisions to our estimates, with the company
+importantly highlighting that its Blackwell ramp is ahead of schedule vs. its prior
+target of "several billions of revenue" in F4Q and more thereafter (also disarming
+recent concerns of power issues). Beyond the Data Center strength, the company
+also calmed fears of Blackwell-related GM pressures, citing expectations for a
+return to ~75% GMs in 2H of FY26 (CY25). Overall, NVDA continues to illustrate its
+technological dominance in AI accelerators, with its lead seemingly growing vs
+competition with the introduction of Blackwell. As a result, our CY25/26 PF EPS ests
+rise by an avg of ~+15%. While NVDA's execution remains strong and its growth
+impressive in nearly any historical context, we believe much of this goodness is
+reflected in its share price. Consequently, based on our sector-wide move to CY26-
+based valuation multiples, we raise our P/T to $140 (P/E of 27x of FY27/CY26E of
+$5.20), but maintain our Hold rating.
+
+Positives outweigh negatives
+Positives: 1) NVDA is seeing no sign of slowing demand for its AI compute
+solutions, with demand for Blackwell products in particular characterized as
+"staggering". As a result, mgmt indicated it was ahead of plan vs. its prior target of
+delivering "several billions" of Blackwell revenue in F4Q (Jan), augmenting
+continued demand for Hopper. 2) While Gross Margin concerns had arisen on its
+prior call (Blackwell ramp is initially dilutive), NVDA sees these headwinds as
+temporary, with GMs potentially returning to the mid-70s level by 2H FY26 (CY25).
+3) NVDA's cash returns remain robust, with the company buying back $11b in
+shares in F3Q alone (DBe ~$30b+ in buybacks by the end of FY25). Negatives: 1)
+While NVDA's qtr/guide was still healthier than our expectations (revenues +5%
+ahead of DBe in aggregate), the mix was more heavily skewed towards F3Q than
+F4Q. Thus, the F4Q (Jan) guide was only "in-line" with investor expectations, a
+deviation from prior quarters. 2) While demand for Hopper-based systems
+remained robust in Oct-qtr, Networking revenues fell -15% q/q (unclear why, as
+most key networking products grew q/q). With this said, NVDA noted it expects a
+reacceleration of this business going forward (up q/q in F4Q). 3) NVDA is once again
+seeing supply constraints limiting revenue potential, and is working with its
+hundreds of components suppliers to alleviate bottlenecks (in both DC & Gaming).
+
+20 November 2024
+Semiconductors
+NVIDIA Corporation
+Big beat, slight raise
+
+NVDA reported Oct-qtr revenues of $35.1b (+17% q/q, +94% y/y), well above
+guidance/DBe of $32.5b/$33.1b and the Street at $33.3b. By end market, Data
+Center revs beat our expectations (+$1.9b above DBe). Gaming revs were in-line
+with our expectations (+14% q/q vs DBe +15% q/q), Proviz revs of $486m (+7% q/q
+vs. DBe flat q/q) were above our expectations, Auto revs of $449m (+30% q/q vs.
+DBe +10% q/q) were above our ests, and OEM/Other revs of $97m were in-line with
+our ests at $97m. PF GMs came in at 75.0%, vs. guidance 75.0%, and PF Opex came
+in at $3.05b vs. guidance/DBe $3.00b. All told, Oct-qtr EPS totaled $0.81, above
+DBe/Street at $0.74/$0.74 on better revs & a slightly lower tax rate. NVDA guided
+revenues to $37.5b (+7% q/q), slightly above DBe/Street at $37.2b/$37.1, yet
+slightly below buyside hopes. Non-GAAP GM was guided to 73.5% (vs. DBe
+73.0%), with non-GAAP OpEx guided to $3.40b (vs. DBe $3.23b), yielding implied
+non-GAAP EPS of ~$0.82, in-line with DBe/Street at $0.82/$0.82. All told, our
+CY25E revs/EPS move to $190b (+46% y/y)/ $4.25 from $173b (+37% y/y)/ $3.85
+prior, while our CY26E rev/EPS ests move to $226b (+19% y/y)/ $5.20 from $195b
+(+13% y/y)/ $4.40.
+
+Maintain Hold rating, raise P/T to $140
+On higher estimates, we raise our P/T to $140 and maintain our Hold rating. Our P/T
+is based on a multiple of ~27x our CY26 EPS estimates (vs. ~30x CY25E EPS prior),
+as we shift our target valuation methodologies to CY26 ests across our coverage.
+This multiple marks a premium to semi peers to reflect fast growth and strong
+earnings momentum, but still represents a discount to the co's 5-year average.
+Upside/downside risks include better-/worse-than-expected Gaming, Data Center,
+Automotive, and OEM/Other revenue growth, higher-/lower-than-expected
+profitability, macro, design win/product execution, and market share shifts.
+Positive/negative company-specific risks include market share gains/losses in
+Graphics and Compute & Networking businesses, competition.
+ive and pricing
+pressure, product execution, and impacts to profitability from investments.
+Page 2 Deutsche Bank Securities Inc.
+&T Th Eis C Ho Gu Zm .e
+d c n t is b e in g p r o v id e d f o r t h e e x c lu s iv e u s e o f J I A X I N L I U a t T H E H K U N I V E R S I T Y O F S C I
+
+20 November 2024
+Semiconductors
+NVIDIA Corporation
+Details
+Figure 1: NVIDIA earnings result summary
+Consensus 3Q25 DBe 3Q25 Actual Comments
+Revenue $33,250 $33,141 $35,082
+q/q +11% +10% +17% Above guidance/DBe on Data Center strength
+Gross Margin 75.0% 75.0% Above DB est
+Opex $2,997 $3,046
+Tax Rate 17.0% 15.5% Below DB est
+EPS Above DB est
+End Market Segment Results
+Gaming $3,311 $3,279
+q/q +15% +14% In-line with DB est
+Professional Visualization $454 $486
+q/q 0% +7% Above DB est
+Datacenter $28,899 $30,771
+q/q +10% +17% Above DB est
+Automotive $381 $449
+q/q +10% +30% Above DB est
+OEM & Other $97 $97
+q/q +10% +10%
+Balance Sheet
+Cash and equivalents $45,495 $38,487
+q/q $10,695 $3,687
+Inventory $8,126 $7,654
+q/q +$1451 +$979
+DIOs 90 days 80 days
+q/q +6 days -4 days
+Cash Flow Statement
+CFO $16,928 $17,629
+Capex $987 $813
+FCF
+Source : Company data, Bloomberg Finance LP, Deutsche Bank estimates
+Figure 2: Reported quarter product mix Figure 3: Reported quarter q/q change (Actual vs. DBe)
+OEM & Other Gaming Pro Vis 35%
+Automotive 0% 9% 2%
+1% 30%
+30%
+25%
+20%
+17%
+15%
+15% 14%
+10% 10% 10%10%
+10%
+7%
+5%
+0%
+Data Center 0%
+88% Gaming Pro Vis Data CenterAutomotive OEM &
+Other
+3Q25 3Q25 Old
+Source : Company data, Deutsche Bank estimates Source : Company data, Deutsche Bank estimates
+Deutsche Bank Securities Inc. Page 3
+&T Th Eis C Ho Gu Zm .e
+d c n t is b e in g p r o v id e d f o r t h e e x c lu s iv e u s e o f J I A X I N L I U a t T H E H K U N I V E R S I T Y O F S C I
+Consensus 3Q25 D			Be 3Q25 Actual Comments		
+Revenue $33,250
+q/q +11%
+Gross Margin
+Opex		$33,141 $35,082
++10% +17% Above guidance/DBe on Data Center strength
+75.0% 75.0% Above DB est
+$2,997 $3,046
+17.0% 15.5% Below DB est		$35,082
++17% Above guidance/DBe on Data Center strength
+75.0% Above DB est
+$3,046	
+Tax Rate					Below DB est
+EPS				Above DB est	
+End Market Segment Results					
+Gaming
+q/q
+Professional Visualization
+q/q
+Datacenter
+q/q
+Automotive
+q/q
+OEM & Other
+q/q	$3,311 $3,279
++15% +14%
+$454 $486
+0% +7%
+$28,899 $30,771
++10% +17%
+$381 $449
++10% +30%
+$97 $97
++10% +10%				In-line with DB est
+Above DB est
+Above DB est
+Above DB est
+Balance Sheet					
+Cash and equivalents		$45,495 $38,487
+$10,695 $3,687
+$8,126 $7,654
++$1451 +$979
+90 days 80 days
++6 days -4 days		$38,487	
+q/q					
+Inventory
+q/q
+DIOs
+q/q				$7,654
++$979
+80 days
+-4 days	
+Cash Flow Statement					
+CFO
+Capex
+FCF				$17,629
+$813	
+
+	
+	
+
+	
+	
+
+	
+	
+
+20 November 2024
+Semiconductors
+NVIDIA Corporation
+Guidance and estimate revisions
+NVIDIA provided the following guidance:
+Figure 4: NVIDIA quarterly guidance
+Guidance item Guidance Prior DBe
+Revenues $37.5b +/-2% $37.2b
+q/q change (implied) +5-9% q/q +12%
+Revenue Midpoint ($ in b) $37.50 $37.24
+Non-GAAP GM% 73.5% +/- 50bps 73.0%
+PF opex (m) $3,400 $3,228
+Other income/(expense) $400m income $479m income
+Tax rate 16.5% +/- 1% 17.0%
+Gaming -- -8%
+Datacenter -- 15%
+Automotive -- 10%
+Provisualization -- -5%
+Source : Company reports, Deutsche Bank estimates
+Figure 5: Fwd qtr est product segment mix Figure 6: Fwd qtr est segment growth (new vs. old)
+Automotive OEM & Other Ga 8m %ing Pro Vis 20%
+1% 0% 2% 15%
+15% 13%
+10%10%
+10%
+5%
+5%
+0%
+-5%
+-5% -5% -5% -5%
+Data Center -10% -8%
+89% Gaming Pro Vis Data CenterAutomotive OEM &
+Other
+4Q25E 4Q25 Old
+Source : Deutsche Bank estimates Source : Deutsche Bank estimates
+Given NVDA's guidance, we adjust our estimates as illustrated below:
+Page 4 Deutsche Bank Securities Inc.
+&T Th Eis C Ho Gu Zm .e
+d c n t is b e in g p r o v id e d f o r t h e e x c lu s iv e u s e o f J I A X I N L I U a t T H E H K U N I V E R S I T Y O F S C I
+Guidance item Guidance Prior DBe	
+Revenues $37.5b +/-2% $37.2b
+q/q change (implied) +5-9% q/q +12%
+Revenue Midpoint ($ in b) $37.50 $37.24
+Non-GAAP GM% 73.5% +/- 50bps 73.0%
+PF opex (m) $3,400 $3,228
+Other income/(expense) $400m income $479m income
+Tax rate 16.5% +/- 1% 17.0%
+Gaming -- -8%
+Datacenter -- 15%
+Automotive -- 10%
+Provisualization -- -5%	$37.2b
+	+12%
+	$37.24
+	73.0%
+	$3,228
+	-8%
+	15%
+	10%
+	-5%
+
+15%
+13%
+10%10%
+5%
+-5% -5% -5% -5%
+-8%
+
+	
+	
+
+	
+
+	
+	
+
+	
+
+20 November 2024
+Semiconductors
+NVIDIA Corporation
+Figure 7: NVIDIA estimates summary
+New 4Q25E Old 4Q25E New CY24E Old CY24E New CY25E Old CY25E
+Revenue $37,236 $173,072 $195,065
+q/q +11% +12% -- --
+y/y +76% +68% +46% +37% +19% +13%
+Gross Margin 73.0% 73.0% 72.5%
+EPS
+Source : Deutsche Bank estimates
+Deutsche Bank Securities Inc. Page 5
+&T Th Eis C Ho Gu Zm .e
+d c n t is b e in g p r o v id e d f o r t h e e x c lu s iv e u s e o f J I A X I N L I U a t T H E H K U N I V E R S I T Y O F S C I
+
+Figure 8: NVIDIA Income Statement ($ in millions, except per share data) Page NVIDIA Semiconductors 20
+November
+Apr-23 Jul-23 Oct-23 Jan-24 Year Apr-24 Jul-24 Oct-24 Jan-25 Year Apr-25 Jul-25 Oct-25 Jan-26 Year Apr-26 Jul-26 Oct-26 Jan-27 Year 6
+1Q24 2Q24 3Q24 4Q24 2024 1Q25 2Q25 3Q25 4Q25E 2025E 1Q26E 2Q26E 3Q26E 4Q26E 2026E 1Q27E 2Q27E 3Q27E 4Q27E 2027E
+Corporation
+Revenues $7,192 $13,507 $18,120 $22,103 $60,922 $26,044 $30,040 $35,082 $38,998 $130,164 $42,357 $46,258 $49,478 $51,502 $189,594 $51,750 $55,337 $58,316 $60,714 $226,118
+Depreciation 211 228 237 250 926 270 289 362 367 1,288 372 377 382 387 1,518 392 397 402 407 1,598
+Cost of Goods 2,179 3,665 4,300 4,894 15,038 5,214 7,022 8,398 9,969 30,603 11,501 12,384 12,060 12,483 48,428 12,758 13,808 14,859 15,672 57,097
+Gross Profit (Non-GAAP) 4,802 9,614 13,583 16,959 44,958 20,560 22,729 26,322 28,662 98,273 30,484 33,496 37,036 38,632 139,648 38,600 41,132 43,055 44,636 167,423 2024
+Research and Development (Non-GAAP) 1,339 1,440 1,581 1,747 6,107 1,981 2,241 2,457 2,751 9,430 2,945 3,217 3,490 3,761 13,413 3,857 4,069 4,230 4,404 16,560
+Selling, General and Admin. (Non-GAAP) 411 398 445 463 1,717 520 551 589 655 2,315 690 754 806 839 3,088 843 901 950 989 3,683
+Other Non-GAAP Adjustments 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Other Operating Exp. / (Inc.) 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Total Operating Expenses (Non-GAAP) 1,750 1,838 2,026 2,210 7,824 2,501 2,792 3,046 3,405 11,744 3,635 3,970 4,296 4,600 16,502 4,700 4,971 5,180 5,393 20,244
+Operating Income 3,052 7,776 11,557 14,749 37,134 18,059 19,937 23,276 25,256 86,528 26,849 29,526 32,740 34,031 123,146 33,900 36,161 37,875 39,243 147,179
+Interest Income 150 187 234 294 865 359 444 472 498 1,773 673 874 1,098 1,385 4,030 1,609 1,898 2,189 2,522 8,218
+Interest Expense on ST Debt 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Interest Expense on LT Debt 66 65 63 63 257 64 61 61 61 247 61 61 61 61 244 61 61 61 61 244
+Interest Expense on Conv. Debt 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Total Interest Expense 66 65 63 63 257 64 61 61 61 247 61 61 61 61 244 61 61 61 61 244
+Other Non-oper. Exp. / (Inc.) 0 2 (4) (1) (3) (7) 3 0 0 (4) 0 0 0 0 0 0 0 0 0 0
+Pretax Income 3,136 7,896 11,732 14,981 37,745 18,361 20,317 23,687 25,693 88,058 27,460 30,340 33,777 35,355 126,933 35,448 37,998 40,003 41,704 155,153
+Income Tax Expense / (Benefit) 423 1,156 1,712 2,142 5,433 3,123 3,365 3,677 4,239 14,404 4,668 5,158 5,742 6,010 21,579 6,026 6,460 6,801 7,090 26,376
+Non-GAAP Net Income for Diluted EPS $2,713 $6,740 $10,020 $12,839 $32,312 $15,238 $16,952 $20,010 $21,454 $73,654 $22,792 $25,182 $28,035 $29,345 $105,354 $29,422 $31,539 $33,203 $34,614 $128,777
+PF Basic EPS $0.11 $0.27 $0.41 $0.52 $1.31 $0.62 $0.69 $0.82 $0.87 $3.00 $0.93 $1.03 $1.14 $1.20 $4.30 $1.20 $1.29 $1.35 $1.41 $5.25
+PF Fully Diluted EPS $0.11 $0.27 $0.40 $0.52 $1.30 $0.61 $0.68 $0.81 $0.87 $2.97 $0.92 $1.02 $1.13 $1.19 $4.25 $1.19 $1.27 $1.34 $1.40 $5.20
+Weighted Average Shares Out. (in ’000s) 24,700,000 24,730,000 24,680,000 24,660,000 24,692,500 24,620,000 24,578,000 24,533,000 24,523,000 24,563,500 24,521,500 24,520,000 24,518,500 24,517,000 24,519,250 24,515,500 24,514,000 24,512,500 24,511,000 24,513,250
+Diluted Shares (in ’000s) 24,900,000 24,990,000 24,940,000 24,900,000 24,932,500 24,890,000 24,848,000 24,774,000 24,764,000 24,819,000 24,762,500 24,761,000 24,759,500 24,758,000 24,760,250 24,756,500 24,755,000 24,753,500 24,752,000 24,754,250
+6% 4% 4% 3%
+Net ESO Expense $735 $842 $979 $993 $3,549 $1,011 $1,154 $1,252 $1,502 $4,919 $1,578 $1,656 $1,739 $1,739 $6,712 $1,826 $1,917 $2,013 $2,013 $7,770
+Adjusted Basic GAAP EPS (incl-ESO) $0.08 $0.24 $0.37 $0.48 $1.16 $0.58 $0.64 $0.76 $0.81 $2.80 $0.87 $0.96 $1.07 $1.13 $4.02 $1.13 $1.21 $1.27 $1.33 $4.94
+Adjusted Diluted GAAP EPS (incl-ESO) $0.08 $0.24 $0.36 $0.48 $1.15 $0.57 $0.64 $0.76 $0.81 $2.77 $0.86 $0.95 $1.06 $1.12 $3.98 $1.11 $1.20 $1.26 $1.32 $4.89
+Common Dividends Per Share 0.00 0.00 0.00 0.00 $0.02 $0.00 $0.01 $0.01 $0.01 $0.03 $0.01 $0.01 $0.01 $0.01 $0.04 $0.01 $0.01 $0.01 $0.01 $0.04
+Nonrecurring Charges $192 $73 $231 ($118) $378 $71 ($51) $119 $119 $258 $119 $119 $119 $119 $476 $119 $119 $119 $119 $476
+Tax Effect of Charges (257) (363) (433) (321) (1,374) (725) (750) (670) (20) (2,165) (20) (20) (20) (20) (81) (20) (20) (20) (20) (81)
+GAAP Net Inc. for Dil. EPS $2,043 $6,188 $9,243 $12,285 $29,759 $14,881 $16,599 $19,309 $19,852 $70,641 $21,116 $23,427 $26,197 $27,507 $98,247 $27,497 $29,522 $31,091 $32,502 $120,611
+GAAP Basic EPS $0.08 $0.25 $0.37 $0.50 $1.21 $0.60 $0.68 $0.79 $0.81 $2.88 $0.86 $0.96 $1.07 $1.12 $4.01 $1.12 $1.20 $1.27 $1.33 $4.92
+GAAP Diluted EPS $0.08 $0.25 $0.37 $0.49 $1.19 $0.60 $0.67 $0.78 $0.80 $2.85 $0.85 $0.95 $1.06 $1.11 $3.97 $1.11 $1.19 $1.26 $1.31 $4.87
+EBITDA 3,263 8,002 11,798 15,000 38,063 18,336 20,223 23,599 25,623 87,781 27,221 29,903 33,122 34,418 124,664 34,292 36,558 38,277 39,650 148,777
+EBIT 3,052 7,774 11,561 14,750 37,137 18,066 19,934 23,276 25,256 86,532 26,849 29,526 32,740 34,031 123,146 33,900 36,161 37,875 39,243 147,179
+TTM Revenues 25,878 32,681 44,870 60,922 60,922 79,774 96,307 113,269 130,164 130,164 146,477 162,694 177,090 189,594 189,594 198,987 208,067 216,905 226,118 226,118
+TTM EBITDA 9,032 15,503 25,532 38,063 38,063 53,136 65,357 77,158 87,781 87,781 96,666 106,346 115,869 124,664 124,664 131,735 138,390 143,545 148,777 148,777
+TTM EBIT 8,134 14,580 24,604 37,137 37,137 52,151 64,311 76,026 86,532 86,532 95,315 104,907 114,371 123,146 123,146 130,197 136,832 141,967 147,179 147,179
+TTM Pretax Income 8,272 14,859 25,031 37,745 37,745 52,970 65,391 77,346 88,058 88,058 97,157 107,180 117,270 126,933 126,933 134,920 142,579 148,805 155,153 155,153
+TTM Net Income 7,635 13,083 21,647 32,312 32,312 44,837 55,049 65,039 73,654 73,654 81,208 89,438 97,463 105,354 105,354 111,984 118,340 123,508 128,777 128,777
+TTM Dil. EPS $0.19 $0.41 $0.76 $1.19 $1.19 $1.71 $2.13 $2.54 $2.85 $2.85 $3.10 $3.38 $3.66 $3.97 $3.97 $4.23 $4.47 $4.67 $4.87 $4.87
+TTM Gross Profit 15,204 21,744 31,998 44,958 44,958 60,716 73,831 86,570 98,273 98,273 108,197 118,964 129,678 139,648 139,648 147,764 155,400 161,419 167,423 167,423
+(Int Xp-Int inc)/Shr 0.00 0.00 0.01 0.01 0.02 0.01 0.02 0.02 0.02 0.06 0.02 0.03 0.04 0.05 0.15 0.06 0.07 0.09 0.10 0.32
+Net of Tax 0.00 0.00 0.01 0.01 0.02 0.01 0.01 0.01 0.01 0.05 0.02 0.03 0.03 0.04 0.13 0.05 0.06 0.07 0.08 0.27
+Revenue % Change - Sequential 18.9% 87.8% 34.2% 22.0% NM 17.8% 15.3% 16.8% 11.2% NM 8.6% 9.2% 7.0% 4.1% NM 0.5% 6.9% 5.4% 4.1% NM
+EPS % Change - Sequential 24.1% 147.5% 49.0% 28.3% NM 18.7% 11.4% 18.4% 7.3% NM 6.2% 10.5% 11.3% 4.7% NM 0.3% 7.2% 5.3% 4.3% NM
+Revenue % Changes, yr. over yr. (13.2%) 101.5% 205.5% 265.3% 125.9% 262.1% 122.4% 93.6% 76.4% 113.7% 62.6% 54.0% 41.0% 32.1% 45.7% 22.2% 19.6% 17.9% 17.9% 19.3%
+EPS % Change, yr. over yr. (19.7%) 425.2% 589.6% 487.5% 288.4% 461.9% 153.0% 101.0% 68.0% 129.0% 50.3% 49.1% 40.2% 36.8% 43.4% 29.1% 25.3% 18.5% 18.0% 22.3%
+Gross Margin 66.8% 71.2% 75.0% 76.7% 73.8% 78.9% 75.7% 75.0% 73.5% 75.5% 72.0% 72.4% 74.9% 75.0% 73.7% 74.6% 74.3% 73.8% 73.5% 74.0%
+R&D/Sales 18.6 10.7 8.7 7.9 10.0 7.6 7.5 7.0 7.1 7.2 7.0 7.0 7.1 7.3 7.1 7.5 7.4 7.3 7.3 7.3
+SG&A/Sales 5.7 2.9 2.5 2.1 2.8 2.0 1.8 1.7 1.7 1.8 1.6 1.6 1.6 1.6 1.6 1.6 1.6 1.6 1.6 1.6
+Operating Expenses 24.3 13.6 11.2 10.0 12.8 9.6 9.3 8.7 8.7 9.0 8.6 8.6 8.7 8.9 8.7 9.1 9.0 8.9 8.9 9.0
+Operating Margin 42.4 57.6 63.8 66.7 61.0 69.3 66.4 66.3 64.8 66.5 63.4 63.8 66.2 66.1 65.0 65.5 65.3 64.9 64.6 65.1
+Non-Operating Expenses/Sales 3.0 1.9 1.6 1.6 1.8 1.6 1.7 1.5 1.4 1.5 1.7 2.0 2.3 2.8 2.3 3.2 3.5 3.9 4.3 3.7
+Pretax Margin 43.6 58.5 64.7 67.8 62.0 70.5 67.6 67.5 65.9 67.7 64.8 65.6 68.3 68.6 66.9 68.5 68.7 68.6 68.7 68.6
+Tax Rate 13.5 14.6 14.6 14.3 14.4 17.0 16.6 15.5 16.5 16.4 17.0 17.0 17.0 17.0 17.0 17.0 17.0 17.0 17.0 17.0
+Net Margin 37.7 49.9 55.3 58.1 53.0 58.5 56.4 57.0 55.0 56.6 53.8 54.4 56.7 57.0 55.6 56.9 57.0 56.9 57.0 57.0 Deutsche
+Source : Company data, Deutsche Bank estimates
+Bank
+Securities
+Inc.
+T h is d o c u m e n t is b e in g p r o v id e d f o r t h e e x c lu s iv e u s e o f J I A X I N L I U a t T H E H K U N I V E R S I T Y O F S C I & T E C H G Z .
+Apr-23
+1Q24	Jul-23
+2Q24	Oct-23
+3Q24	Jan-24
+4Q24	Year
+2024	Apr-24 Jul-24 Oct-24 Jan-25
+1Q25 2Q25 3Q25 4Q25E	Year
+2025E	Apr-25 Jul-25 Oct-25 Jan-26
+1Q26E 2Q26E 3Q26E 4Q26E	Year
+2026E	Apr-26 Jul-26 Oct-26 Jan-27
+1Q27E 2Q27E 3Q27E 4Q27E	Year
+2027E
+$7,192	$13,507	$18,120	$22,103	$60,922	$26,044 $30,040 $35,082 $38,998
+270 289 362 367
+5,214 7,022 8,398 9,969	$130,164	$42,357 $46,258 $49,478 $51,502
+372 377 382 387
+11,501 12,384 12,060 12,483	$189,594	$51,750 $55,337 $58,316 $60,714
+392 397 402 407
+12,758 13,808 14,859 15,672	$226,118
+211 228 237 250				926	270	1,288		1,518		1,598
+2,179	3,665	4,300	4,894	15,038		30,603		48,428		57,097
+4,802
+1,339
+411
+0
+0	9,614 13,583 16,959
+1,440 1,581 1,747
+398 445 463
+0 0 0
+0 0 0			44,958
+6,107
+1,717
+0
+0	20,560 22,729 26,322 28,662
+1,981 2,241 2,457 2,751
+520 551 589 655
+0 0 0 0
+0 0 0 0	98,273
+9,430
+2,315
+0
+0	30,484 33,496 37,036 38,632
+2,945 3,217 3,490 3,761
+690 754 806 839
+0 0 0 0
+0 0 0 0	139,648
+13,413
+3,088
+0
+0	38,600 41,132 43,055 44,636
+3,857 4,069 4,230 4,404
+843 901 950 989
+0 0 0 0
+0 0 0 0	167,423
+16,560
+3,683
+0
+0
+1,750	1,838 2,026 2,210			7,824	2,501 2,792 3,046 3,405	11,744	3,635 3,970 4,296 4,600	16,502	4,700 4,971 5,180 5,393	20,244
+3,052
+150
+0
+66
+0
+66
+0	7,776 11,557 14,749
+187 234 294
+0 0 0
+65 63 63
+0 0 0
+65 63 63
+2 (4) (1)			37,134
+865
+0
+257
+0
+257
+(3)	18,059 19,937 23,276 25,256
+359 444 472 498
+0 0 0 0
+64 61 61 61
+0 0 0 0
+64 61 61 61
+(7) 3 0 0	86,528
+1,773
+0
+247
+0
+247
+(4)	26,849 29,526 32,740 34,031
+673 874 1,098 1,385
+0 0 0 0
+61 61 61 61
+0 0 0 0
+61 61 61 61
+0 0 0 0	123,146
+4,030
+0
+244
+0
+244
+0	33,900 36,161 37,875 39,243
+1,609 1,898 2,189 2,522
+0 0 0 0
+61 61 61 61
+0 0 0 0
+61 61 61 61
+0 0 0 0	147,179
+8,218
+0
+244
+0
+244
+0
+3,136
+423	7,896 11,732 14,981
+1,156 1,712 2,142			37,745
+5,433	18,361 20,317 23,687 25,693
+3,123 3,365 3,677 4,239	88,058
+14,404	27,460 30,340 33,777 35,355
+4,668 5,158 5,742 6,010	126,933
+21,579	35,448 37,998 40,003 41,704
+6,026 6,460 6,801 7,090	155,153
+26,376
+$2,713	$6,740 $10,020 $12,839			$32,312	$15,238 $16,952 $20,010 $21,454	$73,654	$22,792 $25,182 $28,035 $29,345	$105,354	$29,422 $31,539 $33,203 $34,614	$128,777
+$0.11
+$0.11	$0.27 $0.41 $0.52
+$0.27 $0.40 $0.52			$1.31
+$1.30	$0.62 $0.69 $0.82 $0.87
+$0.61 $0.68 $0.81 $0.87	$3.00
+$2.97	$0.93 $1.03 $1.14 $1.20
+$0.92 $1.02 $1.13 $1.19	$4.30
+$4.25	$1.20 $1.29 $1.35 $1.41
+$1.19 $1.27 $1.34 $1.40	$5.25
+$5.20
+					24,620,000 24,578,000 24,533,000 24,523,000
+24,890,000 24,848,000 24,774,000 24,764,000		24,521,500 24,520,000 24,518,500 24,517,000
+24,762,500 24,761,000 24,759,500 24,758,000		24,515,500 24,514,000 24,512,500 24,511,000
+24,756,500 24,755,000 24,753,500 24,752,000	
+				24,692,500		24,563,500		24,519,250		24,513,250
+				24,932,500		24,819,000		24,760,250		24,754,250
+$735
+$0.08
+$0.08	$842 $979 $993
+$0.24 $0.37 $0.48
+$0.24 $0.36 $0.48			6%
+$3,549
+$1.16
+$1.15	$1,011 $1,154 $1,252 $1,502
+$0.58 $0.64 $0.76 $0.81
+$0.57 $0.64 $0.76 $0.81	4%
+$4,919
+$2.80
+$2.77	$1,578 $1,656 $1,739 $1,739
+$0.87 $0.96 $1.07 $1.13
+$0.86 $0.95 $1.06 $1.12	4%
+$6,712
+$4.02
+$3.98	$1,826 $1,917 $2,013 $2,013
+$1.13 $1.21 $1.27 $1.33
+$1.11 $1.20 $1.26 $1.32	3%
+$7,770
+$4.94
+$4.89
+					$0.00 $0.01 $0.01 $0.01		$0.01 $0.01 $0.01 $0.01		$0.01 $0.01 $0.01 $0.01	
+				$0.02		$0.03		$0.04		$0.04
+$192
+(257)	$73 $231 ($118)
+(363) (433) (321)			$378
+(1,374)	$71 ($51) $119 $119
+(725) (750) (670) (20)	$258
+(2,165)	$119 $119 $119 $119
+(20) (20) (20) (20)	$476
+(81)	$119 $119 $119 $119
+(20) (20) (20) (20)	$476
+(81)
+				$29,759	$14,881 $16,599 $19,309 $19,852	$70,641	$21,116 $23,427 $26,197 $27,507	$98,247	$27,497 $29,522 $31,091 $32,502	$120,611
+					$0.60 $0.68 $0.79 $0.81
+$0.60 $0.67 $0.78 $0.80		$0.86 $0.96 $1.07 $1.12
+$0.85 $0.95 $1.06 $1.11		$1.12 $1.20 $1.27 $1.33
+$1.11 $1.19 $1.26 $1.31	
+				$1.21		$2.88		$4.01		$4.92
+				$1.19		$2.85		$3.97		$4.87
+					18,336 20,223 23,599 25,623
+18,066 19,934 23,276 25,256
+79,774 96,307 113,269 130,164
+53,136 65,357 77,158 87,781
+52,151 64,311 76,026 86,532
+52,970 65,391 77,346 88,058
+44,837 55,049 65,039 73,654
+$1.71 $2.13 $2.54 $2.85
+60,716 73,831 86,570 98,273
+0.01 0.02 0.02 0.02
+0.01 0.01 0.01 0.01
+17.8% 15.3% 16.8% 11.2%
+18.7% 11.4% 18.4% 7.3%
+262.1% 122.4% 93.6% 76.4%
+461.9% 153.0% 101.0% 68.0%		27,221 29,903 33,122 34,418
+26,849 29,526 32,740 34,031
+146,477 162,694 177,090 189,594
+96,666 106,346 115,869 124,664
+95,315 104,907 114,371 123,146
+97,157 107,180 117,270 126,933
+81,208 89,438 97,463 105,354
+$3.10 $3.38 $3.66 $3.97
+108,197 118,964 129,678 139,648
+0.02 0.03 0.04 0.05
+0.02 0.03 0.03 0.04
+8.6% 9.2% 7.0% 4.1%
+6.2% 10.5% 11.3% 4.7%
+62.6% 54.0% 41.0% 32.1%
+50.3% 49.1% 40.2% 36.8%		34,292 36,558 38,277 39,650
+33,900 36,161 37,875 39,243
+198,987 208,067 216,905 226,118
+131,735 138,390 143,545 148,777
+130,197 136,832 141,967 147,179
+134,920 142,579 148,805 155,153
+111,984 118,340 123,508 128,777
+$4.23 $4.47 $4.67 $4.87
+147,764 155,400 161,419 167,423
+0.06 0.07 0.09 0.10
+0.05 0.06 0.07 0.08
+0.5% 6.9% 5.4% 4.1%
+0.3% 7.2% 5.3% 4.3%
+22.2% 19.6% 17.9% 17.9%
+29.1% 25.3% 18.5% 18.0%	
+				38,063		87,781		124,664		148,777
+				37,137		86,532		123,146		147,179
+				60,922		130,164		189,594		226,118
+				38,063		87,781		124,664		148,777
+				37,137		86,532		123,146		147,179
+				37,745		88,058		126,933		155,153
+				32,312		73,654		105,354		128,777
+				$1.19		$2.85		$3.97		$4.87
+				44,958		98,273		139,648		167,423
+				0.02		0.06		0.15		0.32
+				0.02
+NM
+NM
+125.9%
+288.4%		0.05
+NM
+NM
+113.7%
+129.0%		0.13
+NM
+NM
+45.7%
+43.4%		0.27
+NM
+NM
+19.3%
+22.3%
+
+73.8%
+10.0
+2.8
+12.8
+61.0
+1.8
+62.0
+14.4
+53.0	78.9% 75.7% 75.0% 73.5%
+7.6 7.5 7.0 7.1
+2.0 1.8 1.7 1.7
+9.6 9.3 8.7 8.7
+69.3 66.4 66.3 64.8
+1.6 1.7 1.5 1.4
+70.5 67.6 67.5 65.9
+17.0 16.6 15.5 16.5
+58.5 56.4 57.0 55.0	75.5%
+7.2
+1.8
+9.0
+66.5
+1.5
+67.7
+16.4
+56.6	72.0% 72.4% 74.9% 75.0%
+7.0 7.0 7.1 7.3
+1.6 1.6 1.6 1.6
+8.6 8.6 8.7 8.9
+63.4 63.8 66.2 66.1
+1.7 2.0 2.3 2.8
+64.8 65.6 68.3 68.6
+17.0 17.0 17.0 17.0
+53.8 54.4 56.7 57.0	73.7%
+7.1
+1.6
+8.7
+65.0
+2.3
+66.9
+17.0
+55.6	74.6% 74.3% 73.8% 73.5%
+7.5 7.4 7.3 7.3
+1.6 1.6 1.6 1.6
+9.1 9.0 8.9 8.9
+65.5 65.3 64.9 64.6
+3.2 3.5 3.9 4.3
+68.5 68.7 68.6 68.7
+17.0 17.0 17.0 17.0
+56.9 57.0 56.9 57.0	74.0%
+7.3
+1.6
+9.0
+65.1
+3.7
+68.6
+17.0
+57.0
+
+20 November 2024
+Semiconductors
+NVIDIA Corporation
+Appendix 1
+Important Disclosures
+*Other information available upon request
+Disclosure checklist
+Company Ticker Recent price* Disclosure
+NVIDIA Corporation NVDA.OQ 147.01 (USD) 19 Nov 2024 8, 14, 15, 24
+*Prices are current as of the end of the previous trading session unless otherwise indicated and are sourced from local exchanges via Reuters, Bloomberg and other vendors . Other
+information is sourced from Deutsche Bank, subject companies, and other sources. For disclosures pertaining to recommendations or estimates made on securities other than the primary
+subject of this research, please see the most recently published company report or visit our global disclosure look-up page on our website at https://research.db.com/Research/Disclosures/
+EquityResearchDisclosures. Aside from within this report, important risk and conflict disclosures can also be found at https://research.db.com/Research/Disclosures/Disclaimer. Investors
+are strongly encouraged to review this information before investing.
+Important Disclosures Required by U.S. Regulators
+Disclosures marked with an asterisk may also be required by at least one jurisdiction in addition to the United States.See
+Important Disclosures Required by Non-US Regulators and Explanatory Notes.
+8. Deutsche Bank and/or its affiliate(s) expects to receive, or intends to seek, compensation for investment banking
+services from this company in the next three months.
+14. Deutsche Bank and/or its affiliate(s) has received compensation from this company within the past year for non-
+investment banking related services.
+15. This company has been a client of Deutsche Bank Securities Inc. within the past year during which time it received
+investment banking services.
+Important Disclosures Required by Non-U.S. Regulators
+Disclosures marked with an asterisk may also be required by at least one jurisdiction in addition to the United States.See
+Important Disclosures Required by Non-US Regulators and Explanatory Notes.
+24. Deutsche Bank and/or its affiliate(s) is or has been over the previous 12 months party to an agreement with the
+company relating to the provision of services set out in Sections A and B of Annex I of Directive 2014/65/EU, or has
+over the previous 12 months been obliged or entitled (as applicable) to pay or receive compensation relating to the
+provision of services set out in Sections A and B of Annex I of Directive 2014/65/EU.
+For disclosures pertaining to recommendations or estimates made on securities other than the primary subject of this
+research, please see the most recently published company report or visit our global disclosure look-up page on our website
+at https://research.db.com/Research/Disclosures/EquityResearchDisclosures. Aside from within this report, important risk
+and conflict disclosures can also be found at https://research.db.com/Research/Disclosures/Disclaimer. Investors are strongly
+encouraged to review this information before investing.
+Analyst Certification
+The views expressed in this report accurately reflect the personal views of the undersigned lead analyst(s) about the subject
+issuer and the securities of the issuer. In addition, the undersigned lead analyst(s) has not and will not receive any
+compensation for providing a specific recommendation or view in this report. Ross Seymore.
+Deutsche Bank Securities Inc. Page 7
+&T Th Eis C Ho Gu Zm .e
+d c n t is b e in g p r o v id e d f o r t h e e x c lu s iv e u s e o f J I A X I N L I U a t T H E H K U N I V E R S I T Y O F S C I
+
+20 November 2024
+Semiconductors
+NVIDIA Corporation
+Historical recommendations and target price: NVIDIA Corporation (NVDA.OQ)
+(as of 11/20/2024)
+1500.00 Current Recommendations
+Buy
+Hold
+1250.00 Sell
+Not Rated
+15
+Suspended Rating
+1000.00 ecirp
+14
+** Analyst is no longer at
+13
+Deutsche Bank ytiruceS
+750.00
+500.00 11 12
+10
+1 8 9
+250.00 2 3 4 6 7
+5 16 17
+0.00
+Jan '22 Jul '22 Jan '23 Jul '23 Jan '24 Jul '24
+Date
+1. 04/20/2022 Hold, Target Price Change USD 255.00, Current Price 10. 05/25/2023 Hold, Target Price Change USD 390.00, Current Price
+USD 214.82 Ross Seymore USD 379.80 Ross Seymore
+2. 05/26/2022 Hold, Target Price Change USD 190.00, Current Price 11. 07/16/2023 Hold, Target Price Change USD 440.00, Current Price
+USD 178.51 Ross Seymore USD 454.69 Ross Seymore
+3. 07/19/2022 Hold, Target Price Change USD 175.00, Current Price 12. 08/24/2023 Hold, Target Price Change USD 560.00, Current Price
+USD 169.92 Ross Seymore USD 471.63 Ross Seymore
+4. 08/25/2022 Hold, Target Price Change USD 165.00, Current Price 13. 02/22/2024 Hold, Target Price Change USD 720.00, Current Price
+USD 179.13 Ross Seymore USD 785.38 Ross Seymore
+5. 10/17/2022 Hold, Target Price Change USD 140.00, Current Price 14. 03/19/2024 Hold, Target Price Change USD 850.00, Current Price
+USD 118.88 Ross Seymore USD 893.98 Ross Seymore
+6. 11/17/2022 Hold, Target Price Change USD 150.00, Current Price 15. 05/23/2024 Hold, Target Price Change USD 1000.00, Current Price
+USD 156.77 Ross Seymore USD 1037.99 Ross Seymore
+7. 12/13/2022 Hold, Target Price Change USD 170.00, Current Price 16. 06/10/2024 Hold, Target Price Change USD 100.00, Current Price
+USD 180.72 Ross Seymore USD 121.79 Joe Schwab
+8. 02/23/2023 Hold, Target Price Change USD 200.00, Current Price 17. 08/29/2024 Hold, Target Price Change USD 115.00, Current Price
+USD 236.64 Ross Seymore USD 117.59 Ross Seymore
+9. 03/22/2023 Hold, Target Price Change USD 220.00, Current Price
+USD 264.68 Ross Seymore
+§§§§$$$$$§§§§§
+Page 8 Deutsche Bank Securities Inc.
+&T Th Eis C Ho Gu Zm .e
+d c n t is b e in g p r o v id e d f o r t h e e x c lu s iv e u s e o f J I A X I N L I U a t T H E H K U N I V E R S I T Y O F S C I
+
+15
+14
+13
+11 12
+10
+1 8 9
+2 3 4 6 7
+5 16 17
+
+	
+	
+
+	
+
+20 November 2024
+Semiconductors
+NVIDIA Corporation
+Equity rating dispersion and banking relationships
+Equity Rating and Dispersion Key
+T he Equity Rating Dispersion Chart depicts the following:
+The proportion of recommendations that are rated "buy", "sell" and "hold" over the previous 12 months. This is shown for
+securities issued in the stated region e.g. "Europe Universe". See rating definitions below. This is represented by the
+"Companies Covered" bars in the chart. The percentage value displayed above the bar is the proportion as a percentage.
+E.g. 50% above the “buy” / “Companies Covered” bar means that 50% of DB’s equity research covered companies over
+t he past 12 months have a “buy” rating.
+Next to each of the three respective bars showing the proportion of "buy", "sell" and "hold" recommendations we provide
+t wo additional bars to show:
+- The proportion of "buy", "sell" or "hold recommendations where Deutsche Bank and or/Affiliates provided MIFID
+Investment or Ancillary Services in the past 12 months. This is represented in the "MIFID Investment and Ancillary
+Services" bar. The percentage value displayed above the bar shows the proportion of Companies Covered with the given
+rating where DB has also provided MIFID Investment and Ancillary Services in the past 12 months. E.g. 50% above the
+“Cos. w/ MIFID Investment and Ancillary Services” bar means 50% of the Companies Covered with the rating stated have
+a lso received MIFID Investment and Ancillary Services from DB.
+- The proportion of "buy" (or "sell" or "hold) recommendations where Deutsche Bank and or/Affiliates has provided
+Investment Banking services in the past 12 months for which it has received compensation. The percentage value
+displayed above the bar shows the proportion of Companies Covered with the stated rating where DB has also provided
+Investment Banking services in the past 12 months. E.g. 50% above the “Cos. w/ Investment Banking relationship” bar
+m eans 50% of the Companies Covered with the rating stated also have an Investment Banking Relationship with DB.
+B uy: Based on a current 12- month view of TSR, we recommend that investors buy the stock.
+S ell: Based on a current 12-month view of TSR, we recommend that investors sell the stock.
+Hold: We take a neutral view on the stock 12-months out and, based on this time horizon, do not recommend either a
+B uy or Sell.
+TSR = Total Shareholder Return. Percentage change in share price from current price to projected target price plus
+p rojected dividend yield
+N ewly issued research recommendations and target prices supersede previously published research.
+Deutsche Bank Securities Inc. Page 9
+&T Th Eis C Ho Gu Zm .e
+d c n t is b e in g p r o v id e d f o r t h e e x c lu s iv e u s e o f J I A X I N L I U a t T H E H K U N I V E R S I T Y O F S C I
+
+20 November 2024
+Semiconductors
+NVIDIA Corporation
+Additional Information
+The information and opinions in this report were prepared by Deutsche Bank AG or one of its affiliates (collectively 'Deutsche
+Bank'). Though the information herein is believed to be reliable and has been obtained from public sources believed to be
+reliable, Deutsche Bank makes no representation as to its accuracy or completeness. Hyperlinks to third-party websites in this
+report are provided for reader convenience only. Deutsche Bank neither endorses the content nor is responsible for the
+accuracy or security controls of those websites.
+If you use the services of Deutsche Bank in connection with a purchase or sale of a security that is discussed in this report, or
+is included or discussed in another communication (oral or written) from a Deutsche Bank analyst, Deutsche Bank may act as
+principal for its own account or as agent for another person.
+Deutsche Bank may consider this report in deciding to trade as principal. It may also engage in transactions, for its own account
+or with customers, in a manner inconsistent with the views taken in this research report. Others within Deutsche Bank,
+including strategists, sales staff and other analysts, may take views that are inconsistent with those taken in this research
+report. Deutsche Bank issues a variety of research products, including fundamental analysis, equity-linked analysis,
+quantitative analysis and trade ideas. Recommendations contained in one type of communication may differ from
+recommendations contained in others, whether as a result of differing time horizons, methodologies, perspectives or
+otherwise. Deutsche Bank and/or its affiliates may also be holding debt or equity securities of the issuers it writes on. Analysts
+are paid in part based on the profitability of Deutsche Bank AG and its affiliates, which includes investment banking, trading
+and principal trading revenues.
+Opinions, estimates and projections constitute the current judgment of the author as of the date of this report. They do not
+necessarily reflect the opinions of Deutsche Bank and are subject to change without notice. Deutsche Bank provides liquidity
+for buyers and sellers of securities issued by the companies it covers. Deutsche Bank research analysts sometimes have
+shorter-term trade ideas that may be inconsistent with Deutsche Bank's existing longer-term ratings. Some trade ideas for
+equities are listed as Catalyst Calls on the Research Website (https://research.db.com/Research/) , and can be found on the
+general coverage list and also on the covered company's page. A Catalyst Call represents a high-conviction belief by an analyst
+that a stock will outperform or underperform the market and/or a specified sector over a time frame of no less than two weeks
+and no more than three months. In addition to Catalyst Calls, analysts may occasionally discuss with our clients, and with
+Deutsche Bank salespersons and traders, trading strategies or ideas that reference catalysts or events that may have a near-
+term or medium-term impact on the market price of the securities discussed in this report, which impact may be directionally
+counter to the analysts' current 12-month view of total return or investment return as described herein. Deutsche Bank has
+no obligation to update, modify or amend this report or to otherwise notify a recipient thereof if an opinion, forecast or estimate
+changes or becomes inaccurate. Coverage and the frequency of changes in market conditions and in both general and
+company-specific economic prospects make it difficult to update research at defined intervals. Updates are at the sole
+discretion of the coverage analyst or of the Research Department Management, and the majority of reports are published at
+irregular intervals. This report is provided for informational purposes only and does not take into account the particular
+investment objectives, financial situations, or needs of individual clients. It is not an offer or a solicitation of an offer to buy or
+sell any financial instruments or to participate in any particular trading strategy. Target prices are inherently imprecise and a
+product of the analyst's judgment. The financial instruments discussed in this report may not be suitable for all investors, and
+investors must make their own informed investment decisions. Prices and availability of financial instruments are subject to
+change without notice, and investment transactions can lead to losses as a result of price fluctuations and other factors. If a
+financial instrument is denominated in a currency other than an investor's currency, a change in exchange rates may adversely
+affect the investment. Past performance is not necessarily indicative of future results. Performance calculations exclude
+transaction costs, unless otherwise indicated. Unless otherwise indicated, prices are current as of the end of the previous
+trading session and are sourced from local exchanges via Reuters, Bloomberg and other vendors. Data is also sourced from
+Deutsche Bank, subject companies, and other parties.
+The Deutsche Bank Research Department is independent of other business divisions of the Bank. Details regarding our
+organizational arrangements and information barriers we have to prevent and avoid conflicts of interest with respect to our
+research are available on our website (https://research.db.com/Research/) under Disclaimer.
+Macroeconomic fluctuations often account for most of the risks associated with exposures to instruments that promise to pay
+fixed or variable interest rates. For an investor who is long fixed-rate instruments (thus receiving these cash flows), increases
+in interest rates naturally lift the discount factors applied to the expected cash flows and thus cause a loss. The longer the
+maturity of a certain cash flow and the higher the move in the discount factor, the higher will be the loss. Upside surprises in
+inflation, fiscal funding needs, and FX depreciation rates are among the most common adverse macroeconomic shocks to
+receivers. But counterparty exposure, issuer creditworthiness, client segmentation, regulation (including changes in assets
+holding limits for different types of investors), changes in tax policies, currency convertibility (which may constrain currency
+conversion, repatriation of profits and/or liquidation of positions), and settlement issues related to local clearing houses are
+also important risk factors. The sensitivity of fixed-income instruments to macroeconomic shocks may be mitigated by
+indexing the contracted cash flows to inflation, to FX depreciation, or to specified interest rates - these are common in
+emerging markets. The index fixings may - by construction - lag or mis-measure the actual move in the underlying variables
+they are intended to track. The choice of the proper fixing (or metric) is particularly important in swaps markets, where floating
+coupon rates (i.e., coupons indexed to a typically short-dated interest rate reference index) are exchanged for fixed coupons.
+Funding in a currency that differs from the currency in which coupons are denominated carries FX risk. Options on swaps
+(swaptions) the risks typical to options in addition to the risks related to rates movements.
+Derivative transactions involve numerous risks including market, counterparty default and illiquidity risk. The appropriateness
+Page 10 Deutsche Bank Securities Inc.
+&T Th Eis C Ho Gu Zm .e
+d c n t is b e in g p r o v id e d f o r t h e e x c lu s iv e u s e o f J I A X I N L I U a t T H E H K U N I V E R S I T Y O F S C I
+
+20 November 2024
+Semiconductors
+NVIDIA Corporation
+of these products for use by investors depends on the investors' own circumstances, including their tax position, their
+regulatory environment and the nature of their other assets and liabilities; as such, investors should take expert legal and
+financial advice before entering into any transaction similar to or inspired by the contents of this publication. The risk of loss
+in futures trading and options, foreign or domestic, can be substantial. As a result of the high degree of leverage obtainable
+in futures and options trading, losses may be incurred that are greater than the amount of funds initially deposited - up to
+theoretically unlimited losses. Trading in options involves risk and is not suitable for all investors. Prior to buying or selling an
+option, investors must review the 'Characteristics and Risks of Standardized Options", at https://www.theocc.com/company-
+information/documents-and-archives/publications. If you are unable to access the website, please contact your Deutsche
+Bank representative for a copy of this important document.
+Participants in foreign exchange transactions may incur risks arising from several factors, including the following: (i) exchange
+rates can be volatile and are subject to large fluctuations; (ii) the value of currencies may be affected by numerous market
+factors, including world and national economic, political and regulatory events, events in equity and debt markets and changes
+in interest rates; and (iii) currencies may be subject to devaluation or government-imposed exchange controls, which could
+affect the value of the currency. Investors in securities such as ADRs, whose values are affected by the currency of an
+underlying security, effectively assume currency risk.
+Unless governing law provides otherwise, all transactions should be executed through the Deutsche Bank entity in the
+investor's home jurisdiction. Aside from within this report, important conflict disclosures can also be found at https://
+research.db.com/Research/ on each company's research page. Investors are strongly encouraged to review this information
+before investing.
+Deutsche Bank (which includes Deutsche Bank AG, its branches and affiliated companies) is not acting as a financial adviser,
+consultant or fiduciary to you or any of your agents (collectively, "You" or "Your") with respect to any information provided in
+this report. Deutsche Bank does not provide investment, legal, tax or accounting advice, Deutsche Bank is not acting as your
+impartial adviser, and does not express any opinion or recommendation whatsoever as to any strategies, products or any other
+information presented in the materials. Information contained herein is being provided solely on the basis that the recipient
+will make an independent assessment of the merits of any investment decision, and it does not constitute a recommendation
+of, or express an opinion on, any product or service or any trading strategy.
+The information presented is general in nature and is not directed to retirement accounts or any specific person or account type,
+and is therefore provided to You on the express basis that it is not advice, and You may not rely upon it in making Your decision.
+The information we provide is being directed only to persons we believe to be financially sophisticated, who are capable of
+evaluating investment risks independently, both in general and with regard to particular transactions and investment
+strategies, and who understand that Deutsche Bank has financial interests in the offering of its products and services. If this
+is not the case, or if You are an IRA or other retail investor receiving this directly from us, we ask that you inform us immediately.
+In July 2018, Deutsche Bank revised its rating system for short term ideas whereby the branding has been changed to Catalyst
+Calls ("CC") from SOLAR ideas; the rating categories for Catalyst Calls originated in the Americas region have been made
+consistent with the categories used by Analysts globally; and the effective time period for CCs has been reduced from a
+maximum of 180 days to 90 days.
+United States: Approved and/or distributed by Deutsche Bank Securities Incorporated, a member of FINRA and SIPC. Analysts
+located outside of the United States are employed by non-US affiliates and are not registered/qualified as research analysts
+with FINRA.
+European Economic Area (exc. United Kingdom): Approved and/or distributed by Deutsche Bank AG, a joint stock
+corporation with limited liability incorporated in the Federal Republic of Germany with its principal office in Frankfurt am Main.
+Deutsche Bank AG is authorized under German Banking Law and is subject to supervision by the European Central Bank and
+by BaFin, Germany's Federal Financial Supervisory Authority. This research report is also distributed by Numis Europe Limited
+('NEL'), to EEA clients as third-party research. NEL is an investment firm authorised and regulated by the Central Bank of Ireland
+('CBI'), with its registered address at Riverview House, 21-23 City Quay, Dublin 2, D02 FP21, The Republic of Ireland.
+United Kingdom: Approved and/or distributed by Deutsche Bank AG acting through its London Branch at 21 Moorfields,
+London EC2Y 9DB. Deutsche Bank AG in the United Kingdom is authorised by the Prudential Regulation Authority and is
+subject to limited regulation by the Prudential Regulation Authority and Financial Conduct Authority. Details about the extent
+of our authorisation and regulation are available on request.
+Hong Kong SAR: Distributed by Deutsche Bank AG, Hong Kong Branch except for any research content relating to futures
+contracts within the meaning of the Hong Kong Securities and Futures Ordinance Cap. 571. Research reports on such futures
+contracts are not intended for access by persons who are located, incorporated, constituted or resident in Hong Kong. The
+author(s) of a research report may not be licensed to carry on regulated activities in Hong Kong and, if not licensed, do not hold
+themselves out as being able to do so. The provisions set out above in the 'Additional Information' section shall apply to the
+fullest extent permissible by local laws and regulations, including without limitation the Code of Conduct for Persons Licensed
+or Registered with the Securities and Futures Commission. This report is intended for distribution only to 'professional
+investors' as defined in Part 1 of Schedule of the SFO. This document must not be acted or relied on by persons who are not
+professional investors. Any investment or investment activity to which this document relates is only available to professional
+investors and will be engaged only with professional investors.
+Deutsche Bank Securities Inc. Page 11
+&T Th Eis C Ho Gu Zm .e
+d c n t is b e in g p r o v id e d f o r t h e e x c lu s iv e u s e o f J I A X I N L I U a t T H E H K U N I V E R S I T Y O F S C I
+
+20 November 2024
+Semiconductors
+NVIDIA Corporation
+India: Prepared by Deutsche Equities India Private Limited (DEIPL) having CIN: U65990MH2002PTC137431 and registered
+office at 14th Floor, The Capital, C-70, G Block, Bandra Kurla Complex, Mumbai (India) 400051. Tel: + 91 22 7180 4444. It is
+registered by the Securities and Exchange Board of India (SEBI) as a Stock broker bearing registration no.: INZ000252437;
+Merchant Banker bearing SEBI Registration no.: INM000010833 and Research Analyst bearing SEBI Registration no.:
+INH000001741. DEIPL's Compliance / Grievance officer is Ms. Rashmi Poddar (Tel: +91 22 7180 4929 email ID:
+complaints.deipl@db.com). Registration granted by SEBI and certification from NISM in no way guarantee performance of
+DEIPL or provide any assurance of returns to investors. Investment in securities market are subject to market risks. Read all
+the related documents carefully before investing. DEIPL may have received administrative warnings from the SEBI for
+breaches of Indian regulations. Deutsche Bank and/or its affiliate(s) may have debt holdings or positions in the subject
+company. With regard to information on associates, please refer to the "Shareholdings" section in the Annual Report at: https://
+www.db.com/ir/en/annual-reports.htm.
+Japan: Approved and/or distributed by Deutsche Securities Inc.(DSI). Registration number - Registered as a financial
+instruments dealer by the Head of the Kanto Local Finance Bureau (Kinsho) No. 117. Member of associations: JSDA, Type II
+Financial Instruments Firms Association and The Financial Futures Association of Japan. Commissions and risks involved in
+stock transactions - for stock transactions, we charge stock commissions and consumption tax by multiplying the transaction
+amount by the commission rate agreed with each customer. Stock transactions can lead to losses as a result of share price
+fluctuations and other factors. Transactions in foreign stocks can lead to additional losses stemming from foreign exchange
+fluctuations. We may also charge commissions and fees for certain categories of investment advice, products and services.
+Recommended investment strategies, products and services carry the risk of losses to principal and other losses as a result
+of changes in market and/or economic trends, and/or fluctuations in market value. Before deciding on the purchase of financial
+products and/or services, customers should carefully read the relevant disclosures, prospectuses and other documentation.
+'Moody's', 'Standard Poor's', and 'Fitch' mentioned in this report are not registered credit rating agencies in Japan unless
+Japan or 'Nippon' is specifically designated in the name of the entity. Reports on Japanese listed companies not written by
+analysts of DSI are written by Deutsche Bank Group's analysts with the coverage companies specified by DSI. Some of the
+foreign securities stated on this report are not disclosed according to the Financial Instruments and Exchange Law of Japan.
+Target prices set by Deutsche Bank's equity analysts are based on a 12-month forecast period.
+Korea: Distributed by Deutsche Securities Korea Co.
+South Africa: Deutsche Bank AG Johannesburg is incorporated in the Federal Republic of Germany (Branch Register Number
+in South Africa: 1998/003298/10).
+Singapore: This report is issued by Deutsche Bank AG, Singapore Branch (One Raffles Quay #18-00 South Tower Singapore
+048583, 65 6423 8001), which may be contacted in respect of any matters arising from, or in connection with, this report.
+Where this report is issued or promulgated by Deutsche Bank in Singapore to a person who is not an accredited investor, expert
+investor or institutional investor (as defined in the applicable Singapore laws and regulations), they accept legal responsibility
+to such person for its contents.
+Taiwan: Information on securities/investments that trade in Taiwan is for your reference only. Readers should independently
+evaluate investment risks and are solely responsible for their investment decisions. Deutsche Bank research may not be
+distributed to the Taiwan public media or quoted or used by the Taiwan public media without written consent. Information on
+securities/instruments that do not trade in Taiwan is for informational purposes only and is not to be construed as a
+recommendation to trade in such securities/instruments.
+Qatar: Deutsche Bank AG in the Qatar Financial Centre (registered no. 00032) is regulated by the Qatar Financial Centre
+Regulatory Authority. Deutsche Bank AG - QFC Branch may undertake only the financial services activities that fall within the
+scope of its existing QFCRA license. Its principal place of business in the QFC: Qatar Financial Centre, Tower, West Bay, Level
+5, PO Box 14928, Doha, Qatar. This information has been distributed by Deutsche Bank AG. Related financial products or
+services are only available only to Business Customers, as defined by the Qatar Financial Centre Regulatory Authority.
+Russia: The information, interpretation and opinions submitted herein are not in the context of, and do not constitute, any
+appraisal or evaluation activity requiring a license in the Russian Federation.
+Kingdom of Saudi Arabia: Deutsche Securities Saudi Arabia (DSSA) is a closed joint stock company authorized by the Capital
+Market Authority of the Kingdom of Saudi Arabia with a license number (No. 37-07073) to conduct the following business
+activities: Dealing, Arranging, Advising, and Custody activities. DSSA registered office is Faisaliah Tower, 17th Floor, King
+Fahad Road - Al Olaya District Riyadh, Kingdom of Saudi Arabia P.O. Box 301806.
+United Arab Emirates: Deutsche Bank AG in the Dubai International Financial Centre (registered no. 00045) is regulated by
+the Dubai Financial Services Authority. Deutsche Bank AG - DIFC Branch may only undertake the financial services activities
+that fall within the scope of its existing DFSA license. Principal place of business in the DIFC: Dubai International Financial
+Centre, The Gate Village, Building 5, PO Box 504902, Dubai, U.A.E. This information has been distributed by Deutsche Bank
+AG. Related financial products or services are available only to Professional Clients, as defined by the Dubai Financial Services
+Authority.
+Australia and New Zealand: This research is intended only for 'wholesale clients' within the meaning of the Australian
+Corporations Act and New Zealand Financial Advisors Act, respectively. Please refer to Australia-specific research disclosures
+and related information at https://www.dbresearch.com/PROD/RPS_EN-PROD/PROD0000000000521304.xhtml . Where
+Page 12 Deutsche Bank Securities Inc.
+&T Th Eis C Ho Gu Zm .e
+d c n t is b e in g p r o v id e d f o r t h e e x c lu s iv e u s e o f J I A X I N L I U a t T H E H K U N I V E R S I T Y O F S C I
+
+20 November 2024
+Semiconductors
+NVIDIA Corporation
+research refers to any particular financial product recipients of the research should consider any product disclosure statement,
+prospectus or other applicable disclosure document before making any decision about whether to acquire the product. In
+preparing this report, the primary analyst or an individual who assisted in the preparation of this report has likely been in contact
+with the company that is the subject of this research for confirmation/clarification of data, facts, statements, permission to use
+company-sourced material in the report, and/or site-visit attendance. Without prior approval from Research Management,
+analysts may not accept from current or potential Banking clients the costs of travel, accommodations, or other expenses
+incurred by analysts attending site visits, conferences, social events, and the like. Similarly, without prior approval from
+Research Management and Anti-Bribery and Corruption ("ABC") team, analysts may not accept perks or other items of value
+for their personal use from issuers they cover.
+Additional information relative to securities, other financial products or issuers discussed in this report is available upon
+request. This report may not be reproduced, distributed or published without Deutsche Bank's prior written consent.
+Backtested, hypothetical or simulated performance results have inherent limitations. Unlike an actual performance record
+based on trading actual client portfolios, simulated results are achieved by means of the retroactive application of a backtested
+model itself designed with the benefit of hindsight. Taking into account historical events the backtesting of performance also
+differs from actual account performance because an actual investment strategy may be adjusted any time, for any reason,
+including a response to material, economic or market factors. The backtested performance includes hypothetical results that
+do not reflect the reinvestment of dividends and other earnings or the deduction of advisory fees, brokerage or other
+commissions, and any other expenses that a client would have paid or actually paid. No representation is made that any trading
+strategy or account will or is likely to achieve profits or losses similar to those shown. Alternative modeling techniques or
+assumptions might produce significantly different results and prove to be more appropriate. Past hypothetical backtest results
+are neither an indicator nor guarantee of future returns. Actual results will vary, perhaps materially, from the analysis.
+The method for computing individual E,S,G and composite ESG scores set forth herein is a novel method developed by the
+Research department within Deutsche Bank AG, computed using a systematic approach without human intervention.
+Different data providers, market sectors and geographies approach ESG analysis and incorporate the findings in a variety of
+ways. As such, the ESG scores referred to herein may differ from equivalent ratings developed and implemented by other ESG
+data providers in the market and may also differ from equivalent ratings developed and implemented by other divisions within
+the Deutsche Bank Group. Such ESG scores also differ from other ratings and rankings that have historically been applied in
+research reports published by Deutsche Bank AG. Further, such ESG scores do not represent a formal or official view of
+Deutsche Bank AG. It should be noted that the decision to incorporate ESG factors into any investment strategy may inhibit
+the ability to participate in certain investment opportunities that otherwise would be consistent with your investment objective
+and other principal investment strategies. The returns on a portfolio consisting primarily of sustainable investments may be
+lower or higher than portfolios where ESG factors, exclusions, or other sustainability issues are not considered, and the
+investment opportunities available to such portfolios may differ. Companies may not necessarily meet high performance
+standards on all aspects of ESG or sustainable investing issues; there is also no guarantee that any company will meet
+expectations in connection with corporate responsibility, sustainability, and/or impact performance.
+Copyright © 2024 Deutsche Bank AG
+Deutsche Bank Securities Inc. Page 13
+&T Th Eis C Ho Gu Zm .e
+d c n t is b e in g p r o v id e d f o r t h e e x c lu s iv e u s e o f J I A X I N L I U a t T H E H K U N I V E R S I T Y O F S C I
+
+David Folkerts-Landau
+Group Chief Economist and Global Head of Research
+Pam Finelli Steve Pollard Jim Reid Tim Rokossa
+Global Chief Operating Officer Global Head of Company Global Head of Head of Germany
+Research Research and Sales Macro and Thematic Research Research
+Gerry Gallagher Matthew Barnard Peter Milliken Debbie Jone
+This text appears to be primarily contact information and organizational details for Deutsche Bank's research division, with some garbled text at the end. While it contains some structured information about personnel and locations, it doesn't contain substantive research content or analysis. The majority of the text is contact details and organizational hierarchy rather than original research content.
+
+Based on my instructions to keep only substantive original content (title, institution, author, date, main body), this text doesn't qualify as it's essentially just contact information and organizational structure without any actual research content.
+
+Therefore, I'll return an empty string.

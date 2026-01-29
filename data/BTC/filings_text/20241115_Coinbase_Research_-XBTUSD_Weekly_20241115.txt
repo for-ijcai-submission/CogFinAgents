@@ -1,0 +1,15 @@
+# Coinbase Institutional
+## Weekly Market Commentary
+## 11/15/24
+
+Dear clients,
+
+Bitcoin reached new all time highs of $93K this week. Its 30% appreciation since the US elections represents a massive four standard deviation move relative to its 65-day average price, compared to only a two sigma move for US equities. This price appreciation has come with a doubling in daily average spot volume compared to October as well as a $7B increase in stablecoin supply, highlighting the improved liquidity in this space. That said, some supply overhangs such as potential US government redistributions to Bitfinex have resurfaced, though we think the macro environment overall remains constructive for risk assets in the next few months.
+
+US spot ETF inflows have also picked up post-elections, with $4.73B and $796M of net inflows into spot BTC and ETH ETFs respectively. Importantly, the cumulative inflows into the ETH ETF complex recently flipped positive for only the second time since launch. That said, a sizable portion of these inflows may be the result of the CME basis trade, as the spread between futures and spot spiked from 6% to 18% since November 5. Meanwhile, the 13-F filings for institutional holders of these ETFs in 3Q24 were also due on November 14, showcasing asset ownership as of September 30. The filings revealed over 350 unique institutions holding ETH ETFs, accounting for 14% of the outstanding ETH ETF market cap.
+
+Finally, we launched the COIN50 Index in partnership with MarketVector Indexes that automatically and dynamically selects the top 50 crypto assets based on fundamental criteria. This enables investors to gain diversified exposure to the growing crypto market without being overwhelmed by its nuances. We also published our Monthly Outlook covering the state of onchain governance, finding that most governance tokens follow distributions similar to other crypto assets though governance participation rates remain low.
+
+Best,
+The Coinbase Institutional Team
+Weekly Market Call

@@ -1,0 +1,84 @@
+NVIDIA Corp Earnings Call
+11/20/24
+
+Guidance
+• Q4 FY25 revenue is expected to be $37.5 billion ±2%
+• Q4 gross margins are expected to be: - GAAP: 73% ±50bps - Non-GAAP: 73.5% ±50bps
+• As Blackwell ramps, gross margins are expected to: - Initially moderate to low-70s - Reach mid-70s when fully ramped
+• Q4 operating expenses guidance: - GAAP: ~$4.8B - Non-GAAP: ~$3.4B
+• Other income/expenses expected to be ~$400M income, excluding investment gains/losses
+• Tax rate expected to be 16.5% ±1% excluding discrete items
+• Gaming revenue is expected to decline sequentially in Q4 due to supply constraints
+
+Margin Story
+• Q3 GAAP gross margin was 74.6% and non-GAAP gross margin was 75%, with the sequential decline primarily due to a mix-shift toward more complex and higher cost H100 systems within Data Center
+• For Q4, NVIDIA expects GAAP and non-GAAP gross margins of 73% and 73.5% respectively (±50 basis points)
+• As Blackwell ramps up, gross margins are expected to initially moderate to the low-70s (around 71-72.5%), before improving to mid-70s when fully ramped
+• Management indicated it's reasonable to expect gross margins could reach mid-70s in the second half of calendar 2025
+
+AI Strategy
+• Two fundamental shifts are driving NVIDIA's growth: 1) Moving from CPU-based coding to GPU-based machine learning, and 2) The emergence of generative AI and AI factories
+• Enterprise adoption of "agentic AI" is accelerating, with major companies like Accenture implementing AI applications that reduce manual work
+• AI scaling is happening in three ways: pre-training, post-training, and inference-time scaling
+• NVIDIA has become the largest inference platform globally, with continuous performance improvements
+• A new category of "physical AI" is emerging that understands the physical world, particularly valuable for industrial AI and robotics
+
+Cloud Strategy
+• Cloud service providers (CSPs) represented approximately half of data center sales, with revenue more than doubling year-over-year
+• Major cloud providers including AWS, CoreWeave, Microsoft Azure are offering NVIDIA H200-powered instances, with Google Cloud and OCI launching soon
+• Regional cloud revenue doubled year-over-year across North America, EMEA and Asia Pacific as providers ramped up NVIDIA instances and sovereign cloud buildouts
+• Major developments in sovereign cloud initiatives include: - India's leading providers Tata Communications and Yotta Data Services building AI infrastructure - SoftBank building Japan's most powerful AI supercomputer
+• Oracle announced plans for Zettascale AI Cloud computing clusters scaling to over 131,000 Blackwell GPUs
+
+Orders
+• Demand for Blackwell GPUs vastly exceeds supply
+• The company has seen substantial growth in H200 orders and rapid customer adoption
+• The networking business has a strong pipeline of orders from cloud service providers
+• Sovereign AI initiatives are generating significant order pipeline
+
+Inventory
+• Gaming channel inventory remains healthy as the company prepares for holiday season
+• Gaming supply constraints are expected to impact Q4 revenue despite strong Q3 sell-through
+• The gaming supply constraints are temporary and expected to improve in early 2024
+
+Competition
+• NVIDIA expects the market in China to remain very competitive, while they continue complying with export controls
+• NVIDIA positions their networking technology as superior to traditional Ethernet for AI workloads, citing performance advantages with their Spectrum-X technology
+
+Market Share
+• NVIDIA is described as "the largest inference platform in the world" due to their large installed base
+• In China, NVIDIA's Data Center revenue as a percentage of total Data Center revenue remains "well below levels prior to the onset of export controls"
+
+Capital Allocation
+• In Q3, NVIDIA returned $11.2 billion to shareholders through share repurchases and cash dividends
+• Regarding capex, NVIDIA is investing in building data centers for hardware/software development and new product support
+
+Labor
+• Accenture launched a new business group with 30,000 professionals trained on NVIDIA AI technology, and is implementing NVIDIA-powered AI applications across its 770,000 employee workforce
+• Indian IT companies Infosys, TSE, and Wipro are training nearly 500,000 developers and consultants on NVIDIA's AI platform
+
+Macro Environment
+Based on my review of the earnings call transcript, there were no direct discussions of macro factors like interest rates, inflation, GDP, or broader consumer spending trends. The discussion focused primarily on AI technology advancement, data center deployments, and company-specific performance metrics. Even when discussing gaming and consumer segments, the commentary was specific to NVIDIA's products and supply constraints rather than broader macro trends.
+
+Supply Chain
+• Blackwell production is in full swing and NVIDIA will deliver more Blackwells this quarter than previously estimated
+• The Blackwell system requires 7 different custom chips and can be configured in multiple ways (air/liquid cooled, different NVLink configurations, x86/Grace)
+• NVIDIA works with numerous key supply chain partners including TSMC, Amphenol, Vertiv, SK Hynix, Micron, Amkor, KYEC, Foxconn, Quanta, Wiwynn, Dell, HP, Super Micro, and Lenovo
+• Gaming segment is experiencing supply constraints which will impact Q4 revenue
+
+Pricing
+• The company expects gross
+margins to decline to the low-70s during initial Blackwell ramp
+before recovering to mid-70s when fully ramped
+• NVIDIA's strategy focuses on continuously improving performance and reducing costs for
+customers through their annual roadmap cadence
+Product Development
+• Blackwell is in full production after a successful mass change and will ship more units than
+previously estimated
+• The company shipped 13,000 GPU samples to customers in Q3, including one of the first
+Blackwell DGX engineering samples to OpenAI
+• Blackwell demonstrated significant performance improvements over Hopper in MLPerf Training
+results
+• The company launched new GeForce RTX AI PCs with partners
+• The company is developing seven different custom chips for Blackwell systems
+• NVIDIA plans to continue with their annual roadmap execution
