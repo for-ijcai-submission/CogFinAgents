@@ -2,7 +2,7 @@
 # The Cost of Cognition: Deconstructing Noise, Narratives, and Rationality in Financial Agents
 
 
-> For the public GitHub version, the `data/` folder contains **one month of preprocessed data** for ethical considerations.
+> The `data/` folder contains **one month of preprocessed data** for ethical considerations.
 
 
 ## 1) Quick Start
