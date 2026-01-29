@@ -10,18 +10,15 @@ assets_root: "./data"
 result_dir: "./simulation_results"
 
 agent_type_count:
-  A: 3
-  B: 3
-  C: 3
-  D: 3
+  A: 20
+  B: 20
+  C: 20
+  D: 20
 
 llm:
-  api_base: "https://api.nuwaapi.com/v1"
-# https://api.nuwaapi.com
-# https://api.nuwaapi.com/v1
-# https://api.nuwaapi.com/v1/chat/completions
-  api_key: "sk-Da8DCxrgangsjrxQnr7Z5oVjyj0v3r1NJNYPPWnGIcnpIOdz"
-  model: "openai/gpt-5-mini"
+  api_base: ""
+  api_key: ""
+  model: ""
   temperature: 0.5
   cache: false
 
