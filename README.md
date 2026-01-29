@@ -1,9 +1,8 @@
 # 2026IJCAI-7897submission
 # The Cost of Cognition: Deconstructing Noise, Narratives, and Rationality in Financial Agents
 
-This repository implements a configurable multi-agent financial market simulation. Agents observe daily multi-source signals (market, news, social, macro, company, on-chain), optionally retrieve episodic memory, and make trading decisions via an LLM.
 
-> For the public GitHub version, the `data/` folder contains **one month of preprocessed data** so that all experiments can be run without shipping the full proprietary dataset.
+> For the public GitHub version, the `data/` folder contains **one month of preprocessed data** for ethical considerations.
 
 
 ## 1) Quick Start
